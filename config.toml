@@ -1,0 +1,60 @@
+baseurl = "http://www.example.com"
+title = "Sean Mata"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+author = "Sean Mata"
+description = "A test website for Sean"
+keywords = "blog,developer,personal"
+info = ["Intelligent", "Handsome Guy"]
+avatarURL = "images/avatar.png"
+#gravatar = "john.doe@example.com"
+#footerContent = ""
+dateFormat = "January 2, 2006"
+hideFooter = true
+hideCredits = true
+hideCopyright = true
+since = 2019
+# Git Commit in Footer, uncomment the line below to enable it
+
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Enable Twemoji
+enableTwemoji = false
+
+
+#[taxonomies]
+#  category = "categories"
+#  series = "series"
+#  tag = "tags"
+#  author = "authors"
+
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
