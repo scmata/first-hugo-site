@@ -18,6 +18,8 @@ What I am interested in learning about right now: start ups, a career research i
 * To **"show my work"** or sell myself
 * **Inspire a culture** of "showing your work" in Oxford
 * Act as a point of **outreach and inspiration** to show how people like me can be successful
+
+[Read more about the reason why I made this website here.]({{< ref "/posts/why" >}} "Why I made this site")
 <!--
 Inspire people to build more successful lives
 -->
