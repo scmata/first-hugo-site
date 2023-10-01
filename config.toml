@@ -13,10 +13,10 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 author = "Sean Mata"
-description = "A test website for Sean"
+description = "A personal website for Sean"
 keywords = "blog,developer,personal"
-info = ["Intelligent", "Handsome Guy"]
-avatarURL = "images/avatar.png"
+info = ["3rd Year Engineer at the University of Oxford","RAEng Engineering Leaders Scholar","Formula One Scholar"]
+avatarURL = "images/avatar2.jpg"
 #gravatar = "john.doe@example.com"
 #footerContent = ""
 dateFormat = "January 2, 2006"
@@ -58,3 +58,15 @@ enableTwemoji = false
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Bio"
+  weight = 3
+  url = "bio/"
+[[menu.main]]
+  name = "Media"
+  weight = 4
+  url = "media/"
+[[menu.main]]
+  name = "Contact me"
+  weight = 5
+  url = "contact/"
