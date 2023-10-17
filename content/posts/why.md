@@ -124,4 +124,7 @@ Some interesting blogs I found while reading about blogging:
 * https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html
 * Also cool: [Peter Theil and Tyler Cowen](https://conversationswithtyler.com/episodes/peter-thiel/)
 
+17/10/2023 Post-post comment
+Paul Graham also has some interesting words about why it's useful to write [here](http://www.paulgraham.com/read.html)
+
 [comment]: # (just post things that make me think I guess. Also why did this take me like a day to write??)

@@ -5,7 +5,9 @@ draft: false
 ---
 My name is Sean Chidozie Mata. I am a student in Engineering Science at the University of Oxford. 
 
-What I am interested in learning about right now: start ups, a career research in industry and academia, engineering
+What I am interested in learning about right now: start ups, career prospects in industry and academia, engineering
+
+Currently reading: Man's Search For Meaning
 
 ## Goals:
 * Creating a sustainable, **happier and more equal** society
