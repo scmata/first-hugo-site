@@ -128,3 +128,7 @@ Some interesting blogs I found while reading about blogging:
 Paul Graham also has some interesting words about why it's useful to write [here](http://www.paulgraham.com/read.html)
 
 [comment]: # (just post things that make me think I guess. Also why did this take me like a day to write??)
+
+
+31/12/2024 Extra comment
+If you want to make a website like this, I used [Hugo](https://gohugo.io/getting-started/quick-start/) and [Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/).

@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 author = "Sean Mata"
 description = "A personal website for Sean"
 keywords = "blog,developer,personal"
-info = ["3rd Year Engineer at the University of Oxford","RAEng Engineering Leaders Scholar","Formula One Scholar"]
+info = ["Current Princeton University Exchange Student","4th Year Engineer at the University of Oxford","RAEng Engineering Leaders Scholar","Formula One Scholar"]
 avatarURL = "images/avatar2.jpg"
 #gravatar = "john.doe@example.com"
 #footerContent = ""
@@ -76,3 +76,8 @@ enableTwemoji = false
   name = "Contact me"
   weight = 6
   url = "contact/"
+
+[markup]
+[markup.tableOfContents]
+  startLevel = 3
+  endLevel = 3

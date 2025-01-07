@@ -12,8 +12,10 @@ Countries visited (in approximate order):
 * Greece (weeks)
 * Spain (months)
 * Portugal (weeks)
-* Italy (week)
+* Italy (week) - Pescara and Sicily
 * Morocco (week)
 * Korea (month)
+* The Netherlands (week)
+* The United States of America (four months so far)
 
 I can talk about any of these. Let me know if you want some stories :)

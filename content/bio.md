@@ -4,7 +4,7 @@ date: 2023-09-25T19:11:13+01:00
 draft: false
 ---
 
-A quick summary of some things I've done in my life. A type of "Professional Development Journal".
+A quick summary of some things I've done in my life. A type of "Professional Development Journal". Last updated: October 2023. (This needs an update!)
 
 # Second year of university
 ### Awards
