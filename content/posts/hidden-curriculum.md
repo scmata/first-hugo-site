@@ -20,6 +20,15 @@ However, there are many soft skills you learn in university which may or may not
 
 Here are some things to focus on and take advantage of if you're early in your university career.
 
+
+Learn how to learn
+This is maybe one of the best things you can do. I know people at Oxford University who spent 3 years improving their study habits, focusing on ineffective methods. If they had focus on refining their study techniques at the beginning of their journey, they could have saved days of stress balancing their academic and extra curricular life while trying to get good grades. If there's one thing you do before starting university, learning how to learn would be one of the most useful. Especially because for many people the stlye of learning is a step up because it is so much more independent. In first year in the UK, exams don't count for much if at all, so I would focus on trying a bunch of different styles of learning and revision and seeing what works for you. Importantly, you also need to be good at using feedback to improve your methods.
+
+Learn to learn the content. Learn to pass the exam.
+
+Generally the ability to focus and block of time to allow that.
+And to channel that energy into effective study strategies. 
+
 Career
 
 Most people go to university in hopes of finding a well paying job at the end. Get familiar with your universities' career service early and what help they can offer. Make especially good use of 1 on 1 appointments since these can be one of the best ways to get advice from somebody who knows what they're talking about. In my experience, they are best for asking specific questions. Such as "is this CV good? how can I improve it". Harder/more open-ended questions are much more difficult to answer for everyone.
@@ -51,7 +60,9 @@ University is often a time where people make some of their lifelong friendships.
 Extra curriculars
 Sports and arts.
 
-This is one of the things that might be most new to you.
+This is one of the things that might be most new to you. Extra curriculars can be a big opporutunity in the UK. You will be surrounded by many people the same age who want to do *stuff*. Generally, if you can think of it there's probably a society for it. If not, there would probably be at least a few people interested if you created the society, which would also be a great learning experience.
+
+I would say it is a good idea to try many different societies when you first join university to explore your interests and maybe find new ones. This is also a good opportunity to meet people from other years. Generally, if you are on a three year degree people will have their largest leadership roles in societies in their second year, so starting quickly is a good idea. For people on four year degrees typically timing is more spreadout, with presidents of societies in second, third and fourth year generally.
 
 
 

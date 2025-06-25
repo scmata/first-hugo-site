@@ -11,7 +11,16 @@ externalLink = ""
 series = []
 +++
 
+Learning is split up into hard skills/soft skills/wisdom and dirction (and information to feed your type 1 system) e.g. what your dad would tell you
 
+learning how to dance/how to improv/how to do maths code
+
+look for mentors that have experience teaching, because it's a skill and if they dont have it it won't be as a efficient
+
+the idea of "levels" of environment
+
+exploration vs exploitation
+going into a new environment shows u differences and teaches more about what you should do
 
 The framework I use for learning in my 20s
 
@@ -46,7 +55,7 @@ implement lessons, get feedback and review
 
 build measure learn
 
-First of all, we need to be aware of the three ways of gaining knowledge. They are: 1. By being surrounded in an environment of people who possess a skill you do not, 2. By having a good teacher or mentor. A good teacher will be able to teach/explain what you ask them to, an excellent mentor will test and find the gaps in your knowledge, and give you the most important details. 3. By learning it independently. Usually by a combination of books, podcasts and the internet. The secret sauce that underlies all of these methods is applying the lesson you learn through trial and error (otherwise your learning is mood). When you are looking to learn a new skill, you want to maximise the environment or the quality of your teacher/mentors.
+First of all, we need to be aware of the three ways of gaining knowledge. They are: 1. By being surrounded in an environment of people who possess a skill you do not, 2. By having a good teacher or mentor. A good teacher will be able to teach/explain what you ask them to, an excellent mentor will test and find the gaps in your knowledge, and give you the most important details. 3. By learning it independently. Usually by a combination of books, podcasts and the internet. The secret sauce that underlies all of these methods is applying the lesson you learn through trial and error (otherwise your learning is moot). When you are looking to learn a new skill, you want to maximise the environment or the quality of your teacher/mentors.
 
 lots of people do these things intuitively
 
@@ -90,7 +99,12 @@ we don't apply social learning with intention, we do it where it happens, where 
 
 we don't do it oerall
 
-learn to invent wheel, then innovate. E.g. learn entrepreneurship, learn pet based entrepreneurship, then innovate with your own pet shop
+learn to invent wheel (i.e. get the quick gains first), then innovate. E.g. learn entrepreneurship, learn pet based entrepreneurship, then innovate with your own pet shop
+
+read the best books first book
+some areas people know a lot about e.g. maths
+
+some areas people don't/have differing opinions e.g. philoophy of life so need to erad more widely for holistic view, but learn from the most accomplished and best at teaching first. those who teach are most comfortable teaching at the level below because they have just experienced it, but that isnt a rule
 
 networking
 
