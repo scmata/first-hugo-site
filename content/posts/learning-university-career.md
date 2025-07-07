@@ -15,9 +15,13 @@ Learning is split up into hard skills/soft skills/wisdom and dirction (and infor
 
 learning how to dance/how to improv/how to do maths code
 
+you need experience for everything e.g. leadership
+
 look for mentors that have experience teaching, because it's a skill and if they dont have it it won't be as a efficient
 
 the idea of "levels" of environment
+gymshark idea of personal rate of change vs company rate of change
+
 
 exploration vs exploitation
 going into a new environment shows u differences and teaches more about what you should do

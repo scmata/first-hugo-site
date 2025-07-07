@@ -31,3 +31,5 @@ Friendships are important
 
 
 Wow, what an experience. I feel grateful for the opppornity to step outside my comfort zone but boy was I out of my comfort zone.
+
+Does anyone else take ages to write a good email?
