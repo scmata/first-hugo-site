@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    label {
+      display: block;
+      margin-top: 10px;
+    }
+    input {
+      width: 100%;
+      padding: 8px;
+      margin-top: 4px;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px;
+      font-size: 16px;
+    }
+    #results {
+      margin-top: 30px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 5px);
+      gap: 1px;
+      max-height: 1000px;
+      overflow-y: auto;
+    }
+    .cell {
+      width: 5px;
+      height: 5px;
+      border: 1px solid #ccc;
+    }
+    .filled {
+      background-color: #3498db;
+      border: none;
+    }
+    .booking-buttons {
+      display: none;
+      margin-top: 30px;
+    }
+    .booking-buttons button {
+      margin-right: 10px;
+      padding: 12px 20px;
+      font-size: 18px;
+      background-color: #2ecc71;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    .booking-buttons button:hover {
+      background-color: #27ae60;
+    }
+  </style>
+</head>
+<body>
+  Inspired by <a href="https://waitbutwhy.com/2015/12/the-tail-end.html">Tim Urban</a> (Wait but Why)
+
+  <form id="timeForm">
+    <label>Name
+      <input type="text" id="name" required>
+    </label>
+    <label>Their Birthday
+      <input type="date" id="birthday" required>
+    </label>
+    <label>Their Life Expectancy (years)
+      <input type="number" id="theirLifeExpectancy" required>
+    </label>
+    <label>Your Life Expectancy (years)
+      <input type="number" id="yourLifeExpectancy" required>
+    </label>
+    <label>How many days per year you spent with them in the past
+      <input type="number" id="pastDaysPerYear" required>
+    </label>
+    <label>For how many years was that the case?
+      <input type="number" id="pastYears" required>
+    </label>
+    <label>How many days per year you currently spend with them
+      <input type="number" id="currentDaysPerYear" required>
+    </label>
+    <button type="submit">Calculate</button>
+  </form>
+
+  <div id="results"></div>
+  <div class="grid" id="grid"></div>
+
+  <div class="booking-buttons" id="bookingButtons">
+    <button onclick="window.open('https://www.google.com/flights', '_blank')">Book a Flight</button>
+    <button onclick="window.open('https://www.thetrainline.com', '_blank')">Book a Train</button>
+  </div>
+
+  <script>
+    const form = document.getElementById('timeForm');
+    const results = document.getElementById('results');
+    const grid = document.getElementById('grid');
+    const bookingButtons = document.getElementById('bookingButtons');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      const name = document.getElementById('name').value;
+      const birthday = new Date(document.getElementById('birthday').value);
+      const theirLifeExpectancy = parseFloat(document.getElementById('theirLifeExpectancy').value);
+      const yourLifeExpectancy = parseFloat(document.getElementById('yourLifeExpectancy').value);
+      const pastDaysPerYear = parseFloat(document.getElementById('pastDaysPerYear').value);
+      const pastYears = parseFloat(document.getElementById('pastYears').value);
+      const currentDaysPerYear = parseFloat(document.getElementById('currentDaysPerYear').value);
+
+      const today = new Date();
+      const theirExpectedDeath = new Date(birthday);
+      theirExpectedDeath.setFullYear(theirExpectedDeath.getFullYear() + theirLifeExpectancy);
+
+      const yourExpectedDeath = new Date();
+      yourExpectedDeath.setFullYear(today.getFullYear() + yourLifeExpectancy);
+
+      const end = new Date(Math.min(theirExpectedDeath, yourExpectedDeath));
+      const totalYearsLeft = (end - today) / (1000 * 60 * 60 * 24 * 365.25);
+      const totalFutureDays = Math.floor(currentDaysPerYear * totalYearsLeft);
+      const totalPastDays = Math.floor(pastDaysPerYear * pastYears);
+      const totalDaysTogether = totalPastDays + totalFutureDays;
+      const totalLifetimeDays = totalDaysTogether + 0.01; // prevent divide-by-zero
+      const percentSpent = Math.round(100 * totalPastDays / totalLifetimeDays);
+
+      results.innerHTML = `
+        <h2>Results for ${name}</h2>
+        <p><strong>Total days spent with them:</strong> ${totalPastDays}</p>
+        <p><strong>Estimated future days left:</strong> ${totalFutureDays}</p>
+        <p><strong>Percentage of time already spent together:</strong> ${percentSpent}%</p>
+      `;
+
+      grid.innerHTML = '';
+      const totalBlocks = totalPastDays + totalFutureDays;
+      for (let i = 0; i < totalBlocks; i++) {
+        const cell = document.createElement('div');
+        cell.className = 'cell';
+        if (i < totalPastDays) cell.classList.add('filled');
+        grid.appendChild(cell);
+      }
+
+      bookingButtons.style.display = 'block';
+    });
+  </script>
+</body>
+</html>

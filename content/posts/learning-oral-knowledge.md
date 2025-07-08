@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-
+split into two articles? -> one about independent learning, the other about general learning
 
 
 The framework I use for learning in my 20s
@@ -160,3 +160,5 @@ Now here is my list of resources:
 
 
 The secret fourth method is trial and error, however this forms a key component of all the other methods in fact. It is the "secret sauce".
+
+trade off between read the best books first and just getting started

@@ -24,10 +24,19 @@
   <ul style="list-style: none; padding-left: 0; font-weight: normal;" id="year-labels-list"></ul>
 </div>
 
+<div id="time-to-double" style="margin-top: 1rem; font-size: 1.6rem; font-weight: normal;"></div>
+
+
 
 
 <!-- Inline styling (or move to CSS file) -->
 <style>
+    body {
+      font-family: sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
   input {
     width: 100%;
     padding: 0.5rem;
@@ -103,18 +112,25 @@ function updateChart() {
 }
 
 function updateLabels(initial, rate) {
-  const yearsToShow = [1, 2, 5, 10, 20,30,40,50];
+  const yearsToShow = [1, 2, 5, 10, 20, 30, 40, 50];
   const ul = document.getElementById('year-labels-list');
   ul.innerHTML = '';
 
+  // Exact time to double
+  const r = rate / 100;
+  const timeToDouble = Math.log(2) / Math.log(1 + r);
+  const doubleDiv = document.getElementById('time-to-double');
+  doubleDiv.textContent = `(Exact time to double: ${timeToDouble.toFixed(2)} years)`;
+
   yearsToShow.forEach(year => {
-    const value = initial * Math.pow(1 + rate / 100, year);
+    const value = initial * Math.pow(1 + r, year);
     const multiplier = value / initial;
     const li = document.createElement('li');
     li.textContent = `Year ${year}: £${value.toFixed(2)} (x${multiplier.toFixed(2)})`;
     ul.appendChild(li);
   });
 }
+
 
 
   document.querySelectorAll('input').forEach(input => {

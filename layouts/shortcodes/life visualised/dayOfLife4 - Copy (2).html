@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8" />
+  <title>Life in Days (Block View) - Inline Edit & Add</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f5f5f5;
+      font-family: sans-serif;
+    }
+    h1 {
+      text-align: center;
+      padding: 1rem;
+    }
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .legend-container {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      flex: 1;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: white;
+      padding: 6px 8px;
+      border-radius: 6px;
+      box-shadow: 0 0 6px #ccc;
+      min-width: 250px;
+      position: relative;
+    }
+    .color-box {
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      border-radius: 3px;
+      border: 1px solid #999;
+    }
+    .remove-btn {
+      cursor: pointer;
+      font-weight: bold;
+      color: #c00;
+      background: transparent;
+      border: none;
+      font-size: 16px;
+      line-height: 1;
+      user-select: none;
+      margin-left: auto;
+      padding: 0;
+    }
+    .remove-btn:hover {
+      color: #f44;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(5px, 1fr));
+      gap: 1px;
+      padding: 10px;
+      max-width: 100vw;
+      box-sizing: border-box;
+      border: 1px solid #ddd;
+      height: 200px;
+      overflow-y: auto;
+    }
+    .day {
+      width: 5px;
+      height: 5px;
+    }
+    button#addCategoryBtn {
+      background: #28a745;
+      border: none;
+      border-radius: 5px;
+      color: white;
+      font-size: 1.25rem;
+      line-height: 1;
+      padding: 4px 12px;
+      cursor: pointer;
+      height: 32px;
+      align-self: flex-start;
+      user-select: none;
+      transition: background-color 0.3s ease;
+    }
+    button#addCategoryBtn:hover {
+      background: #1e7e34;
+    }
+    input[type="number"], input[type="text"], input[type="color"] {
+      font-size: 0.9rem;
+      padding: 2px 5px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      width: 50px;
+      text-align: center;
+      background: #fafafa;
+      transition: border-color 0.3s ease;
+    }
+    input[type="number"]:focus, input[type="text"]:focus {
+      border-color: #007bff;
+      outline: none;
+      background: white;
+    }
+    .category-name {
+      font-weight: 600;
+      min-width: 80px;
+      user-select: none;
+    }
+    .category-inputs {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .category-inputs > div {
+      display: flex;
+      flex-direction: column;
+      font-size: 0.75rem;
+      color: #555;
+      user-select: none;
+    }
+    .category-inputs label {
+      font-size: 0.65rem;
+      margin-bottom: 2px;
+      user-select: none;
+    }
+    .tooltip {
+      font-size: 0.65rem;
+      color: #666;
+      font-style: italic;
+      margin-left: 6px;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>How We Spend Our Life (Blocks View)</h1>
+
+    <div class="legend-container">
+      <div class="legend" id="legend"></div>
+      <button id="addCategoryBtn" title="Add new category">＋</button>
+    </div>
+
+    <div class="grid" id="lifeGrid"></div>
+  </div>
+
+  <script>
+    const totalYears = 90;
+    const totalDays = totalYears * 365;
+    const OTHER_CATEGORY_NAME = "Other";
+
+    // Initial base categories
+    let categories = [
+      { name: "Sleeping",       color: "#333333", hoursPerDay: 8 },
+      { name: "Working",        color: "#007bff", hoursPerWeek: 40, activeFromAge: 20, activeToAge: 65 },
+      { name: "Screen Time",    color: "#e91e63", hoursPerDay: 4 },
+      { name: "Eating",         color: "#ff9800", hoursPerDay: 1 },
+      { name: "Commuting",      color: "#4caf50", hoursPerDay: 1 },
+      { name: "Personal Care",  color: "#9c27b0", hoursPerDay: 1 },
+      { name: "Housework",      color: "#795548", hoursPerDay: 1 },
+    ];
+
+    function daysForCategory(cat) {
+      if (cat.hoursPerDay !== undefined && cat.hoursPerDay !== null) {
+        const totalHours = cat.hoursPerDay * totalDays;
+        return totalHours / 24;
+      } else if (cat.hoursPerWeek !== undefined && cat.activeFromAge !== undefined && cat.activeToAge !== undefined) {
+        const yearsWorked = cat.activeToAge - cat.activeFromAge;
+        if (yearsWorked <= 0) return 0;
+        const weeksWorked = yearsWorked * 52;
+        const totalHours = cat.hoursPerWeek * weeksWorked;
+        return totalHours / 24;
+      }
+      return 0;
+    }
+
+    function calculateDays() {
+      let usedDays = 0;
+      categories.forEach(cat => {
+        cat.days = daysForCategory(cat);
+        usedDays += cat.days;
+      });
+      return usedDays;
+    }
+
+    function renderGrid() {
+      const grid = document.getElementById("lifeGrid");
+      grid.innerHTML = "";
+
+      const usedDays = calculateDays();
+      const otherDays = totalDays - usedDays;
+
+      // Create a temporary copy of categories plus Other
+      const allCats = [...categories];
+      const otherIndex = allCats.findIndex(c => c.name === OTHER_CATEGORY_NAME);
+      if (otherIndex >= 0) {
+        allCats[otherIndex].days = otherDays;
+      } else {
+        allCats.push({ name: OTHER_CATEGORY_NAME, color: "#cccccc", days: otherDays });
+      }
+
+      allCats.sort((a,b) => (a.name === OTHER_CATEGORY_NAME ? 1 : b.name === OTHER_CATEGORY_NAME ? -1 : 0));
+
+      allCats.forEach(cat => {
+        const count = Math.round(cat.days);
+        for (let i = 0; i < count; i++) {
+          const dayDiv = document.createElement("div");
+          dayDiv.className = "day";
+          dayDiv.style.backgroundColor = cat.color;
+          dayDiv.title = cat.name;
+          grid.appendChild(dayDiv);
+        }
+      });
+    }
+
+    function renderLegend() {
+      const legendDiv = document.getElementById("legend");
+      legendDiv.innerHTML = "";
+
+      categories.forEach((cat, index) => {
+        const item = document.createElement("div");
+        item.className = "legend-item";
+
+        const colorBox = document.createElement("div");
+        colorBox.className = "color-box";
+        colorBox.style.backgroundColor = cat.color;
+        item.appendChild(colorBox);
+
+        // Category name (not editable)
+        const nameSpan = document.createElement("span");
+        nameSpan.className = "category-name";
+        nameSpan.textContent = cat.name;
+        item.appendChild(nameSpan);
+
+        // Editable inputs container
+        const inputsDiv = document.createElement("div");
+        inputsDiv.className = "category-inputs";
+
+        if (cat.name.toLowerCase() === "working") {
+          // For working: show hours/week, active from age, active to age
+          const hoursWeekDiv = createInputWithLabel("hoursPerWeek", "hrs/week", cat.hoursPerWeek, index);
+          const fromAgeDiv = createInputWithLabel("activeFromAge", "from age", cat.activeFromAge, index);
+          const toAgeDiv = createInputWithLabel("activeToAge", "to age", cat.activeToAge, index);
+          inputsDiv.appendChild(hoursWeekDiv);
+          inputsDiv.appendChild(fromAgeDiv);
+          inputsDiv.appendChild(toAgeDiv);
+        } else {
+          // For other categories: show hours/day only
+          const hoursDayDiv = createInputWithLabel("hoursPerDay", "hrs/day", cat.hoursPerDay, index);
+          inputsDiv.appendChild(hoursDayDiv);
+        }
+        item.appendChild(inputsDiv);
+
+        // Color picker inline
+        const colorInput = document.createElement("input");
+        colorInput.type = "color";
+        colorInput.value = cat.color;
+        colorInput.title = "Change color";
+        colorInput.style.marginLeft = "8px";
+        colorInput.style.cursor = "pointer";
+        colorInput.addEventListener("input", e => {
+          categories[index].color = e.target.value;
+          renderGrid();
+          renderLegend(); // update colors on legend too
+        });
+        item.appendChild(colorInput);
+
+        // Remove button except for "Other"
+        if (cat.name !== OTHER_CATEGORY_NAME) {
+          const removeBtn = document.createElement("button");
+          removeBtn.className = "remove-btn";
+          removeBtn.title = "Remove category";
+          removeBtn.textContent = "×";
+          removeBtn.onclick = () => {
+            categories.splice(index, 1);
+            renderLegend();
+            renderGrid();
+          };
+          item.appendChild(removeBtn);
+        }
+
+        legendDiv.appendChild(item);
+      });
+    }
+
+    // Helper to create labeled input, and listen for changes
+    function createInputWithLabel(prop, labelText, value, catIndex) {
+      const container = document.createElement("div");
+      const label = document.createElement("label");
+      label.textContent = labelText;
+      label.htmlFor = `${prop}-${catIndex}`;
+      container.appendChild(label);
+
+      const input = document.createElement("input");
+      input.type = prop.includes("Age") ? "number" : "number";
+      input.min = 0;
+      if (prop.includes("Age")) {
+        input.max = 90;
+        input.step = 1;
+      } else {
+        input.step = 0.1;
+      }
+      input.id = `${prop}-${catIndex}`;
+      input.value = value !== undefined ? value : "";
+      input.style.width = "55px";
+
+      // Listen for changes, update category data, and rerender grid
+      input.addEventListener("change", (e) => {
+        let val = e.target.value;
+        if (val === "") return; // ignore empty input
+
+        if (prop.includes("Age")) {
+          val = parseInt(val);
+          if (isNaN(val) || val < 0 || val > 90) {
+            alert("Age must be between 0 and 90.");
+            e.target.value = categories[catIndex][prop] || "";
+            return;
+          }
+        } else {
+          val = parseFloat(val);
+          if (isNaN(val) || val < 0) {
+            alert("Hours must be a positive number.");
+            e.target.value = categories[catIndex][prop] || "";
+            return;
+          }
+        }
+        categories[catIndex][prop] = val;
+
+        // Validate working age range if applicable
+        if (categories[catIndex].hoursPerWeek !== undefined) {
+          if (
+            categories[catIndex].activeFromAge !== undefined &&
+            categories[catIndex].activeToAge !== undefined &&
+            categories[catIndex].activeFromAge >= categories[catIndex].activeToAge
+          ) {
+            alert("Active From Age must be less than Active To Age.");
+            // revert change
+            e.target.value = categories[catIndex][prop];
+            return;
+          }
+        }
+
+        renderGrid();
+      });
+
+      container.appendChild(input);
+      return container;
+    }
+
+    // Add category modal (simple prompt-based)
+    function addCategory() {
+      const name = prompt("Enter new category name:");
+      if (!name || !name.trim()) return alert("Category name cannot be empty.");
+      if (categories.some(c => c.name.toLowerCase() === name.toLowerCase())) {
+        return alert("Category with this name already exists.");
+      }
+      const color = prompt("Enter color in hex format (e.g. #ff8800):", "#ff0000");
+      if (!color || !/^#([0-9a-f]{3}){1,2}$/i.test(color)) {
+        return alert("Invalid color.");
+      }
+
+      // Ask if work-type category
+      const isWork = confirm("Is this a work category? (hours per week with active age range)");
+
+      let newCat = { name, color };
+
+      if (isWork) {
+        let hoursPerWeek = prompt("Enter hours per week (e.g. 40):", "40");
+        hoursPerWeek = parseFloat(hoursPerWeek);
+        if (isNaN(hoursPerWeek) || hoursPerWeek < 0) return alert("Invalid hours per week.");
+
+        let activeFromAge = prompt("Enter active from age (e.g. 20):", "20");
+        activeFromAge = parseInt(activeFromAge);
+        if (isNaN(activeFromAge) || activeFromAge < 0 || activeFromAge > 90) return alert("Invalid active from age.");
+
+        let activeToAge = prompt("Enter active to age (e.g. 65):", "65");
+        activeToAge = parseInt(activeToAge);
+        if (isNaN(activeToAge) || activeToAge <= activeFromAge || activeToAge > 90) return alert("Invalid active to age.");
+
+        newCat.hoursPerWeek = hoursPerWeek;
+        newCat.activeFromAge = activeFromAge;
+        newCat.activeToAge = activeToAge;
+      } else {
+        let hoursPerDay = prompt("Enter hours per day (e.g. 2):", "2");
+        hoursPerDay = parseFloat(hoursPerDay);
+        if (isNaN(hoursPerDay) || hoursPerDay < 0) return alert("Invalid hours per day.");
+        newCat.hoursPerDay = hoursPerDay;
+      }
+
+      categories.push(newCat);
+      renderLegend();
+      renderGrid();
+    }
+
+    // Init
+    function init() {
+      renderLegend();
+      renderGrid();
+
+      document.getElementById("addCategoryBtn").addEventListener("click", addCategory);
+    }
+
+    init();
+  </script>
+</body>
+</html>

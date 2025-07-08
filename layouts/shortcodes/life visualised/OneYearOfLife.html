@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>One Year in Days</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 1rem;
+      font-family: sans-serif;
+      background-color: #fdfdfd;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(31, 1fr); /* Max days in month */
+      gap: 2px;
+      justify-content: center;
+      max-width: 100%;
+    }
+    .day {
+      width: 15px;
+      height: 15px;
+      background-color: #ddd;
+      border-radius: 2px;
+    }
+    .day:hover {
+      background-color: #888;
+      cursor: pointer;
+    }
+    .month-label {
+      text-align: center;
+      margin-top: 1.5rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>One Year in Days</h1>
+  <div id="calendar"></div>
+
+  <script>
+    const months = [
+      { name: "January", days: 31, color: "#e0f7fa" },
+      { name: "February", days: 28, color: "#f1f8e9" },
+      { name: "March", days: 31, color: "#fff9c4" },
+      { name: "April", days: 30, color: "#ffe0b2" },
+      { name: "May", days: 31, color: "#f8bbd0" },
+      { name: "June", days: 30, color: "#d1c4e9" },
+      { name: "July", days: 31, color: "#b3e5fc" },
+      { name: "August", days: 31, color: "#c8e6c9" },
+      { name: "September", days: 30, color: "#ffecb3" },
+      { name: "October", days: 31, color: "#ffe082" },
+      { name: "November", days: 30, color: "#ffccbc" },
+      { name: "December", days: 31, color: "#d7ccc8" },
+    ];
+
+    const container = document.getElementById("calendar");
+
+    months.forEach(month => {
+      const label = document.createElement("div");
+      label.className = "month-label";
+      label.textContent = month.name;
+      container.appendChild(label);
+
+      const grid = document.createElement("div");
+      grid.className = "grid";
+
+      for (let i = 0; i < month.days; i++) {
+        const day = document.createElement("div");
+        day.className = "day";
+        day.style.backgroundColor = month.color;
+        grid.appendChild(day);
+      }
+
+      container.appendChild(grid);
+    });
+  </script>
+</body>
+</html>

@@ -95,6 +95,12 @@ Ben Francis
 
 # Other stuff to read
 [Transformer inference arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
+
+[boring business](https://www.youtube.com/watch?v=fxiHbx_1d-E)
+
+[dominic cummings brexit](https://dominiccummings.com/2017/01/09/on-the-referendum-21-branching-histories-of-the-2016-referendum-and-the-frogs-before-the-storm-2/)
+[dominic cummings on being effective](https://dominiccummings.com/2017/06/12/the-unrecognised-simplicities-of-effective-action-2b-the-apollo-programme-the-tory-train-wreck-and-advice-to-spads-starting-work-today/)
+
 [BK leadership](https://www.benkuhn.net/leadcats/)
 [BK time management](https://www.benkuhn.net/tmgr/)
 [More BK](https://guzey.com/interviews/ben-kuhn/)
@@ -102,6 +108,8 @@ Ben Francis
 [nigeria](https://mattlakeman.org/2023/05/09/notes-on-nigeria/)
 [patrick collison](https://patrickcollison.com/about)
 [The idea factory](https://patrickcollison.com/labs)
+
+[mental models](https://fs.blog/mental-models/)
 
 [what NYT best seller actually means](https://www.youtube.com/watch?v=oqE_3CQpQf4)
 [on how to learn how to be a SWE](https://www.youtube.com/watch?v=EnuuGd5xYbE)
@@ -118,6 +126,11 @@ why sreaming sucks
 He actually has a surprisingly good point. Our culture’s obsession with “tech” over the last 10-15 years turns out not to really be about tech. It’s about network effects and memetics. Bitcoin embodies this better than anything.
 [YT video on management consulting](https://www.youtube.com/watch?v=-GURIMZqS7Y)
 
+[elon1](https://archive.is/ROP0B)
+[elon2](https://archive.is/UXRG4)
+
+AI research
+[text](https://www.youtube.com/watch?v=A_WCaFmQaIw)
 
 my spending habits of seniors chatgpt thing
 - aman manzir interview with ali abdaal
@@ -282,7 +295,7 @@ Basically that you worked hard at something, and the you do an additional skills
 
 I think the scott galloway thing said happiness is 20% genetic
 
-There must be a list of biases from popular meeding
+There must be a list of biases from popular media
 - 
 Biases from popular media
 
@@ -527,3 +540,62 @@ neetcode
 
 
 [jeff delaney](https://www.youtube.com/watch?v=XRoSBWYMefY&ab_channel=CultRepo%28formerlyHoneypot%29)
+
+"Advice number 2 reminds me of this silly tiny change that made my life so much better! All I did was spend about $3 on a charger cable that's way too short to reach my bed from the outlet and I gave my long cable away. At nights, I had no choice but to leave my phone away from me when the battery died and I could no longer watch tiktok for hours. Self control and discipline is definitely overrated in the sense of what we hear on social media... Your own brain would never stop you from your addiction on its own. You need to force it to find your addiction too inconvenient."
+
+[https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+
+math development. stage 2
+
+[life is so much more than studying](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-grades-and-exams-and-methods/)
+
+
+[TT says cult of genius does not exist](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
+
+You shouldn't be distracted by big problems too much. You need to contribute by solving the normal problems too.
+
+[genius takes a lot of work](https://talentdevelop.com/articles/HTBAG.html)
+
+[continually aim just beuond your current range](https://terrytao.wordpress.com/career-advice/continually-aim-just-beyond-your-current-range/)
+
+[https://www.cold-takes.com/most-important-century/#Summary](https://www.cold-takes.com/most-important-century/#Summary)
+
+interesting size of economy graph. kink and upwards trend around 1900.
+
+https://www.benkuhn.net/hard/
+
+https://www.benkuhn.net/11/
+
+[choose boring technology](https://mcfunley.com/choose-boring-technology)
+
+[weekly review BK](https://www.benkuhn.net/weekly/)
+
+[move fast](https://www.benkuhn.net/impatient/)
+[move fast 2](https://sive.rs/kimo)#
+
+[you dont need to solve hard problems](https://www.benkuhn.net/hard/)
+
+[make success inevitable](https://www.benkuhn.net/impact/)
+
+[tacit knowledge](https://commoncog.com/tacit-knowledge-is-a-real-thing/)
+-wonder how this affects AI model development. no traiing data for tacit knowledge
+
+[mental models](https://commoncog.com/the-mental-model-fallacy/)
+-people learn through experience
+
+[BK conviction](https://www.benkuhn.net/conviction/)
+-you actually understand something when you have a generative/actual mental model of what something is like
+
+[https://www.youngmoney.co/p/investing-in-creators](https://www.youngmoney.co/p/investing-in-creators)
+
+content creation is a one to many relationship
+
+not to turn your passion into your day job/do what you love
+
+engineering is about working to a specification, not as much about defining the question
+
+[learning through the process of grappling-links to simon sinek thing](https://www.youtube.com/watch?v=A_WCaFmQaIw)
+
+i write to find out what I think
+
+you can't do everything in a night-the build up is what matters

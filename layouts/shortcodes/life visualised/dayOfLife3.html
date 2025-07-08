@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Customize Your Life Timeline</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      text-align: center;
+      padding: 1rem;
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      margin: 1rem;
+    }
+
+    .control-group {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .control-group label {
+      font-size: 0.9rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .legend {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 1rem;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .color-box {
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+    }
+
+    /* Scroll container with fixed height for 30 rows */
+    .grid-container {
+      overflow-x: auto;
+      width: 100%;
+      height: 350px; /* ~30 cells tall (5px + 1px gap) * 90 */
+      border: 1px solid #ccc;
+      background: white;
+    }
+
+    .grid {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: 5px;
+      grid-template-rows: repeat(90, 5px);
+      gap: 1px;
+      padding: 10px;
+      white-space: nowrap;
+      height: 100%;
+    }
+
+    .day {
+      width: 5px;
+      height: 5px;
+    }
+
+    .total-warning {
+      text-align: center;
+      color: red;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Customize Your Life Timeline (90 Years)</h1>
+
+  <div class="controls">
+    <div class="control-group">
+      <label>Sleep (%): <span id="sleepVal">33</span></label>
+      <input type="range" min="0" max="100" value="33" id="sleep" />
+    </div>
+    <div class="control-group">
+      <label>With Parents (%): <span id="parentsVal">20</span></label>
+      <input type="range" min="0" max="100" value="20" id="parents" />
+    </div>
+    <div class="control-group">
+      <label>Working (%): <span id="workVal">13</span></label>
+      <input type="range" min="0" max="100" value="13" id="work" />
+    </div>
+    <div class="control-group">
+      <label>Social Media (%): <span id="socialVal">16</span></label>
+      <input type="range" min="0" max="100" value="16" id="social" />
+    </div>
+    <div class="control-group">
+      <label>Toilet (%): <span id="toiletVal">3</span></label>
+      <input type="range" min="0" max="100" value="3" id="toilet" />
+    </div>
+  </div>
+
+  <div class="total-warning" id="warning"></div>
+
+  <div class="legend">
+    <div class="legend-item"><div class="color-box" style="background:#333;"></div> Sleeping</div>
+    <div class="legend-item"><div class="color-box" style="background:#ff9800;"></div> With Parents</div>
+    <div class="legend-item"><div class="color-box" style="background:#007bff;"></div> Working</div>
+    <div class="legend-item"><div class="color-box" style="background:#e91e63;"></div> Social Media</div>
+    <div class="legend-item"><div class="color-box" style="background:#4caf50;"></div> Toilet</div>
+    <div class="legend-item"><div class="color-box" style="background:#ccc;"></div> Other</div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid" id="lifeGrid"></div>
+  </div>
+
+  <script>
+    const totalDays = 90 * 365;
+    const grid = document.getElementById("lifeGrid");
+
+    const sliders = {
+      sleep: { color: "#333", element: document.getElementById("sleep"), label: document.getElementById("sleepVal") },
+      parents: { color: "#ff9800", element: document.getElementById("parents"), label: document.getElementById("parentsVal") },
+      work: { color: "#007bff", element: document.getElementById("work"), label: document.getElementById("workVal") },
+      social: { color: "#e91e63", element: document.getElementById("social"), label: document.getElementById("socialVal") },
+      toilet: { color: "#4caf50", element: document.getElementById("toilet"), label: document.getElementById("toiletVal") },
+    };
+
+    const warning = document.getElementById("warning");
+
+    function updateGrid() {
+      // Get percentages
+      const values = {};
+      let total = 0;
+      for (const key in sliders) {
+        const val = parseInt(sliders[key].element.value);
+        sliders[key].label.textContent = val;
+        values[key] = val;
+        total += val;
+      }
+
+      // Show warning if over 100%
+      if (total > 100) {
+        warning.textContent = `Total exceeds 100% (${total}%) — reduce some values`;
+        grid.innerHTML = '';
+        return;
+      } else {
+        warning.textContent = '';
+      }
+
+      // Calculate day blocks
+      const dayBlocks = [];
+      for (const key in values) {
+        const days = Math.round((values[key] / 100) * totalDays);
+        dayBlocks.push({ color: sliders[key].color, days });
+      }
+      // Fill remaining as 'Other'
+      const used = dayBlocks.reduce((sum, block) => sum + block.days, 0);
+      dayBlocks.push({ color: "#ccc", days: totalDays - used });
+
+      // Draw grid
+      grid.innerHTML = '';
+      dayBlocks.forEach(block => {
+        for (let i = 0; i < block.days; i++) {
+          const day = document.createElement("div");
+          day.className = "day";
+          day.style.backgroundColor = block.color;
+          grid.appendChild(day);
+        }
+      });
+    }
+
+    // Add event listeners
+    for (const key in sliders) {
+      sliders[key].element.addEventListener("input", updateGrid);
+    }
+
+    updateGrid();
+  </script>
+</body>
+</html>

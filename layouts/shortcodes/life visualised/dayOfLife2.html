@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Life in Days (Block View)</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f5f5f5;
+      font-family: sans-serif;
+    }
+    h1 {
+      text-align: center;
+      padding: 1rem;
+    }
+    .legend {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 1rem;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .color-box {
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(5px, 1fr));
+      gap: 1px;
+      padding: 10px;
+      max-width: 100vw;
+      box-sizing: border-box;
+    }
+    .day {
+      width: 5px;
+      height: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>How We Spend Our Life (Blocks View)</h1>
+  <div class="legend">
+    <div class="legend-item"><div class="color-box" style="background:#333;"></div> Sleeping</div>
+    <div class="legend-item"><div class="color-box" style="background:#ff9800;"></div> With Parents</div>
+    <div class="legend-item"><div class="color-box" style="background:#007bff;"></div> Working</div>
+    <div class="legend-item"><div class="color-box" style="background:#e91e63;"></div> Social Media</div>
+    <div class="legend-item"><div class="color-box" style="background:#4caf50;"></div> Toilet</div>
+    <div class="legend-item"><div class="color-box" style="background:#ccc;"></div> Other</div>
+  </div>
+  <div class="grid" id="lifeGrid"></div>
+
+  <script>
+    const totalDays = 90 * 365;
+
+    const blocks = [
+      { name: "Sleeping",      days: 10950, color: "#333" },
+      { name: "With Parents",  days: 6570,  color: "#ff9800" },
+      { name: "Working",       days: 4285,  color: "#007bff" },
+      { name: "Social Media",  days: 5256,  color: "#e91e63" },
+      { name: "Toilet",        days: 1140,  color: "#4caf50" },
+    ];
+
+    // Compute remaining days for 'Other'
+    const usedDays = blocks.reduce((sum, b) => sum + b.days, 0);
+    blocks.push({ name: "Other", days: totalDays - usedDays, color: "#ccc" });
+
+    const grid = document.getElementById("lifeGrid");
+
+    blocks.forEach(block => {
+      for (let i = 0; i < block.days; i++) {
+        const day = document.createElement("div");
+        day.className = "day";
+        day.style.backgroundColor = block.color;
+        grid.appendChild(day);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -20,5 +20,5 @@ markup = { goldmark = { renderer = { unsafe = true } } }
 - Index funds like the S & P 500 historically generated 10% returns over the long term (~7-8% above inflation).
 
 ***
-*Note: This is not financial advice. Consult a licensed professional before making investment decisions. Investing involves risk.
+Note: This is not financial advice. Consult a licensed professional before making investment decisions. Investing involves risk.
 

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Life in Days (Block View)</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f5f5f5;
+      font-family: sans-serif;
+    }
+    h1 {
+      text-align: center;
+      padding: 1rem;
+    }
+    .legend {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 1rem;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .color-box {
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(5px, 1fr));
+      gap: 1px;
+      padding: 10px;
+      max-width: 100vw;
+      box-sizing: border-box;
+    }
+    .day {
+      width: 5px;
+      height: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>How We Spend Our Life (Blocks View)</h1>
+  <div class="legend" id="legend"></div>
+  <div class="grid" id="lifeGrid"></div>
+
+  <script>
+    // Life parameters
+    const totalYears = 90;
+    const totalDays = totalYears * 365;
+
+    // Categories config
+    // For each category:
+    // - name: display name
+    // - color: block color
+    // - hoursPerDay: hours spent per day (default to 0 if not set)
+    // - hoursPerWeek: for work (optional)
+    // - activeFromAge, activeToAge: for work only (optional)
+    //
+    // Note: hoursPerDay and hoursPerWeek are exclusive, only one should be defined per category.
+
+    const categories = [
+      { name: "Sleeping",       color: "#333",      hoursPerDay: 8 },
+      { name: "Working",        color: "#007bff",   hoursPerWeek: 40, activeFromAge: 20, activeToAge: 65 },
+      { name: "Screen Time",    color: "#e91e63",   hoursPerDay: 4 },
+      { name: "Eating",         color: "#ff9800",   hoursPerDay: 1 },
+      { name: "Commuting",      color: "#4caf50",   hoursPerDay: 1 },
+      { name: "Personal Care",  color: "#9c27b0",   hoursPerDay: 1 },
+      { name: "Housework",      color: "#795548",   hoursPerDay: 1 },
+    ];
+
+    // Calculate total days spent on each category based on hours per day/week
+    // Each day has 24 hours. Total lifetime hours = totalDays * 24
+    // For working: hours per week * number of weeks worked (days worked = total weeks worked * 7)
+    // For other categories: hours per day * totalDays
+    // We'll convert hours spent in each category to *days* equivalent by hoursSpent / 24
+
+    function daysForCategory(cat) {
+      if (cat.hoursPerDay !== undefined) {
+        // Hours per day for whole life span
+        const totalHours = cat.hoursPerDay * totalDays;
+        return totalHours / 24;
+      } else if (cat.hoursPerWeek !== undefined) {
+        // Calculate number of weeks worked in active range
+        const yearsWorked = (cat.activeToAge - cat.activeFromAge);
+        const weeksWorked = yearsWorked * 52;
+        const totalHours = cat.hoursPerWeek * weeksWorked;
+        return totalHours / 24;
+      }
+      return 0;
+    }
+
+    // Calculate total used days so far to calculate 'Other'
+    let usedDays = 0;
+    categories.forEach(cat => {
+      cat.days = daysForCategory(cat);
+      usedDays += cat.days;
+    });
+
+    // Add 'Other' category as remainder days
+    categories.push({ name: "Other", color: "#ccc", days: totalDays - usedDays });
+
+    // Render legend
+    const legendDiv = document.getElementById("legend");
+    categories.forEach(cat => {
+      const legendItem = document.createElement("div");
+      legendItem.className = "legend-item";
+      legendItem.innerHTML = `<div class="color-box" style="background:${cat.color}"></div> ${cat.name}`;
+      legendDiv.appendChild(legendItem);
+    });
+
+    // Render life grid
+    const grid = document.getElementById("lifeGrid");
+    categories.forEach(cat => {
+      // Round days to integer
+      const count = Math.round(cat.days);
+      for (let i = 0; i < count; i++) {
+        const day = document.createElement("div");
+        day.className = "day";
+        day.style.backgroundColor = cat.color;
+        day.title = cat.name; // tooltip on hover
+        grid.appendChild(day);
+      }
+    });
+  </script>
+</body>
+</html>

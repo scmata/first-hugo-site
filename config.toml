@@ -58,19 +58,7 @@ enableTwemoji = false
   name = "About"
   weight = 2
   url = "about/"
-[[menu.main]]
-  name = "Bio"
-  weight = 3
-  url = "bio/"
-[[menu.main]]
-  name = "Media"
-  weight = 4
-  url = "media/"
 
-[[menu.main]]
-  name = "Podcast"
-  weight = 5
-  url = "podcast/"
 
 [[menu.main]]
   name = "Contact me"
