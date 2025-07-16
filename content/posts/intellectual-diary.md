@@ -40,6 +40,12 @@ Barbie
 - Celeste
 - Silksong
 
+
+# Productive books
+- Getting Things Done: The Art of Stress-Free Productivity 
+- High Output Management Andy Grove [(summary)](https://medium.com/@iantien/top-takeaways-from-andy-grove-s-high-output-management-2e0ecfb1ea63)
+
+
 # Books
 - Bullshit Jobs - David Graeber
 - The Body Keeps the Score
@@ -54,7 +60,6 @@ singapore
 calendar of wisdom
 - Lyndon B. Johnson bipgraphies
 - How to win friends and influence people
-- Getting Things Done: The Art of Stress-Free Productivity 
 - Why Nations Fail
 Noam Chomsky Books
     - Manufacturing Consent
@@ -76,8 +81,23 @@ Noam Chomsky Books
     - Principles of Economics Mankiw
     - New Ideas from Dead Economists
 
+People
+-Dominc Cummings
+-Kant
+-Machiavelli (The Prince) 
+
+Shows/artists I want to see
+-That one jazz show in London summer
+- Neyo
+- Chris Brown
+-Ezra cllective
+
+Imaginary Philosophical Dialogues ?
+
+
 # Courses
 Thinking about doing a course in data sciene or something. Goodgle certificate
+
 
 
 
@@ -93,7 +113,56 @@ Friends
 Green Brothers
 Ben Francis
 
+# More stuff to read
+-Mankiw section on inequality
+Read more about research on inequality in general
+Game theory of inequality?
+
+that stanford prof explaining everything he knows in 50 minutes, or his advice (jayhoovy i think)
+-recrring advice is that you should proably try start now becuase if you delay you might just get used to making money.
+
+# High level themes
+Understanding learning, decision making and intelligence
+Exploration and understanding of the world through life (e.g. what is wisdom)
+Improving inequality
+
+
+mechanistic interpretability
+game theory/cognitive science + AI
+comp. neuroscience + AI
+
+#### fashion
+those wide blakc trousers popular in asia
+
+
+
+#### Stuff to read
+[on fixing housing-pay people? increae in value 180 times](https://80000hours.org/podcast/episodes/sam-bowman-overcoming-nimbys-housing-policy-proposals/#nimbys-arent-wrong-they-are-often-harmed-by-development-004358)
+[geography is destiny-ian morris. book on britain's history](https://www.amazon.com/Geography-Destiny-Britains-000-Year-History/dp/0374157278/)
+
+[anthpo interview](https://www.youtube.com/watch?v=WiykZ3rYBuQ)
+continue from 1h22
+[this one is very cool too](https://www.youtube.com/watch?v=GaGXrthYkdg&t=1748s)
+
+The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail
+-how to take advantage of disruptive technologies
+
+[snapchat colin and samir](https://www.youtube.com/watch?v=WXEWlRxI6XM)
+[bucket list family colin and samir](https://www.youtube.com/watch?v=GGxzHxJ0Gt4)
+
+[GMTK how to find game ideas-on the business of indie game development](https://www.youtube.com/watch?v=0m60QbT85Tc)
+
+Book: Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong
+https://www.reddit.com/r/BettermentBookClub/comments/gniqfo/book_summary_barking_up_the_wrong_tree_by_eric/
+
+
+the group of kids travelling around the world to visit each other's hometowns
+
+High Output Management
+
 # Other stuff to read
+[google certificates ](https://grow.google/certificates/en_uk/)
+
 [Transformer inference arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
 
 [boring business](https://www.youtube.com/watch?v=fxiHbx_1d-E)
@@ -129,8 +198,21 @@ He actually has a surprisingly good point. Our culture’s obsession with “tec
 [elon1](https://archive.is/ROP0B)
 [elon2](https://archive.is/UXRG4)
 
-AI research
-[text](https://www.youtube.com/watch?v=A_WCaFmQaIw)
+[sam altman writing](https://www.youtube.com/watch?v=tDmjz6HB-yw&ab_channel=DavidPerell)
+
+[everything i learned at the staford startx accelerator](https://www.youtube.com/watch?v=BfRCVhwJVbs&ab_channel=MichiaRohrssen)
+
+[ezra klein attention economy](https://www.youtube.com/watch?v=cZO1B4fZlOw)
+
+[nitric oxide](https://www.youtube.com/watch?v=zECoaEZRRFU)
+
+
+
+
+The Selfish Gene Richard Dawkins memess
+
+physics bird on the topology of voting
+
 
 my spending habits of seniors chatgpt thing
 - aman manzir interview with ali abdaal
@@ -599,3 +681,529 @@ engineering is about working to a specification, not as much about defining the 
 i write to find out what I think
 
 you can't do everything in a night-the build up is what matters
+
+https://www.youtube.com/@mewtru/shorts
+
+
+https://www.youtube.com/watch?v=TQuxVz52w2w&ab_channel=ArtoftheProblem
+
+https://store.steampowered.com/app/3117780/YinYang_PingPong/
+
+
+https://www.youtube.com/watch?v=XtIh7tOpZsw&ab_channel=TomDelalande
+
+startup converting pdfs to csv
+https://www.youtube.com/watch?v=7VSVfQcaxFY&ab_channel=TomDelalande
+lichess case study
+
+
+[improving your voice](https://www.youtube.com/watch?v=FVmAEezr6ao&ab_channel=ImproveYourVoice)
+
+
+#### 9/7/25
+
+AI research
+[david perrell and ezra klein on AI research](https://www.youtube.com/watch?v=A_WCaFmQaIw)
+
+
+#### 10/7/2025 
+
+i possibly assume winner takes all dynamcis to an extent
+e.g. in life once you have a small advantage, you cna keep capitalising to keep eing successful
+
+also early mover advantage as well a bit/positive feedback loops
+
+Been very interested in economics recently too. It's interesting because for example what people pay for stuff isn't necessarily its true value, so what affects this?
+
+It's interesting because economics is about a lot more than just money, and some metrics like PPP try and represent this.
+
+While we do focus on the increase in wealth in terms of money since that's the main thing we mweasure. Increases in stuff like livelihood and happiness can lead to longterm incresaes in wealth anyway, so for those money obsessed it still comes down to the same thing e.g. trying to increase productivity in the long run.
+
+google trends [migration](https://migrationinsearch.com/) and [sleep](https://the-shape-of-dreams.com/#/)
+
+What would heaven and hell look like? If you have eternal suffering or eternal happiness, do they still have meaning.
+
+In the matrix, that seems to be one of the key stories they want to tell.
+
+
+
+developing specification taste is a fairly useful skill
+
+
+[text](https://www.youtube.com/watch?v=tDmjz6HB-yw&ab_channel=DavidPerell)
+
+"Hope is not always rewarded, it is always justified. "
+
+[John Green](https://www.youtube.com/watch?v=Wi6-PoQHcFM&ab_channel=vlogbrothers)
+
+
+
+hope in game theory?
+
+to make cool shit you first have to make shit
+
+
+in a hard world, softness is a kind of heroism
+
+positive self talk
+
+
+how to make a website like this
+
+https://cameronroberts.dev/posts/gatsby-to-hugo/
+https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+https://gohugo.io/getting-started/quick-start/
+https://thomasflanigan.com/building-with-hugo.html
+
+
+make recent posts look a bit better maybe
+https://mabster.net/tags/hugo/
+
+ideas don't belong in your head. They belong in the world. 
+
+Through failing you will develop new skills.
+
+[scaling laws in cities](https://chatgpt.com/share/6871ec7f-33e4-8003-8a65-5d3e689d6839)
+
+
+why i procrastinate on important things
+
+- feel like im in a prisoners dilemma not an iterated prioners dilemma
+
+https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62
+
+-context switching feels like an issue here too- like 
+
+
+https://www.lesswrong.com/posts/EFQ3F6kmt4WHXRqik/ugh-fields
+
+examples of messages more catered towards differnt audiences too
+
+feel like what I'm working on in the present (e.g. orientating myself has so many larger higher returns that working on the day to day stuff isn't as important)
+
+blog purpose
+- be succesful and try and tell people how you did it (if you can succesfully describe even 50% you're doing very well)
+-talk about how to succeed and create a platform for it so that people will help you and collaborate
+
+[prioners dilemma](https://blogs.cornell.edu/info2040/2022/09/09/the-prisoners-dilemma-in-everyday-life/)
+
+https://80000hours.org/articles/is-voting-important/?utm_source=robssite&utm_medium=referral&utm_campaign=rw-website
+
+very cool article on rationality of voting
+
+Note: it's very easy to get into intellectual bubblese.g. ben kuhn where did all non prgrammers go.
+even between different acadmic discplines.
+
+wonder if you could do clustering of personality ttypes and hobbies? e.g. nerds like programming
+
+like the precision health lecture I saw at princeton
+
+-> can send that email
+
+where do goals come from? e,g. I want o be a rocket scientist. idk. i tried to be slightly more evidence based, but i also had dreams and adjusted them.
+
+
+#### 12/7/2025
+
+ian morris
+
+social development index instead of GDP? minute 17:00
+
+[giving what we can](https://www.tobyord.com/)
+
+
+https://hbr.org/2016/07/why-diversity-programs-fail
+
+https://en.wikipedia.org/wiki/The_Case_Against_Education
+
+
+
+The Politics of Development
+
+http://www.tanushreegoyal.com/teaching/pol351_2025.pdf
+
+
+policy implementation princeotn course
+https://registrar.princeton.edu/course-offerings/course-details?courseid=017162&term=1244
+
+https://www.noahpinion.blog/p/how-much-can-you-really-learn-about
+
+http://lib.ysu.am/disciplines_bk/b60d14445b7c7786d4d18b094cdde87f.pdf
+
+
+https://lectures.princeton.edu/lectures/2025/think-again-power-knowing-what-you-dont-know
+
+
+https://www.andrew.today/p/the-hidden-third-door-to-success
+
+https://hbr.org/2011/05/twelve-ways-to-create-barriers
+
+https://www.sciencefriday.com/articles/sean-carroll-physics-book/
+
+https://lectures.princeton.edu/lectures/2023/what-global-health-and-where-it-going
+
+https://www.edx.org/learn/political-economy/princeton-university-making-government-work-in-hard-places
+
+https://www.masterclass.com/for-business
+
+
+http://www.tanushreegoyal.com/
+
+message tanushree goyal -she did computer science and engineering before transitioning to politics - why?
+
+
+person who did evolution from a computer science POV as an algorithm/mathematical model with genes and information etc.
+
+ask mark anthony about how he would improve capitalism if he could
+
+
+CICERO by Meta FAIR is very cool
+
+what did freddie say about research in his last internship? summarising what the place was doing befores
+
+
+The “bitter lesson” in AI is that general methods that leverage increases in computational power eventually surpass methods that utilize human domain knowledge by a large margin. This is a valuable observation about methods, but it is often misinterpreted to encompass application development. In the context of AI-based product development, the bitter lesson has never been even close to true. Consider recommender systems on social media: They are powered by (increasingly general) machine learning models, but this has not obviated the need for manual coding of the business logic, the frontend, and other components which, together, can comprise on the order of a million lines of code.
+
+need to include my chat with AI about implementing FPTP in normal elections (chatGPT or gemini probably)
+
+selection pressure of an idea
+- how impactful/entertaining it is (Psychological Attractiveness, Social Utility or Identity Signaling)
+- how easy it is to replicate (how easy it it to understand and then communicate)
+- Compatibility with Existing Beliefs/ how believeable it is
+
+https://chatgpt.com/share/68725e15-e3c0-8003-b56d-5408bcde8bfc
+
+Anthpo's structure of ideas
+
+6 principles of influence/pyschology of consumption
+
+social liking
+
+how we consume things/are influenced. all of our feelings and emotion can be categorised into one of these six things
+-scarcity (Michael reeves, aura)
+-consistency (can still upload every year but be scarce)
+-reciprocity
+-consensus (if it has a million likes it's easier to watch)
+-similarity (can't repeat the formula, have to innovate on it with context). have text on screen have your face in first frame. if you follow every thing in rulebook people won't care because it's already been done
+-authority (effort can also help with this -because it shows it's worth listening to)
+
+how e.g. career ideas spread? in america it's easier than in the UK
+another example. fitness influencers. they typically have autheority and consistency. potentialy similarity and consensus too. the biggest ones do most of these
+
+i wonder how this applies to those memories that you have of 10+ years ago which really impacted how you saw the world e.g. when talking with your parents
+or your parents' memories of you when you were young and which memories/stories they choose to tell ig. what they think most describes/is relevant to you ig and how entertianing/fun the story is to tell
+
+why flexing yourself improves your standing and also social inequality because you share your knowledge to increase the spread of information from elite sources and increase the culture of sharing your knowledge to level the playing field once everyone knows how to
+
+or even like fitness influencers. need to give thiese marketing tools the most to people who are actually impactful. to help balance the inflationary view of marketing.
+
+idea: marketing makes long term economics less efficient because a company can have more perceived value (especially to consumers, but also partially to businesses) because of marketing. 
+
+imagine food was just sold in paper bags with standard names in the supermarket. you would just buy food based on its quality. 
+
+Removing marketing from the equation isn't really feasible though, so we should try and do our best to democratise education around all companies/businesses/people.
+
+another idea: do a study on how following instagram fitness influencers affects workout performance. maybe for two groups that have planned workouts, one with social media and one without 
+
+north star effect tho
+
+the idea is to understand how social media following affects motivation/knowledge with something measurable e.g. fitness gains
+
+some hypotheses: doom scrolling fitness but not acc doing it doesn't help you. correlation bewteen watching fitness and doing it means people who watch the content are fitter. 
+
+it's like the starved for information thing. like are you actually learning.
+
+maybe do it with learning -> following a bunch of physics accounts (or could do another field), then somebody who watches a bunch of YT videos (e.g. 3blue1brown ) while both are doing a physics course or something.
+
+trying to capture the videos that give you the sense that you feel like you're learning but you're actually not e.g. video essays. quite often it's a balance tho bewteen information and entertainment
+
+a lot of these apply to EA like similarity/curse of knowledge. if you just go on the website it doesn't tell you in a simple concrete way relative to what you already do, what you should do to improve the world
+
+e.g. they tell you what you should work on but that relies on having a specific mental model already (that most people don't have) to reach that conclusion. instead should market towards a different mental model.
+
+
+
+the way you're able to synthesise this is repeated experiemtns through a lot of different enviornments (naturalistic) as well as specific testing methodoolgy.
+
+also all likes and views are not the same. e.g. x likes on a personal vlog is very differnt to a random guy on tiktok flexing his jawline
+
+creators in politics
+that one cyprus guy
+podcasts in the US 2024 election
+trump is very good at going viral and stuff
+
+social media and the spreading of ideas is becoming way more importnat
+also companies are slowly figuing this out. e,g, crocs hiring anthpo, but not knowing if it's successful till the washington post writes about it
+
+also one person/small group of people probably had a bigger influence than a lot of money paying one celebrity to wear it potentially
+
+how does a brand show up to a party and not be a stranger. how does it show up and be cool with the group of friends, have good aura kind of
+
+anthpo has a plan for failure too
+following a trend not making one. idea in marketing
+
+the framework for art and comedy. simalarity/commentary but slightly different
+making people feel something with art.
+
+
+viewing from a third party POV. leave it for two days and give it the fresh eye watch.
+
+unit of conversation vs unit of entertainment
+
+maybe make a cool carousel post too
+
+anthpo doesn't really feel like he's speaking corporate speak on the podcast, feels authentic joking around and stuff
+"love of the game" -> building on the current culture. an artist of social media combined with some pyschological principles
+
+good conversationalist, passionate about people
+
+it also shows that most cool things take time, with the amount of time he spends on editing
+
+a thing reaches saturation when a company can train people to do it easily. the world is definitely not near that level with social media yet -> there's a lot fo opportunity, first to get good at experimenting and second at codifying knowledge
+
+that's why staying on top of innovation is important. most people are not early adopters lol, they adopt it when it gets easy to use and is mainstream
+
+that thing of breaking past yoru limits, japanese thing or something
+
+how to measure your life
+children learn when they're ready to learn. and they use their own generative models to figure out how their parents got to where they are. they instincetively probably want to emulate them in some way or use their expertise.
+
+e.g. education is important can only be seen if parents got to their current point through education or are still studying
+r.g. my dad trying to learn business(to an extent)
+(altho being entrepreneurial and taking risks maybe doesn't work that well if the risks don't pay off-need to take measured risks)
+
+or using phones etc.
+
+kids essentially look at the actions of their parents and see what results it produces and backtrack to see how it should affect their policy/view on life
+
+used to enjoy frameworks e.g. types of learners in school, work hard or they're smart or (in the middle). or they don't care/are not smart/are stupid. (or both smart and work hard?? tho i dont think this level of granularity matters)
+
+i remember 3 types
+
+something like tat
+
+i used to be disappointed in the worl daround 14 when i saw so much of it can be described by simple patterns and frameworks. people make the same mistakes.but you can help improve those mistakes!! through education/information e.g. about frameworks of wisdom
+
+so they can learn through experience more quickly and not make the same ones. and to avoid making the biggest mistakes maybe e.g. like smoking or addiction.
+
+or even in relationshops. by helping people learn about themselves and to get rid of trauma or bad intuitions learnt in childhood (e.g. like anxious/avoidant vocab helps you learn about yourself)
+
+esp when I was younger, tried to steer away from stuff that had too many details/where frameworks didn't work as well and tacit knowledge become moore important. e.g. game development in unity.
+tried to maximise my framework learning i guess
+
+
+through changeing the environment and game theory
+
+[sean carroll on physics education](https://www.sciencefriday.com/articles/sean-carroll-physics-book/)
+
+trying to find a middle ground between popular science and undergraduate physics
+
+i feel like 3b1b, steve mould and muderous maths are helping to fill that niche too
+
+thoughts on changzhou - it's been two weeks and i think i'm the only black person i've seen in this city lol. should make a vlog haha.
+
+sometimes i get lucky with the algorithm e.g. karat, philip choi, that stanford prof explaining everything he knows in 50 minutes, alex hormozi, the people running startups
+
+
+the fundraising thing
+[mike boyd](https://www.youtube.com/@MikeBoyd/videos)
+
+pure visual art is not as big as perforamnce art now. fatima. social media kind of thing too
+
+[anthpo on people caring about you](https://www.youtube.com/watch?v=GaGXrthYkdg&t=1748s)
+content creation inhererntly egotistical
+personal brand isn't about you, it's about what you represent
+same reason why parasocial realtionships aren't real relationships lol
+
+but after a certain point what you represent and how you are align a dcent amoint to some extent in some situations e.g. an authentic content creator
+
+
+chatGPT is so much better for learning than google 
+
+e.g. googling aent baed modelling doesnt given me a clear way to get started
+
+https://www.google.com/search?q=agent+based+modelling&oq=agent+based+modelling&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI0ODlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+but chatGPT gives me way more clear and actionable advice
+
+https://chatgpt.com/share/68729326-6b18-8003-ac1c-80590cfe9407
+
+especially giving me exmaple tools and platforms, or coding frameworks
+
+best job is kind of getting paid what you would've wanted to do in your spare time anyway
+
+the only difference is, sometimes thehobby version of an activity and making it a business can be different
+
+we return borrowed items because of iterated prisoners dilemma
+
+[Mind the Gap](http://ccl.northwestern.edu/rp/MindtheGap/index.shtml)
+An agent-based participatory simulation (ABPS) curricular unit on wealth inequality
+
+This seems super cool!
+
+[also boltzman wealth model](https://mesa.readthedocs.io/stable/examples/basic/boltzmann_wealth_model.html)
+
+[non linearity in how a tweet spreads on the internet](https://chatgpt.com/share/6872a1c6-718c-8003-adb9-e5cd0e498451)
+
+This simulation shows how even a small number of initial tweeters can trigger a nonlinear spread through the network — especially if they are highly connected hubs. Despite only a 10% chance of retweeting per neighbor, the tweet reached a large part of the network.
+
+https://chatgpt.com/share/6872a260-bce0-8003-b457-3b1d0df25b88
+
+i like principle of similarity instinctively but mainly apply t to myself instintively - for the love of the game anthpo thing
+
+#### 13/7/2025
+
+do the sizes of societies get bigger over time?? some kind of global council possible in the future maybe
+
+need to show the workers poem to Ify
+
+[80 000 hours census](https://80000hours.org/podcast/episodes/ian-morris-big-picture-history/www.80000hours.org/census)
+
+https://en.wikipedia.org/wiki/Steven_Pinker
+
+https://en.wikipedia.org/wiki/Computational_theory_of_mind
+
+
+https://en.wikipedia.org/wiki/Rationality_(book)
+
+https://80000hours.org/problem-profiles/global-priorities-research/
+
+https://www.youtube.com/watch?v=MHKRWmfcMBw&ab_channel=GameMaker%27sToolkit
+
+-starting dissemmating knowledge of a field can have big dividends (GMTK)
+
+https://www.youtube.com/watch?v=p57zXfKXJJs&ab_channel=JuniperDev
+
+https://www.youtube.com/watch?v=ta99S6Fh53c&ab_channel=AIWarehouse
+
+
+#### 14/7/2025
+https://www.youtube.com/watch?v=NDUwMwwm6Uc&ab_channel=CalebUlku
+
+https://perell.com/essay/serendipity/
+
+He introduces what he calls “Truman’s Law” to explain this. According to a story, U.S. President Harry Truman once said that a “truly great president is right 51% of the time.” This might sound like a low bar, but it reveals a deeper truth: in complex, unpredictable systems—like war, leadership, or history—even a slight edge in good decisions over bad ones can make a leader (or a process) successful in the long run.
+
+in Britain, in World War II, obviously there was serious food rationing of course. People’s health got better because of the massively improved equality of access to nutrition. These are just extraordinary facts to me, but I’m not sure what the conclusion is.
+
+https://chatgpt.com/share/68746cad-fb4c-8003-9b28-92dd7af65d79
+
+
+agent based modelling
+-> mesa and netlogo
+https://mesa.readthedocs.io/latest/examples/basic/boltzmann_wealth_model.html
+https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0396
+https://ccl.northwestern.edu/rp/MindtheGap/index.shtml
+
+https://ccl.northwestern.edu/netlogo/bind/
+
+
+econophysics
+https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0396
+
+graph neural networks
+
+https://chatgpt.com/share/68746e0c-dd5c-8003-9311-cfc7edd86efa
+
+[stalin books](https://www.dwarkesh.com/p/stalin)
+
+[continual learning for AGI dwarkesh patel](https://www.dwarkesh.com/p/timelines-june-2025)
+
+meta CICERO
+
+https://www.reddit.com/r/MachineLearning/comments/zfeh67/d_were_the_meta_ai_research_team_behind_cicero/
+
+bitter lesson
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
+the case against education
+
+https://www.youtube.com/watch?v=ftgHuwYMmjM&ab_channel=howpeoplemakemoney
+
+[democracy is mathematically impossible](https://www.youtube.com/watch?v=qf7ws2DF-zk&ab_channel=Veritasium)
+Need to have STAR in companies
+
+As a mathematician working in decision making, I am happy that you make a video on such topics. 
+I also appreciate that you mention some of these better alternative systems (see also "Majority jugement" from Balinski & Laraki).
+I believe it would be great that you spend some time to explain one of these alternative system in detail, and show their strength.
+
+Now, there is on crucial thing you did not adress in your video: ensuring people actually deviate from  the highly risky "first past the post"  system.
+ If we keep presenting these only with example of presidential elections, it is likely that nobody will change our voting systems for a few more centuries. 
+ But when you realize that the "first past the post" system is actually used everywhere, from family circle, friends,  associations, companies, etc, you can understant the massive risk it creates on a societal scale. The moment a CEO understands the risks it takes by using the "simplest" system in a company, he/she will try something else: and at this point almost ever other system is better. 
+ Indeed, since "first past the post" does worse than just possibly electing bad propositoin: it actively favors the most cleaving proposition. Hence imagine the massive risk this creates when applying this in a governing board ! (and most companies use it without even being aware of the risk)
+ 
+ Hence I  humbly suggest you make another video, with other examples of decision, focusing on the risk of "first past the post" system, and discussing one concrete alternative in detail.
+The idea, I believe is to first convince companies, associations, and people to stop using this crazy system in their collective decisions and use an alternative one. The moment they try an alternative, they win.
+I'll be happy to further dicuss such points.
+
+[bank statement to csv](https://www.youtube.com/watch?v=XtIh7tOpZsw)
+
+[tech blog](https://runninginproduction.com/)
+
+bad ideas seem like good ideas
+History tends to get rewritten by big successes, so that in retrospect it seems obvious they were going to make it big. For that reason one of my most valuable memories is how lame Facebook sounded to me when I first heard about it. A site for college students to waste time? It seemed the perfect bad idea: a site (1) for a niche market (2) with no money (3) to do something that didn't matter.
+
+
+to get into oxford it helps a lot to know someone who's been there as a mentor e.g. school coordinator for oxbridge in KES, tells you mentality, what you should be doing for PS, goals and baseline for grades, personal statement etc
+
+that's probably a very important thing
+
+also curious you're way more likely to become a professor if one of your parents were a professor
+
+
+https://asana.com/resources/gen-z-workers?_gl=1*tgdhuq*_gcl_au*Mjk0NDE1NjY4LjE3NTI0NzU1MDQ.*FPAU*Mjk0NDE1NjY4LjE3NTI0NzU1MDQ.*_ga*MTU3NTIxMzM4My4xNzUyNDc1Mzc0*_ga_J1KDXMCQTH*czE3NTI0NzUzNzQkbzEkZzEkdDE3NTI0NzY4MjIkajQyJGwwJGgxMzkzODAyNTAx*_fplc*a3VDYUNoNG16cHdLVkg3MzFaeVNjc3VWUXBzJTJCWExjRFRrWVFldFFabW1XRCUyQjJnSllQY0dCSEpLTSUyQjdjOHEyMGZuRU1XZ2twbTZEJTJGQ0lWJTJCSFZmQkRyNkxnRWdmYkVqdzV4MmlZYnJvY0IyTUhpSVJtSDRaSThQNHl1eDglMkZRJTNEJTNE
+
+According to our special report on Gen Z workers, only 55% of Gen Z sees how their work contributes to larger goals—compared to the average of 70%—and only 69% see value in their work—compared to the average of 77%. There’s an opportunity for managers of Gen Z workers to more clearly communicate and manage the success of their youngest employees.
+
+I also think managers of young teams should take a more substantial role in helping Gen Z manage their notifications and technology. To codify that culture, turning off notifications or setting the frequency should be part of the onboarding process. And as a manager yourself, be sure to practice what you preach so that everyone on your team can look to you as a positive example.
+
+##### asana reports
+
+most people use 9 apps in a day at work
+
+https://asana.com/resources/anatomy-of-work#form
+
+https://asana.com/resources/state-of-work-innovation#form
+
+https://resources.asana.com/america-anatomy-of-work-enterprise.html?utm_medium=blog&utm_source=announcement-blog&utm_campaign=esi23&_gl=1*1yeg0a8*_gcl_au*Mjk0NDE1NjY4LjE3NTI0NzU1MDQ.*FPAU*Mjk0NDE1NjY4LjE3NTI0NzU1MDQ.*_ga*MTU3NTIxMzM4My4xNzUyNDc1Mzc0*_ga_J1KDXMCQTH*czE3NTI0NzUzNzQkbzEkZzEkdDE3NTI0NzY5MDgkajI4JGwwJGg1MjYyMDU5NDY.*_fplc*YzB1VWdEbWE5MzFUc2F1R3BEWFZNNFp2UHdrS0R3WUtxMGVpZFNoZUslMkI3elV6SzZTZlFqbmJXblg2NnA5U1ZsbkNsdmJaOVNKc1ZjQmxKa2dSJTJCSTE0RGJGREpUbEY5Z1VRc2JDM1E2N0JxRE1jT3BnM1RZeDV1R3cyeDZ2dyUzRCUzRA..
+
+https://www.youtube.com/watch?v=lni4fvX5EgE
+https://x.com/skilllevel7/status/1584187488448303107
+
+
+##### asana basic AI prompt framework
+
+
+#### good YT video on speech processing
+
+[speech processing-pink trombone](https://www.youtube.com/watch?v=B74tKZDVNS8)
+
+[good game devlog series](https://www.youtube.com/@kylebanks/videos)
+
+What would you do if you knew you couldn't fail
+
+
+[fireship starting a business basics-based on how his side hustle failed](https://www.youtube.com/watch?v=4_MDP6TcHwU)
+
+15/7/2025
+
+Social media gets you addicted by using variable rewards -> Ben Kuhn on skinner boxes
+https://www.benkuhn.net/skinner/
+
+
+https://www.youtube.com/watch?v=KCe8kZ6XlQQ
+
+
+
+I always wanted to be a screenwriter but I realized how competitive it was. just getting your foot through the door is a slim-to-none chance. So I decided I wanted to write the stories I wanted to tell as books and self-publish them. I was 24 when I thought of that. After an hour, I decided not to. I told my dad “if I start now, I won’t even be good or known until I’m 35.” And he said the most profound thing I’ve ever heard. He said “yes but if you DONT start now, you’ll be 35 anyway, but you won’t be a writer.” Two years have passed and I have 3 books published on Amazon. I’m not well known and still not as good as I want to be, but I make sales, and that’s all I need to be inspired. What Joe said here is true: find something and work at it. Starting from scratch sucks, but not starting is instant failure.
+
+Vincent Van Gogh wasn't praised for his work till after he died. Walt Disney's 
+
+
+Educational psychologist Benjamin Bloom found that one-on-one tutoring using mastery learning led to a two sigma(!) improvement in student performance. The results were replicated. He asks in his paper that identified the "2 Sigma Problem": how do we achieve these results in conditions more practical (i.e., more scalable) than one-to-one tutoring?
+
+In a related vein, this large-scale meta-analysis shows large (>0.5 Cohen's d) effects from direct instruction using mastery learning. "Yet, despite the very large body of research supporting its effectiveness, DI has not been widely embraced or implemented."
+
+#### questions
+[lists of ideas](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
+[questions](https://patrickcollison.com/questions)

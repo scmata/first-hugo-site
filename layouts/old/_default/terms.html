@@ -1,0 +1,28 @@
+{{ define "content" }} 
+
+
+  <section class="container page">
+    <article>
+      <header>
+        <h1 class="title">
+          <a class="title-link" href="{{ .Permalink | safeURL }}">
+            {{ .Title }}
+          </a>
+        </h1>
+            <ul>
+        {{ range .Data.Terms }}
+          <li>
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a> ({{ .Count }})
+          </li>
+        {{ end }}
+      </ul>
+      </header>
+
+      
+    </article>
+  </section>
+
+
+
+
+{{ end }}

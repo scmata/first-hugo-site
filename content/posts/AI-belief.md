@@ -40,3 +40,7 @@ john fish on reading is not for productivity
 the value of human effort
 
 what if it breaks? e.g. learning, or what if it doesnt and is consistently better than you at e.g. consulting
+
+learning languages -> high quality translators still needed. also tool won't work everywhere e.g. need compute, battery
+
+like having a battery

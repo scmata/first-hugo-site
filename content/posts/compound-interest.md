@@ -5,8 +5,8 @@ title = "Compound Interest Calculator"
 description = ""
 slug = ""
 authors = []
-tags = []
-categories = []
+tags = [""]
+categories = ["calculator"]
 externalLink = ""
 series = []
 markup = { goldmark = { renderer = { unsafe = true } } }
@@ -22,3 +22,4 @@ markup = { goldmark = { renderer = { unsafe = true } } }
 ***
 Note: This is not financial advice. Consult a licensed professional before making investment decisions. Investing involves risk.
 
+<!--Could add a note about biggest historical drop in the S &P -->

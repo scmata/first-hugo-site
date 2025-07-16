@@ -6,11 +6,12 @@ description = ""
 slug = ""
 authors = []
 tags = []
-categories = []
+categories = ["calculator"]
 externalLink = ""
 series = []
 +++
 
 
 {{< time-with-loved-ones >}}
+
 

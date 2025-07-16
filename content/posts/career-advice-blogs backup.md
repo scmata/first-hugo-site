@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2025-07-07T19:43:51+08:00
 title = "The best life advice blogs I've read"
 description = ""
@@ -58,6 +58,8 @@ Generally you can only have one idea that's top of your mind. This is a powerful
 [only one north star](https://paulgraham.com/top.html)
 > I realized recently that what one thinks about in the shower in the morning is more important than I'd thought. I knew it was a good time to have ideas. Now I'd go further: now I'd say it's hard to do a really good job on anything you don't think about in the shower.
 
+[attention](https://www.benkuhn.net/attention/)
+
 
 #### Terrence Tao on prematurely obssessing on a single big problem
 While having a north star is important, you shouldn't prematurely obsess on a single “big problem”
@@ -69,7 +71,7 @@ In other words, whenever you solve a big problem, it often comes from gaining ex
 
 Note you can still target outsized opponents or massive problems, but this involves a slightly different type of scope. I have been given this advice too for example, when learning martial arts.
 
-## Get good at one thing/learn what success feels like
+#### Get good at one thing/learn what success feels like
 there's a reason why so many parents put their kids in for a sport or to learn a musical instrument. Because it teaches you many life skills. even failing it you will learn a lot. 
 
 Even without talent, I think you can get to 99% ability with enough time (~5-7 years of decent practice). Choose anything and commit to it for that time. In fact, I think a lot of very successful people had a natural aptitude for a certain area which either was noticed by their parents, or otherwise got them involved in a field early, which led to larger growth. 
@@ -81,11 +83,10 @@ You become much better at what you practice e.g. [Marques](https://www.youtube.c
 https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html
 
 
-### How to do great things (and the nature of genius)
 
-In summary you need to work hard on the right things that you enjoy. Doing just one will get you mediocre success. Both are important. For example, rowers put massive amounts of energy into training. When they're in the boat though they have to row at the right moments otherwise they'll slow the whole boat down. Training obessively won't just get you rewards. Counterintuively, someone who trains less but is better at technique will be better in a boat.
+##### How to do great things (and the nature of genius)
 
-also  you will probably need a period of sacrifice to achieve big goals.
+In summary you need to work hard on the right things that you enjoy. Doing just one will get you mediocre success. 
 
 https://paulgraham.com/hwh.html#f9n
 
@@ -99,72 +100,70 @@ https://talentdevelop.com/articles/HTBAG.html
 > The same is true for Tiger Woods. He seems magical on the golf course, but he was swinging a golf club before he could walk, got great instruction and practised constantly from boyhood, and even today outworks all his rivals.  
 > His genius has been laboriously constructed.
 
-e.g. lil yachty advice on working hard
 
 [another article on following interests](https://terrytao.wordpress.com/career-advice/advice-on-gifted-education/)
 
-#### Finding happiness in the struggle
 
 sisyphus struggle. [casey neistat](https://www.youtube.com/watch?v=9IiTdSnmS7E)
 
-You will work on your career your whole life. It shoud be in an area you enjoy. Find a cause you could move a boulder for.
+the struggle won;t end. we are defined by our goals. baseline level of work.enjoy living life throughout it.
+something on enjouing life?
 
-> You're not out here because it's easy. you do a lot of meaningless, purposeless, stupid things - you spend years focused on them and literally no one care but you. But you perservere anyway, you keep running. You keep running, you don't quit, you die trying. Because when you add up all those stupid meaningless obssessions and accomplishments, what they equal, what they add up to, is your life.
+also  you will probably need a period of sacrifice to achieve big goals.
 
-#### compound yourself
+
+People aren't born great at things. People can be born with an aptitude for things, which often needs to be discovered and then developed. Walt Disney's first animation went bankrupt.Steve Jobs wasn't a great CEO at first. JK Rowling single mother living on welfare who only got the first Harry Potter book accepted by the 13th publisher.  
+
+We remember others for their achievements, but we forget they also often made big mistakes.
+
 
 always produce
-
+make too many pots that you can't optimise each one (overwhelm yourself with practice)
 everyday you are solidfying your identity, like each day in a relationship you choose to be in the relationship.
 e.g. olympians train. ask yourself, what are you getting better at?
     - for me oxford was first principles thinking, princeton real world problem solving.
     - if you spend 20% of your time watching TV, you are getting 20% better at watching TV every day.
 - deliberate practice. imagine how a manager would assign you a task. perfect practice makes perfect (e.g. music), not just any practice. football training is very specific.
 
-Ben Francis and Stuff Made Here make a point to learn every day.
+rowing analogy to effort, or finding paths up a mountain. 
+they also train super hard, but know when to do both
+train obsessively
 
-make too many pots that you can't optimise each one (overwhelm yourself with practice). also train volume to train discipline and covering all the situations e.g. how dagestan wrestlers train
+e.g. lil yachty advice
 
-## The importance of reflection
+also train volume to train discipline and covering all the situations e.g. how dagestan wrestlers train
+
+
+
+##### being able to reflect
 https://www.benkuhn.net/abyss/
 
-> Staring into the abyss means thinking reasonably about things that are uncomfortable to contemplate, like arguments against your religious beliefs, or in favor of breaking up with your partner. It’s common to procrastinate on thinking hard about these things because it might require you to acknowledge that you were very wrong about something in the past, and perhaps wasted a bunch of time based on that (e.g. dating the wrong person or praying to the wrong god). However, in most cases you have to either admit this eventually or, if you never admit it, lock yourself into a sub-optimal future life trajectory, so it’s best to be impatient and stare directly into the uncomfortable topic until you’ve figured out what to do.
-
 #### general advice
-- https://www.benkuhn.net/weeklyessays/
-- https://blog.samaltman.com/how-to-be-successful
-- [Patrick Collison](https://patrickcollison.com/advice)
+https://www.benkuhn.net/weeklyessays/
+https://blog.samaltman.com/how-to-be-successful
+[Patrick Collison](https://patrickcollison.com/advice)
 
 #### more general advice
-- https://guzey.com/personal/what-should-you-do-with-your-life/
-- https://80000hours.org/career-guide/how-to-be-successful/#13-teach-yourself-these-useful-work-skills
-- [serendipity](https://perell.com/essay/serendipity/)
 
-## follow what you enjoy
+https://guzey.com/personal/what-should-you-do-with-your-life/
+https://80000hours.org/career-guide/how-to-be-successful/#13-teach-yourself-these-useful-work-skills
+
+
+#### follow what you enjoy
 
 [tech jobs](https://www.youngmoney.co/p/the-cost-of-apathy)
 
-## you can move faster than you think
+#### you can move faster than you think
 
 https://danluu.com/p95-skill/
-
-> Reaching 95%-ile isn’t very impressive because it’s not that hard to do. I think this is one of my most ridiculable ideas. It doesn’t help that, when stated nakedly, that sounds elitist. But I think it’s just the opposite: most people can become (relatively) good at most things.  
-> Note that when I say 95%-ile, I mean 95%-ile among people who participate, not all people (for many activities, just doing it at all makes you 99%-ile or above across all people). I’m also not referring to 95%-ile among people who practice regularly. The “one weird trick” is that, for a lot of activities, being something like 10%-ile among people who practice can make you something like 90%-ile or 99%-ile among people who participate.
-
 https://sive.rs/kimo
-> Kimo’s high expectations set a new pace for me. He taught me that “the standard pace is for chumps” — that the system is designed so anyone can keep up. If you’re more driven than most people, you can do way more than anyone expects. And this principle applies to all of life, not just school.
-
-
 [the 20 hour rule](https://www.youtube.com/watch?v=5MgBikgcWnY)
-> Just 20 hours is enough to become “reasonably good” at any skill. 
-
-> 1. Deconstruct the skill - Break the skill down into its most basic parts. Which parts are necessary for hitting the goal you have? (i.e. if your goal is to sing a song in Korean, you can primarily focus on pronunciation, not learning a bunch of vocabulary)
-> 2. Learn enough to self correct - Learn enough to realize when you're making mistakes.
-> 3. Remove barriers to practice - Turn off your phone, unplug the TV. Put your guitar, piano, language book in the middle of your room, not behind your stack of dirty laundry.
-> 4. Practice for at least 20 hours - Commit to 20 hours from the start. You're going to be frustrated at times, so committing beforehand will help you push through the frustration.
-
 
 #### productivity and management
+
+[serendipity](https://perell.com/essay/serendipity/)
+
+https://mindingourway.com/rest-in-motion/
 
 interesting how learning stuff like entrepreneurship, business, and leadership/mentorship and management also apply to yourself. . judge yourself from outside your perspective, you are very biased. you could be the only thing that's conscious. you are not aware of your brain. separate your thoughts and feelings, and understand the flow between them.
 
@@ -174,37 +173,47 @@ e.g. thinking about things systematically
 
 ben kuhn where he said project management isn't just about trying as hard as possible
 https://www.benkuhn.net/tmgr/
-
-> As an IC, you can often get away with a very simple time-management strategy:
-> Decide what your one most important thing is.
-> Work on it until it’s done.
-> GOTO 1
-> As a team lead, this isn’t going to work, because much more of your work is interrupt-driven or gets blocked for long periods of time. 
-
 https://www.benkuhn.net/impact/#make-success-inevitable
 
-> A common trait of high-agency people is that they take accountability for achieving a goal, not just doing some work. There’s a huge difference between the following two operating modes:
-
-> 1. My goal is to ship this project by the end of the month, so I’m going to get people started working on it ASAP.
-> 2. My goal is to ship this project by the end of the month, so I’m going to list out everything that needs to get done by then, draw up a schedule working backwards from the ship date, make sure the critical path is short enough, make sure we have enough staffing to do anything, figure out what we’ll cut if the schedule slips, be honest about how much slop we need, track progress against the schedule and surface any slippage as soon as I see it, pull in people from elsewhere if I need them…
-
-https://mindingourway.com/rest-in-motion/
-
-## College Advice
-
-- https://www.youngmoney.co/p/advice-22yearold-just-getting-started
-- https://www.benkuhn.net/college/#fnref:3
 
 
-#### extra points
-- You get rich by owning things
-- Do your best to meet good people for your circle and inspiring people. Just being around Olympains and seeing how hard they work will really show you. Similarly for high performing executives.
-- Maintain perspective on what's really important (at the end of the day your happiness)
-- People aren't born great at things. People can be born with an aptitude for things, which often needs to be discovered and then developed. Walt Disney's first animation went bankrupt.Steve Jobs wasn't a great CEO at first. JK Rowling single mother living on welfare who only got the first Harry Potter book accepted by the 13th publisher.   We remember others for their achievements, but we forget they also often made big mistakes.
-- Try and judge yourself from an external point of view. We are automatically egotistical. Common misconceptions: people usually care less than you think.
 
-Stuff I want to work on
-- Moving quickly
-- Removing fear from my decisions
-- Taking advantage of my opportunities
-- Selling myself
+#### College 
+
+https://www.youngmoney.co/p/advice-22yearold-just-getting-started
+
+https://www.benkuhn.net/college/#fnref:3
+
+
+#### learn how to think for yourself and learn how to learn
+
+Learn how to learn e.g. continually aim just beyong your current range, get deep knowledge on one topic, learn the value of tacit knowledge
+
+Find how to orient yourself/what you're smart at. then work hard and work smart for outsized returns
+
+maintain perspective on what's really important
+
+#### Personal advice
+
+##### move quickly
+https://www.benkuhn.net/impatient/
+
+dont have fear/be scared
+-it's a primitive emotion. we don't have much to be scared for now.
+
+take advantage of your opportunities.
+
+sell yourself.
+
+
+#### questions
+[lists of ideas](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
+[questions](https://patrickcollison.com/questions)
+
+
+(extra- career advice?)
+
+surround yourself with good people
+
+
+there's no silver bullet (life is complex and has many decisions and many heuristics that apply in many places. a lot advice conflicts too. you have to built a sense for yourself through experience). useful potentially overlooked stuff

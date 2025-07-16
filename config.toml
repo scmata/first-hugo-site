@@ -42,11 +42,11 @@ maxSeeAlsoItems = 5
 enableTwemoji = false
 
 
-#[taxonomies]
-#  category = "categories"
-#  series = "series"
-#  tag = "tags"
-#  author = "authors"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
 
 
 # Menu links
@@ -56,8 +56,14 @@ enableTwemoji = false
   url  = "posts/"
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
+  
+
+[[menu.main]]
+  name = "Bites"
+  weight = 2
+  url = "categories/bites/"
 
 
 [[menu.main]]

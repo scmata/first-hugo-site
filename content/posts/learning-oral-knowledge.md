@@ -11,6 +11,18 @@ externalLink = ""
 series = []
 +++
 
+
+How to learn
+
+make a taxonomy e.g. how to six step, how to top rock,
+
+business, market research.
+
+without that you don't have vocab to describe what you're learning. need words
+
+
+that's why at the start of every lesson you have learning outcomes and why things have specifications
+
 split into two articles? -> one about independent learning, the other about general learning
 
 
