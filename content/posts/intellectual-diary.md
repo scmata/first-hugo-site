@@ -98,7 +98,7 @@ Imaginary Philosophical Dialogues ?
 # Courses
 Thinking about doing a course in data sciene or something. Goodgle certificate
 
-
+Martin Peterson’s An Introduction to Decision Theory
 
 
 # YouTube videos
@@ -113,6 +113,19 @@ Friends
 Green Brothers
 Ben Francis
 
+
+# Top next things to read
+
+Book: Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong
+https://www.reddit.com/r/BettermentBookClub/comments/gniqfo/book_summary_barking_up_the_wrong_tree_by_eric/
+
+https://www.youtube.com/watch?v=5BesUAyNvFY&ab_channel=jayhoovy
+jayhoovy networking
+
+https://lethain.com/layers-of-context/
+layers of context
+
+
 # More stuff to read
 -Mankiw section on inequality
 Read more about research on inequality in general
@@ -120,6 +133,12 @@ Game theory of inequality?
 
 that stanford prof explaining everything he knows in 50 minutes, or his advice (jayhoovy i think)
 -recrring advice is that you should proably try start now becuase if you delay you might just get used to making money.
+
+https://www.youtube.com/watch?v=5BesUAyNvFY&ab_channel=jayhoovy
+jayhoovy networking
+
+https://www.youtube.com/watch?v=EC1ut0gmspk&ab_channel=VinhGiang
+networking vinh
 
 # High level themes
 Understanding learning, decision making and intelligence
@@ -132,7 +151,7 @@ game theory/cognitive science + AI
 comp. neuroscience + AI
 
 #### fashion
-those wide blakc trousers popular in asia
+those wide black trousers popular in asia
 
 
 
@@ -152,8 +171,7 @@ The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail
 
 [GMTK how to find game ideas-on the business of indie game development](https://www.youtube.com/watch?v=0m60QbT85Tc)
 
-Book: Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong
-https://www.reddit.com/r/BettermentBookClub/comments/gniqfo/book_summary_barking_up_the_wrong_tree_by_eric/
+
 
 
 the group of kids travelling around the world to visit each other's hometowns
@@ -1207,3 +1225,274 @@ In a related vein, this large-scale meta-analysis shows large (>0.5 Cohen's d) e
 #### questions
 [lists of ideas](https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html)
 [questions](https://patrickcollison.com/questions)
+
+####16/7/2025
+
+ I increasingly believe that driving conversation is at least as interesting as driving consensus, and probably even moreso. Growth comes from encountering different perspectives and evolving our thinking through those encounters
+
+
+ the law of the internet -> if you post the wrong take, somebody wull correct you
+
+
+ While taste is often focused on a single thing, it is often formed through the integration of diverse, and wide-ranging inputs. Steve Jobs has said, “I think part of what made the Macintosh great was that the people working on it were musicians and poets and artists and zoologists and historians who also happened to be the best computer scientists in the world.”
+
+
+ why you should learn to write
+
+ https://randsinrepose.com/archives/please-learn-to-write/
+
+
+ software development isn;t about writing code, it's about solving problems
+ https://blog.codinghorror.com/can-your-team-pass-the-elevator-test/
+
+
+
+https://www.youtube.com/watch?v=gA6r7iVzP6M&ab_channel=Fireship
+
+
+
+overconfidence and inside views of companies
+other people have low info heuristics e.g. 90% of companies fail
+https://www.benkuhn.net/overconfidence/
+
+https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine
+
+It spoke well of Mike Li that he was able to sense the aura of formidability surrounding Jaynes.  It's a general rule, I've observed, that you can't discriminate between levels too far above your own. E.g., someone once earnestly told me that I was really bright, and "ought to go to college".  Maybe anything more than around one standard deviation above you starts to blur together, though that's just a cool-sounding wild guess.
+
+building "thousand-year vampire aura"
+
+
+According to Strongbad:
+"Technology is anything that you don't understand how it works and if you break it you have to buy a new one."
+
+most elites are pretty competent, not just inhereted wealth
+https://www.lesswrong.com/posts/CKpByWmsZ8WmpHtYa/competent-elites
+
+(children of high functioning elites won't get an executive job unless they can handle it)
+
+
+pokemon playing AI 
+
+https://www.youtube.com/watch?v=DcYLT37ImBY
+
+
+[AI safety ](https://www.youtube.com/watch?v=JD_iA7imAPs)
+I think we are more or less just hardwired to be mildly optimistic and to act as if we can deal with everything. That's because generally that is the best way to act. There is no evolutionary advantage to being doomed and admitting it.
+
+-> we evolved to have hope. and also want to be alive.
+
+Agree. If you're doomed and recognize it, you die just as much as the guys who were doomed and didn't. But if you're not doomed and (wrongly) recognize it, you might die because you stop caring, and the ones who didn't do
+
+
+
+[robert miles AI safety-seems like it has some decent videos](https://www.youtube.com/watch?v=PYylPRX6z4Q)
+
+[iterated distillation and amplification](https://www.youtube.com/watch?v=v9M2Ho9I9Qo)
+
+
+
+Ezra Klein: The rationality community.
+
+Tyler Cowen: Well, tell me a little more what you mean. You mean Eliezer Yudkowsky?
+
+Ezra Klein: Yeah, I mean Less Wrong, Slate Star Codex. Julia Galef, Robin Hanson. Sometimes Bryan Caplan is grouped in here. The community of people who are frontloading ideas like signaling, cognitive biases, etc.
+
+Tyler Cowen: Well, I enjoy all those sources, and I read them. That’s obviously a kind of endorsement. But I would approve of them much more if they called themselves the irrationality community. Because it is just another kind of religion. A different set of ethoses. And there’s nothing wrong with that, but the notion that this is, like, the true, objective vantage point I find highly objectionable. And that pops up in some of those people more than others. But I think it needs to be realized it’s an extremely culturally specific way of viewing the world, and that’s one of the main things travel can teach you.
+
+This isn't at all to say that small-r rationalism isn't useful, but Rationality as an ~ideology, and the community itself, is less impressive than it seems to perceives itself to be (in Tyler's opinion, with which I strongly agree).
+
+
+would like to read more about the philosophy of decision theory later
+
+e.g. the difference between Causal Decision Theory  and Evidential Decision Theory
+
+
+https://chatgpt.com/share/68786908-5754-8003-9ffe-0da1b44fe55b
+
+
+The area you want to explore is generally called Philosophy of Decision Theory or more broadly, Philosophical Decision Theory. It intersects several fields:
+
+Key fields and topics to look into:
+Decision Theory (Philosophical and Formal)
+
+This is the core field studying how agents should make choices under uncertainty.
+
+It covers normative theories (like CDT, EDT, and others), as well as descriptive theories (how people actually decide).
+
+Philosophy of Action
+
+Explores what it means to act, how actions relate to intentions, reasons, and consequences.
+
+Foundational for understanding decision-making as intentional choice.
+
+Epistemology (Theory of Knowledge and Belief)
+
+Since EDT, for example, involves conditioning on evidence, epistemology overlaps with decision theory regarding how beliefs and evidence affect rational choices.
+
+Formal Epistemology
+
+Uses mathematical tools (probability theory, logic) to study knowledge, belief, and rational decision-making.
+
+This is where Bayesianism comes in as a foundational framework.
+
+Game Theory
+
+Though often a separate branch of economics and math, it overlaps with decision theory in analyzing strategic interactions and rational choice.
+
+Philosophy of Probability
+
+Understanding the foundations and interpretation of probability is crucial for grasping Bayesian reasoning underlying EDT and FDT.
+
+Recommended starting points / texts:
+"An Introduction to Decision Theory" by Martin Peterson — a clear philosophical introduction covering CDT, EDT, and other theories.
+
+"Rational Choice and Decision Theory" by Steven J. Brams — accessible intro to formal decision and game theory.
+
+"The Foundations of Statistics" by Leonard Savage — classic work on Bayesian decision theory.
+
+"Epistemology and the Psychology of Human Judgment" by Michael Bishop and J.D. Trout — for the intersection of epistemology and decision theory.
+
+Articles in the Stanford Encyclopedia of Philosophy:
+
+Decision Theory
+
+Bayesian Epistemology
+
+Rational Choice Theory
+
+More advanced:
+Work by philosophers like James Joyce, Brian Skyrms, Peter Walley, and Derek Parfit often discuss decision-theoretic puzzles and foundational questions.
+
+For newer stuff including FDT and related ideas, the Machine Intelligence Research Institute (MIRI) and rationalist writings are useful supplements.
+
+to learn about:
+
+Arrow’s Impossibility Theorem: No voting system can perfectly translate individual preferences into a collective decision without violating certain fairness criteria (like non-dictatorship, unanimity, independence of irrelevant alternatives).
+
+intelligence is emergent -> conways game of life
+
+the emergent phenomenum has consciousness, and it believes it is aware, which is cool
+
+https://www.lesswrong.com/posts/fPvssZk3AoDzXwfwJ/universal-basic-income-and-poverty
+^interesting view on pvoerty
+
+maybe instead of measuring amount of good or energy produced, we could measure time needed to survive
+
+e.g. how many hours do we need to work to have basic needs like food, water and shelter (and friends?)
+
+instead of measuring wealth maybe that's what we should be measuring
+
+which is the whole thing about maybe GDP isn't the best metric and other ways to measure the wellbeing of a nation (e.g. PPP)
+
+
+https://scottaaronson.blog/
+
+https://scottaaronson.blog/?p=8972
+https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/
+
+https://chatgpt.com/share/687889d7-5eec-8003-ac24-3f2221b84aa8
+
+
+on rationalist community
+
+https://scottaaronson.blog/?p=8908
+
+
+"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela
+
+
+https://chatgpt.com/share/68788d94-a7b0-8003-a0e9-e88152378b4d
+
+Tarski's defintion of truth -> formal languages
+
+meta and object language to remove the paradox of "this sentence is false".
+
+formal languages
+
+https://chatgpt.com/share/68788d94-a7b0-8003-a0e9-e88152378b4d
+
+
+[reasoning LLMs](https://blog.apiad.net/p/reasoning-llms)
+
+
+LLM formal language
+
+https://arxiv.org/abs/2502.17216
+
+https://arxiv.org/html/2502.17216v1
+
+can you train on formal language? i.e. create large scale training data that only contains formal language, and use comrpession/remove the examples that don't exist
+
+but this might only work cus like logic only works for deduction
+
+yeah so need somewhere between the vast induction of LLMs which is like mindless induction and you can generate stuff that conradicts and the formal language/deduction capabilities of formal languages where you can't express a wrong statement
+
+language of induction?
+
+the solution? maybe Bayesian reasoning again lol
+
+in research you have to decide on your own syllabus and decide your own education
+
+skinner box playing basketball
+
+the less wrong post about actually understanding words instead of just using them to get the right answer 
+
+e.g. particles are waves sometimes
+
+but what are waves?
+
+https://www.lesswrong.com/posts/WBdvyyHLdxZSAMmoz/taboo-your-words
+^like this but also mentions how students would learn more quickly if they did this
+
+like heat conduction
+
+it was this! [guessing the teacher's password](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password)
+
+
+https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding
+
+
+https://www.lesswrong.com/s/SGB7Y5WERh4skwtnb/p/i2dfY65JciebF3CAo
+
+
+interesting to learn about the philosophy of quantum mechanics
+
+https://www.reddit.com/r/slatestarcodex/comments/1b6ofi0/whats_the_story_of_the_big_lesswrong_debate_about/
+
+probably some of my intuitions about e.g. events and consequences are slightly incorrect
+
+starting a university/learning community would be cool
+
+allowing you to learn more quickly, using independent tools
+
+
+https://news.ycombinator.com/item?id=30489354
+
+
+"Group dynamics from a systems perspective" sound interesting. idk how much theory behind it there is though
+
+
+https://www.hardproblems.com/
+
+“The best minds of my generation are thinking about how to make people click ads. That sucks.” — Jeff Hammerbacher, 2011
+
+geek heresy
+
+ben kuhn original post
+
+[notes on taste](https://www.are.na/editorial/notes-on-taste)
+
+[i enjoyed reading this as a case study of learning](https://lethain.com/monocle-studios/)
+
+-> is project based learning rally the best way to learn if we don't let people fail like this>
+
+by having a rubric for the project we don't allow people to fail. and to experience how to pibot from failure
+
+[developing research taste](https://colah.github.io/notes/taste/)
+
+“The best minds of my generation are thinking about how to make people click ads. That sucks.” — Jeff Hammerbacher, 2011
+
+
+You don't have to solve the majority of hard problems you encounter in either business, design, or programming. Almost all of them can be restated as an easy problem, if you dare question the assumptions, reweigh the trade-offs, and stop diving after sunk cost.
+
+https://world.hey.com/dhh/try-hard-not-to-solve-hard-problems-9e6550a2

@@ -60,10 +60,10 @@ enableTwemoji = false
   url = "about/"
   
 
-[[menu.main]]
-  name = "Bites"
-  weight = 2
-  url = "categories/bites/"
+#[[menu.main]]
+#  name = "Bites"
+#  weight = 2
+#  url = "categories/bites/"
 
 
 [[menu.main]]

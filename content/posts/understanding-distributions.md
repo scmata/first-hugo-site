@@ -57,3 +57,16 @@ income vs wealth inequality (UK)
 
 happiness curve
 https://www.profgalloway.com/rich-kids/
+
+false two dimensional tradeoffs
+https://lethain.com/multi-dimensional-tradeoffs/
+
+
+skinner boxes
+
+social media 
+basketball
+
+also the parado where you can calculate EV what should you do 
+
+in rosen textbook talking about pascals wager/decision theory

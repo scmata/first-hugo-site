@@ -1,8 +1,17 @@
----
-title: "Cost of living crisis visualised"
-date: 2025-06-24T17:12:43+01:00
-draft: false
----
++++ 
+draft = false
+date = 2025-06-24T17:12:43+01:00
+title = "Cost of living crisis visualised"
+description = ""
+slug = ""
+authors = []
+tags = []
+categories = ["data"]
+externalLink = ""
+series = []
++++
+
+
 
 
 Over the last few years, many in the UK have felt the pressure of rising costs—from groceries to gas bills, rent to rail fares. But this isn't just inflation. The UK is facing a cost of living crisis, where essential costs have risen disproportionately faster than incomes, deepening economic hardship for millions.

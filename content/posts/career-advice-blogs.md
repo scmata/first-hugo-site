@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2025-07-07T19:43:51+08:00
 title = "The best life advice blogs I've read"
 description = ""
@@ -10,6 +10,11 @@ categories = []
 externalLink = ""
 series = []
 +++
+
+difference between working hard/performative hard work and actualy hard work
+
+there's a blog post somewhere saying that the first is easier
+
 
 
 Life and career advice for ambitious young people
@@ -199,6 +204,7 @@ https://mindingourway.com/rest-in-motion/
 #### extra points
 - You get rich by owning things
 - Do your best to meet good people for your circle and inspiring people. Just being around Olympains and seeing how hard they work will really show you. Similarly for high performing executives.
+- get as close as you can to people who define your definition of success. your definition will probably change, but being able to interact with them will give you way more data than reading about them or watching podcasts on them
 - Maintain perspective on what's really important (at the end of the day your happiness)
 - People aren't born great at things. People can be born with an aptitude for things, which often needs to be discovered and then developed. Walt Disney's first animation went bankrupt.Steve Jobs wasn't a great CEO at first. JK Rowling single mother living on welfare who only got the first Harry Potter book accepted by the 13th publisher.   We remember others for their achievements, but we forget they also often made big mistakes.
 - Try and judge yourself from an external point of view. We are automatically egotistical. Common misconceptions: people usually care less than you think.

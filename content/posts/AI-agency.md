@@ -50,3 +50,13 @@ john fish on reading for productivity
 low resource languages
 
 technology and the rise of great powers - on how capacity to diffuse technoigies effects power and econmic grwoth
+
+cluely sales
+
+second brain without any of the effort
+
+
+“I often look at people’s achievements and think: I wish I’d done that. More rarely, I see the work that went into those achievements and think: I wish I were doing that. Chase the latter.” (a)
+
+
+https://twitter.com/RichardMCNgo/status/1282300341850189824
