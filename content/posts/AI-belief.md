@@ -14,6 +14,10 @@ series = []
 
 AI can't believe in things. It can't wrestle with a topic.
 
+AI has no conception of growth/learning more
+ and god etc./progress
+
+
 what does it mean to live a good life? what is good? does god exist? 
 
 simon sinek-getting to conclusion is not the answer

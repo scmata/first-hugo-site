@@ -15,6 +15,7 @@ difference between working hard/performative hard work and actualy hard work
 
 there's a blog post somewhere saying that the first is easier
 
+none of these changed mu life/will change your life. trying them out and seeing which are true and how to applu them in your real life will.
 
 
 Life and career advice for ambitious young people

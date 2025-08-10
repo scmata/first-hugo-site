@@ -14,6 +14,39 @@ series = []
 
 # Stuff I want to do
 
+# top next stuff
+https://fs.blog/mental-models/#microeconomics
+
+economics and sociology textbooks
+
+expanding circles peter singer
+
+doing good better
+
+famine affluence and morality peter singer
+https://rintintin.colorado.edu/~vancecd/phil308/Singer2.pdf
+
+
+the selfish gene maybe
+
+read generative agent agent based modelling papers
+
+Founders at work
+or the nike book
+
+# interesting stuff
+
+growing artificial societies
+https://complexityexplorer.s3.amazonaws.com/Mesa+ABM/epstein_axtell.pdf
+
+the expanding circle peter singer
+https://www.stafforini.com/docs/Singer%20-%20The%20expanding%20circle.pdf
+
+simon dedeo
+https://www.reddit.com/r/Economics/comments/2bpd9v/simon_dedeo_on_how_and_when_to_apply_fine_grained/
+
+
+
 ## Hobbies
 - Learn how to DJ
 - Learn how to drum
@@ -251,41 +284,6 @@ Colin and samir backlog
 
 
 
-consulting books
-- [McKinsey frameworks](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-classic-mckinsey-frameworks-that-continue-to-inform-management-thinking)
-- The McKinsey Way Ethan M. Rasiel
-- The Consulting Bible by Alan Weiss
-- Bulletproof Problem Solving
-- The Lords of Strategy Walter Kiechel III
-- flawless consulting peter block
-- value chain analysis?
-- never split the difference
-
-
-- The McKinsey Mind Ethan M. Rasiel
-- The McKinsey Engagement
-- Getting Started in Consulting by Alan Weiss
--  Flawless Consulting: A Guide to Getting Your Expertise Used by Peter Block
-- Managing The Professional Service Firm by David Maister
-- The Management Consultant, Managing the art of consultancy Richard Newton
-- [How to get a job in consulting](https://www.amazon.com/How-Get-Job-Consulting-Second/dp/1516905261)
-- best case study/interview book? ("Crack the Case" and "Case in Point" maybe)
-- The Firm by Duff McDonald
-- https://www.reddit.com/r/consulting/wiki/index/mcreading/
-- [this blog seems pretty useful in general](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-classic-mckinsey-frameworks-that-continue-to-inform-management-thinking)
-- https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/want-better-strategies-become-a-bulletproof-problem-solver
-- [The Goal](https://www.reddit.com/r/slatestarcodex/comments/ibsa89/seriously_wheres_the_bottleneck_the_goal_book/) - basically just says you need to understand the critical path
-- [frameworks](https://managementconsulted.com/case-interview-frameworks/)
-- [ecosystem management](https://managementconsulted.com/mckinsey-digital-assessment/)
-- Pedigree: How Elite Students Get Elite Jobs
-understanding cognitive biases and managing people
-- Influence by Cialdini
-
-The classic consulting toolkit makes the complex things understandable. In this day and age, if you can apply basic consulting tools well (value chain analysis, the McKinsey portfolio matrix, or hell, just being MECE and having a vague understanding of discounted cash flows), you will go much further than most.
-
--[behavioural interview question bank](https://www.reddit.com/r/consulting/wiki/index/fitquestions/)
--[fit interview](https://www.reddit.com/r/consulting/wiki/index/fitinterview/)
-
 
 Other business books
 - 7 Powers by Hamilton Helmer 
@@ -304,6 +302,12 @@ debating/persuading
 [career books-squiggly career/you coach you](https://www.amazingif.com/books/)
 
 How do you find your strengths and weaknesses without bias?
+
+
+#### good YT channels
+
+one YT channel on banking
+https://www.youtube.com/@rareliquid/videos
 
 
 
@@ -895,6 +899,7 @@ Anthpo's structure of ideas
 
 6 principles of influence/pyschology of consumption
 
+
 social liking
 
 how we consume things/are influenced. all of our feelings and emotion can be categorised into one of these six things
@@ -1115,6 +1120,8 @@ https://ccl.northwestern.edu/rp/MindtheGap/index.shtml
 
 https://ccl.northwestern.edu/netlogo/bind/
 
+
+[sugarscape stuff cool wealth distribution](https://ccl.northwestern.edu/netlogo/models/Sugarscape3WealthDistribution)
 
 econophysics
 https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0396
@@ -1496,3 +1503,1078 @@ by having a rubric for the project we don't allow people to fail. and to experie
 You don't have to solve the majority of hard problems you encounter in either business, design, or programming. Almost all of them can be restated as an easy problem, if you dare question the assumptions, reweigh the trade-offs, and stop diving after sunk cost.
 
 https://world.hey.com/dhh/try-hard-not-to-solve-hard-problems-9e6550a2
+
+
+[nonchalant NBA plays but they get increasingly mroe impressive](https://www.youtube.com/watch?v=BfxMqRoeUqM)
+
+^even the most basic curation is useful
+
+[good interview about engineering in academia vs industry](https://www.youtube.com/watch?v=IYUN104W3Io&ab_channel=LeonExMachina)
+
+https://www.youtube.com/watch?v=wqn3gR1WTcA&ab_channel=LastWeekTonight
+
+fireship vscode course? or app course?
+
+
+[obsidian](https://stevengong.co/notes/Obsidian)
+
+https://help.obsidian.md/
+
+seems cool -> conceptual note taking. i wonder how it works 
+
+-> would be nice if it's compatible with markdown
+
+[very good obsidian tutorial](https://www.youtube.com/watch?v=MYJsGksojms&ab_channel=ChrisPomeroy)
+
+https://www.youtube.com/watch?v=jqHXJ3O7WGw&ab_channel=ForrestKnight
+
+
+https://www.youtube.com/watch?v=vwDhv-9XqcE&ab_channel=LizRowe
+millionaire
+
+https://www.youtube.com/watch?v=scX0gjYqbDc&ab_channel=YourAverageTechBro
+
+
+[on shortification of learning](https://x.com/karpathy/status/1756380066580455557)
+
+https://www.youtube.com/watch?v=A6NT4vnhaSQ&ab_channel=YourAverageTechBro
+
+
+https://www.youtube.com/watch?v=VcHjfp6YZQs
+
+self love-devon rodriguez
+https://www.youtube.com/shorts/lAdA698c0ps
+
+
+
+https://www.youtube.com/watch?v=uxoCnxlxpIk&list=PLxq_lXOUlvQD7UUTnQET1KBYBfJltvL4R
+https://www.youtube.com/watch?v=0SQor2z2QAU
+
+last lecture series stanford business school on having a north star
+
+
+kind of want to watch this
+Scott breaks down whether private school is worth the cost. He then offers thoughts on how women can shape father-son relationships and wraps up with discussing whether it’s still a good idea to raise children in today’s America. Want to be featured in a future episode? Send a voice recording to officehours@profgmedia.com, or drop your question in the r/ScottGalloway subreddit. Learn more about your ad choices. Visit podcastchoices.com/adchoices
+
+Master of technology and global affairs?
+
+
+businesses that will be left whe people die
+70% of uk wealth in old people statistic
+
+How biased are CEO predictions usually?
+
+Where you live and your environment has a huge prior on your beliefs and how you live life.
+
+
+The value of news
+
+People are more easily spoken to their pains, not their desires
+
+housing is an investment vehicle right now -> the asset price is much above what you would earn in rent
+
+1/20 people are landlords
+1/5 people rent
+
+
+severance TV show ->
+
+interesting how it shows how media can control your ideas. links to the attention/religion thing
+
+
+how books control you/the media controls your ideas
+
+
+Hiring for work e.g. difficult
+Ideally you would know what you need and have on their CV assessed experience very closely related to the role
+Rn instead you have a degree which shows general thinking and some hoops to jump through with interviews etc
+
+
+Go Youtube "Train Like A Ballerina" and look up her video called "How To Get Into The Side Split, Fast!". This video is GOLD. Coming from an ex-dancer, she covers exterior AND interior hip rotations (hard to find!) as well as lower back stretches- ALL of the groups you need to do a side split! I wish someone had outright told me how important and life saving mobility workouts are when I was a pro. Also, your workout routine should be mobility exercises, then strength building exercises, THEN stretching very last! Please don't stretch cold muscles!! That's a highway for injury. Watch how much more your muscles move after you're warmed up, it's night and day! Good luck, you're so close!!
+
+AI as normal technololgy
+Barriers also exist in non-safety-critical applications. In general, much knowledge is tacit in organizations and is not written down, much less in a form that can be learned passively. This means that these developmental feedback loops will have to happen in each sector and, for more complex tasks, may even need to occur separately in different organizations, limiting opportunities for rapid, parallel learning. Other reasons why parallel learning might be limited are privacy concerns: Organizations and individuals might be averse to sharing sensitive data with AI companies, and regulations might limit what kinds of data can be shared with third parties in contexts such as healthcare.
+
+llm thinking e.g. cooking. simon sinek point about struggle
+
+
+Global vs. Domestic Triggers
+•	Around 80% of inflation drivers are global—pandemic aftermath, geopolitics, energy markets en.wikipedia.org.
+•	But domestic policy—tax increases, interest rates, underinvestment in housing and energy efficiency—amplifies the impacts.
+
+
+pathless path on meaning at work
+-> the tough moments are meaningful
+
+https://civilservice.blog.gov.uk/2019/07/08/please-dont-call-me-bame-or-bme/
+
+https://civilservice.blog.gov.uk/category/civil-service-race-champion/
+
+Race Champion? Interesting title
+
+
+cognitive dissonance in how something is phrased (Veritasium video) – more simple language makes it easier to learn
+How does wiseness change between 30 and 20?
+
+Does university need to be hard to learn? Or can we learn in a less stressful/fun way?
+University is meant to be hardt o learn? Princeton vs oxford
+University meant to get easier once you get in in the USA
+
+Know what clubs to join, (clubs being universities, oranisations) know how to succeed/get the most you can out of those clubs
+
+Video games I want to create, stealth
+
+Gap between academia and industry
+Industry based on practice, science based on logical theory e.g. economics
+Science communication
+Best science communication I’ve seen: murderous maths, 3b1b
+
+
+how to make AI sound less generic? or how to actually sound like a person instead of what most people think that person looks like
+
+the value of data and statistics-> really cool article
+https://ourworldindata.org/limits-personal-experience
+
+these two are cool too:
+https://ourworldindata.org/much-better-awful-can-be-better
+https://ourworldindata.org/problems-and-progress
+
+[parenting advice in the digital age](https://notebooklm.google.com/notebook/505ee4b1-ad05-4673-a06b-1ec106c2b940)
+
+audio turing test? wonder when we will pass it
+
+https://www.youtube.com/watch?v=HABFEs90MZ8&ab_channel=EnricoTartarotti
+
+
+https://www.youtube.com/shorts/LfosPTS3J5Y
+
+Build your own X programming format
+
+https://www.youtube.com/@ArcherNewton/videos
+
+
+icanstudy people
+
+https://www.youtube.com/@JustinSung/videos
+
+
+https://www.youtube.com/watch?v=75Qzt2-2jtA&ab_channel=ArcherNewton
+
+https://www.youtube.com/watch?v=RX0uI9d02QE
+
+
+[leverage](https://archernewton.com/opportunity-cost-vs-leverage/)
+
+[intersting idea. if you'er13-21 watch this vdeio](https://www.youtube.com/watch?v=75Qzt2-2jtA&ab_channel=ArcherNewton)
+If you're 80% likely to say yes to a plan, just say yes.
+
+[text](https://www.youtube.com/watch?v=WekYzo7L8cQ&ab_channel=JamesSmith)
+
+i can read first page of zero to one by peter thiel completely differently now
+
+“What important truth do very few
+people agree with you on?”
+
+being able to answer this question (in the way it's intended) means having a very good grasp of the present and being able to think about future trends/things people haven't capitalised on and be able to articulate it, or see that it will provide value.
+
+usually by seeing a hint of it at first, or working with a small sample size, but believing it will work at scale.s
+
+it's like being able to predict which parts of the market aren't efficient yet
+
+
+zero to one is the hardest part, because there is no guide book. shouldn't feel bad for struggling at points and doubting
+
+or even doubting the idea
+
+currently had a bit of a freeze between work hard -> defining yourself around work . what do we work for? to enjoy life. why not enjoy life now? because need to lock in to make stuff happen
+
+but can enjoy small moments too. rarely you need 90 hour work week.s
+
+also need time to pivot/focus on an idea. but once you do you need to go all in.
+
+motivation in solo sports -> forcing urself to go that doesnt come with team sports
+
+even brilliant is an app for learning
+
+being able to create videos that people
+
+
+I am a 59 year old widowed grandma and I don’t know who 90% of the people you cover even are, but I still watch every video you upload, always watching till the end, always glad I did. Your content is just that good! 😊
+
+salt bae downfall
+https://www.youtube.com/watch?v=VcHjfp6YZQs
+
+
+all the things described as a marriage
+-> PhD student/advisor
+
+(karpathy blog)
+
+cofounders fr startups
+
+
+#### 23/7/25
+
+ben kuhn management tip: when having  alot of things to manag e.g. friendships, don't think about all the individuals friendships to be maintained. put in a fixed amount of time per day/week and see where that leads.
+
+easier when you dont distribute texting over the whole day and instead like do like ive done in china and check whatsapp on laptop every night or something. i think that could be a fairly good system. and then only have notifs for very close people ig. and schedule calls w the rest and also close ppl cus they're more efficient
+
+
+https://www.youtube.com/watch?v=js8OfeEL4jI&ab_channel=MykChiz
+
+25/7/25
+
+Subjective or not, we need stories. Stories are essential to us because they help make sense of the world. They carry our values, preserve our history, and spark our imagination. Through stories, we connect with others, learn from past experiences, and explore what it means to be human. No matter your nationality, culture, or religion, we have all heard countless stories that have shaped us. Told us by our grandparents, parents, teachers, friends, and colleagues at work. Stories evoke emotion, inspire action, and shape our identity, both individually and collectively. In every culture and across every age, storytelling has been a powerful means of understanding life, sharing knowledge, and building community.
+
+
+## 27/7/2025 
+
+coach and player relationship is kind of like a marriage
+
+skinner boxes - social media, basketball
+
+30/7/2025
+
+Fear and phobias	We’re more likely to fear snakes, spiders, heights—ancient threats—not cars or outlets
+
+
+
+Machiavelli – The Prince: Manipulative and controversial, but useful for understanding realpolitik power dynamics.
+
+Sun Tzu – The Art of War: Strategy, leverage, and timing.
+
+## 30/7/2025
+
+not much engineeringjobs for oxford grads-idea of deafult prestiguous path with freddie
+
+geek heresy
+
+The dominant voices in public policy model people as having the same fixed preferences.41 Most economists, for example, think about how to tune external incentives to produce mass changes in behavior.42 Market mechanisms are exalted precisely because they sculpt the supposedly granite hardness of human greed into architecture that uplifts us all. Few think about causing long-term changes in society through growth in individual character.43
+
+Most public policy assumes that people’s preferences are fixed, especially their desire for self-interest or personal gain. So policies focus on changing external incentives (like taxes, prices, or punishments) rather than changing people themselves (like values, character, or moral development).
+
+Max Weber 
+Weber defined three kinds of legitimate authority:
+
+Traditional: based on custom (e.g., kings, elders)
+
+Charismatic: based on personal appeal (e.g., prophets, revolutionaries)
+
+Rational-legal: based on rules and laws (e.g., modern governments, bureaucracies)
+
+Weber thought that to truly study society, we must understand the meanings people attach to their actions — a method he called verstehen (German for “understanding”).
+
+Sociology, for him, wasn't just about numbers — it was about grasping subjective motivations.
+
+
+Why Durkheim Matters Today
+He laid the foundation for functionalism — a major sociological perspective that sees society as a system of interdependent parts working to maintain stability.
+
+
+we study history not to not make the mistakes of the past, we do it to learn how to shape the future and gain inspiration. past problems are not future problems, especially as the world keeps changing.
+
+(some of the past problems are the same-like loyalty)
+
+
+learnt about rent seeking economic term
+
+Great question.
+
+The term "rent-seeking" comes from the economic concept of "economic rent"—but not in the everyday sense of paying rent for an apartment. Here's the breakdown:
+
+🧾 What is "economic rent"?
+In economics, economic rent refers to:
+
+**Any income earned from owning a resource (like land, a license, or a monopoly) ** without doing anything productive to earn it.
+
+It’s a kind of unearned gain—money made not by creating value, but by controlling access to something valuable.
+
+Example:
+
+If you own land and charge others to use it, you earn rent.
+
+But if the government gives you a license that blocks others from competing with you, and you use it to charge higher prices, you’re also earning economic rent.
+
+🏛️ What is "rent-seeking"?
+So, rent-seeking is when people or businesses try to obtain or protect these unearned gains—usually by influencing the government or legal system.
+
+They’re "seeking rent" by:
+
+Lobbying for monopolies
+
+Pushing for exclusive licenses
+
+Asking for subsidies or tariffs that hurt competitors
+
+Getting favorable regulation that limits competition
+
+🧠 Why it matters:
+Rent-seeking is seen as wasteful and harmful to the economy because:
+
+It diverts resources away from innovation and productivity
+
+It creates inefficiencies and unfair advantages
+
+It can lead to corruption and inequality
+
+📌 Summary:
+It's called rent-seeking because it involves trying to get unearned income ("economic rent")—not by creating value, but by manipulating systems (like politics or regulation) to gain special treatment.
+
+
+Tammany Hall political machines
+
+It helped immigrants, especially Irish, by providing jobs, legal help, and housing — but in return, it demanded votes.
+
+Tammany Hall became notorious for corruption, graft (illegal use of public funds), and election fraud.
+
+
+economics idea: studying the markets for wealthy individuals. stuff like price elasticity should matter less to them, what do they spend money on? can we get them to spend money on more worthwhile things
+
+got idea while reading geek heresy at some point
+
+agent based modelling + peter singer's expanding models
+
+
+the better angels of our nature steven pinekr
+
+
+Stereotype threat (Steele & Aronson, 1995) — This psychological phenomenon shows that when people are reminded of negative stereotypes about their group (e.g., women being bad at math, Black students underperforming on standardized tests), they tend to perform worse. So, making disparities explicit (like pointing out group differences before a test) can actually hurt people’s performance.
+
+hope is a key thing for mental health of a community -geek heresy
+
+other things to read
+
+Isaac Asimov's books
+
+The Foundation series – A science fiction epic exploring the rise and fall of a galactic empire, heavily inspired by Gibbon’s Decline and Fall of the Roman Empire.
+
+I, Robot – A collection of short stories that introduced his famous Three Laws of Robotics, which have deeply influenced both science fiction and real-world discussions about AI and ethics.
+
+Robot and Empire series – These later merged with the Foundation universe, creating a vast future history spanning tens of thousands of years.
+
+Arthur Clarke - 2001: A Space Odyssey
+
+Heinlein: Stranger in a Strange Land 
+
+geek heresy
+
+William Easterly foreign-aid critic
+
+the technocratic illusion is to think that we suffer from a "shortage of expertise". What we have instead is either a shortage of caring or a shortage of capable follow-through. discernment is just the beginnig.
+
+heart, mind and will
+
+
+The Amplifier Illusion: Why Tech Alone Can’t Change the World
+
+
+Beyond the Code: Why Technology Alone Can’t Change the World
+
+The Human Solution: Rethinking Technology and Development
+
+Tools Without Wisdom: The Limits of Techno-Solutionism
+
+People Before Platforms: Reclaiming Human Agency in a Digital World
+
+The Innovation Illusion: Why Good Tech Needs Good Institutions
+
+The Myth of the Digital Savior: Why Tech Alone Can’t Change the World
+
+
+intrinoia -> our development of wisdom/ heart, mind and will is constrained by our external circumstances
+
+likewise our knowledge is constrained by externeal circumstances
+
+technological determinism
+
+geography shapes what is possible for people
+
+
+need a word for metacognition of a group of people/all of humanity
+
+Commognition
+
+
+Mentexus 
+
+meta cogplexus
+
+meta cognexus
+
+
+Intrinoia 
+Intrinoplex
+
+
+
+meta cogplexus
+
+
+
+There exists a vast, intricate network—an endless web of countless points linked by invisible threads. Each point pulses with fleeting sparks of energy, sending signals that ripple through the network in rapid, fluid patterns. No single point holds all the knowledge or meaning; instead, it is the connections between them that give rise to something far greater than any individual element. This system hums with a silent intelligence, constantly adapting, learning, and evolving.
+
+some nodes die, some multiply. as time changes 
+
+connections get stronger and weaker over time.
+
+scientist studying in groups
+
+they are all working towards something bigger, each being individually unaware.
+
+
+At first glance, it might seem like the inner workings of a single mind—millions of impulses firing and weaving together to form thought itself. But as you step back, the pattern mirrors something much larger. Imagine now that each point is not a tiny spark inside a brain, but a person—each thinking, feeling, and sharing. These individuals link together in conversations, communities, and cultures, their ideas passing from one to another, sparking new insights and innovations.
+
+This larger network is humanity itself, an emergent organism of collective cognition. Like the neurons within a brain, individual minds alone cannot grasp the full scope of understanding. But together, connected through language, art, technology, and shared experience, we create a collective intelligence—an expansive mind capable of profound awareness and creativity.
+
+This network pulses with possibility. Every thought exchanged, every connection made, feeds the whole. The emergent mind of humanity is a living, breathing entity—shaped by us, yet transcending us. It is the unseen force driving progress, empathy, and discovery, a testament to the power of connection and the mysterious ways in which countless sparks can ignite a brilliant, shared consciousness.
+
+you should limit the amount of details, and then make every detail perfect
+
+Nobody wants to take risks anymore - three headed statue in 
+
+at the end of the day, a competitors business is just a group of other people.
+
+your people just need to be better than their people.
+
+geography shapes meaning
+-> e.g. ben francis, one company influencer mearketing succeeded, others founded in australia failed
+
+people usually think about marginal ideas, not paradigm shifting or changing industries
+
+for second you need longer term commitment and you need to be hungry
+
+I need to learn how to get in the room
+
+one week getaway for impactful peoples
+(TigerTrek)
+
+travel company based on experiences with actual peoples
+
+best thing is for people to learn to be able to mentor themselves
+-> do the most driven people, such as people in similar situations as me need them as much, or can they figure it out themselves
+
+show yu work not as impactful cus you don't see the story
+
+the world runs on stories
+
+
+be willing to break the rules
+
+thinking about how to connect humanity?
+
+the first black irish billionaire? 
+
+you limit yourself to what you've seen implicitly
+e.g. me watching ali abdaal before constrained my business aspirations to an extent
+
+
+but most thigns have been done before, you just need to hear about it e.g. i n out, raising canes
+
+so you just need to hear about the right things
+
+it's crazy to think I didn't have any natural inspirations growing up - I didn't know who to aspire to be even. I just knew I wsa different.
+
+wasn't a fan of football players for some rason, or fast cars. wanted to live in the real world.
+
+we imagine competition is so good, when probably it's not even that good.
+
+scaling is difficult though, especially trying to maintain constant growth rate too.
+
+
+Ask ELS groupchat about housing market and prices?
+
+https://chatgpt.com/share/688b0e2d-0540-8003-816e-6ef1b4f7161e
+
+https://chatgpt.com/share/688b0e5d-3b8c-8003-a865-a1b8eb80350d
+
+https://www.howtomeasureanything.com/
+
+https://www.lesswrong.com/posts/ybYBCK9D7MZCcdArB/how-to-measure-anything
+
+https://towardsdatascience.com/how-metrics-and-llms-can-trick-you-a-field-guide-to-paradoxes/
+https://towardsdatascience.com/a-well-designed-experiment-can-teach-you-more-than-a-time-machine/
+
+
+https://towardsdatascience.com/how-not-to-mislead-with-your-data-driven-story/
+
+
+https://towardsdatascience.com/transformers-and-attention-are-just-fancy-addition-machines/
+
+
+https://towardsdatascience.com/why-bi-in-the-ai-age/
+
+
+german debt shown to scale
+https://towardsdatascience.com/what-germany-currently-is-up-to-debt-wise/
+
+
+https://towardsdatascience.com/when-50-50-isnt-optimal-debunking-even-rebalancing/
+
+share my article with steven gong
+https://stevengong.co/notes/Important-Work
+https://stevengong.co/notes/Andrej-Karpathy
+
+CHARLIER MUNGER said this
+read it
+
+https://fs.blog/mental-models/#microeconomics
+
+
+very cool fun YT channel about performing on the streets
+
+As Jim Carey said "my dad could have been a great comedian but he got a job at a bank because that was supposed to be 'stable', he was let go from that job and I learned that you can fail at something you don't love, so why not take a chance on something that you do" 
+
+https://www.youtube.com/watch?v=L9d--sCmGS4
+
+https://www.youtube.com/watch?v=XOhVt2SN2rw
+
+https://www.youtube.com/watch?v=bhVNu54_T8s
+
+
+scraping steam data dataset
+
+https://www.youtube.com/watch?v=qiNv3qv-YbU
+
+
+
+useful lip sync websites
+https://forum.readyplayer.me/t/guide-blendshapes-morph-targets-and-shape-keys/222
+
+https://docs.readyplayer.me/ready-player-me/api-reference/rest-api/avatars/get-3d-avatars?_gl=1*1r188cx*_gcl_au*MTUwODE0ODY0OS4xNzU0MDI4MjkyLjEzODg2MzM4OS4xNzU0MDI5NTI3LjE3NTQwMjk1MjY.
+
+https://docs.readyplayer.me/ready-player-me/api-reference/avatars/morph-targets
+
+https://medium.com/@israr46ansari/integrating-a-ready-player-me-3d-model-with-lipsyncing-in-react-for-beginners-af5b0c4977cd
+
+https://www.youtube.com/watch?v=k5CtTsIKwE4&ab_channel=ReForgeMode-UnityTutorials
+
+https://www.youtube.com/shorts/i2lbkP3AOJs
+
+
+unity animations
+
+https://www.youtube.com/watch?v=78IrmMtByAU
+
+
+steam dataset scarping interesting
+https://www.youtube.com/watch?v=qiNv3qv-YbU
+
+
+why indie games fail
+https://www.youtube.com/watch?v=LCzhyUsDHPE&ab_channel=EastshadeStudios
+
+
+relating conceptually vs personally
+
+[some guy on dancing](https://www.youtube.com/watch?v=3sc6OCJxvuU&ab_channel=CurtRage)
+
+https://www.youtube.com/watch?v=suATPK45sjk&ab_channel=EngXSpace
+
+
+[aman manzir interviewing an amazon recruiter](https://www.youtube.com/watch?v=R8udhb7m398&ab_channel=AmanManazir)
+
+[managing multiple interests](https://www.youtube.com/watch?v=uRH24Z_J8_A)
+
+[fake job epidemic](https://www.youtube.com/watch?v=PtvLhIFCVrs)
+
+[china culture](https://www.youtube.com/@jgao1999/videos)
+
+[cool hair video](https://www.youtube.com/shorts/yUb_v0rz-Hc)
+
+
+[chatgpt study mode for college students](https://www.youtube.com/watch?v=4lxOeB4PRjk)
+
+started dev properly around 18 July
+
+
+
+james smith youtube business marketing
+
+
+interesting/funny YT video about how the life/journey very programmer goes on. making the best to do list app.
+
+
+80000 hours career guides
+In fact, the more fundamental the research, the harder it is
+to commercialize, so, all else equal, we’d expect fundamental
+research to be more neglected than applied research, and
+therefore higher impact.
+
+quote:
+Bob Dylan has said that he who is not busy being born is busy dying. 
+
+quote:
+Humans think in narratives. A compelling story is a “Trojan horse” for information—people remember the story and carry your message with it.
+
+Example: The Subway “$5 footlong” campaign spread because it was part of a memorable narrative about affordability.
+
+
+the work horse donkey quote about successful people
+
+https://chatgpt.com/share/68905004-b7c8-8003-abca-ec04884c7dd7
+
+Summary of Explosive Growth by Cliff Lerner:
+
+Explosive Growth is a candid, high-energy account of how Cliff Lerner scaled his dating app Snap Interactive to over 100 million users, packed with practical startup lessons, wild stories, and hard-won insights. Unlike traditional business books, it blends storytelling with tactical guidance, making it part memoir, part playbook for founders.
+
+Key Takeaways:
+1. Growth Comes from Bold Experiments
+Lerner emphasizes that explosive growth often comes from taking big swings. One of his key wins was being the first dating app on Facebook, leveraging the social graph before competitors even realized the opportunity.
+
+2. Fail Fast, Learn Faster
+He documents several failed product launches, bad hires, and near-death moments. Each failure taught him something crucial—whether about product-market fit, virality mechanics, or investor expectations.
+
+3. Transparency and Vulnerability
+Lerner doesn’t shy away from his mistakes, including overestimating the value of PR or underestimating the importance of retention. He shows how vulnerability in leadership and storytelling can be a strength.
+
+4. The Power of Virality
+Much of the book focuses on how the app achieved virality through referral loops, smart onboarding, and a deep understanding of user psychology.
+
+5. Build a Data-Obsessed Culture
+A/B testing everything and making data-informed decisions became core to their success. One chapter details how a single headline test resulted in a massive user acquisition jump.
+
+6. Be Ready to Pivot
+From stock-market crashes to internal power struggles, Lerner’s journey was chaotic. He stresses the need to be flexible—sometimes completely changing course when things aren’t working.
+
+7. Fundraising Isn’t the Goal—Sustainable Growth Is
+He criticizes startup culture’s obsession with raising capital, advocating instead for building something users actually love and use regularly.
+
+Why it Stands Out:
+Narrative-driven: Reads like a fast-paced startup thriller.
+
+Highly tactical: Includes specific marketing hacks, product tips, and growth metrics.
+
+Honest: Offers a rare, vulnerable look into the emotional rollercoaster of being a founder.
+
+Perfect for: Founders, marketers, and growth hackers looking for real-world, hard-earned startup wisdom—not theory.
+
+
+## Summary of Contagious: Why Things Catch On by Jonah Berger
+
+Contagious explores the science behind why certain products, ideas, or content go viral—whether it's a YouTube video, a product, or a rumor. Jonah Berger, a marketing professor at Wharton, distills years of research into a clear, actionable framework for making anything more shareable.
+
+Core Idea:
+People don’t just share things at random—there’s a science to virality, and Berger breaks it down into six principles using the acronym STEPPS.
+
+The 6 STEPPS Framework
+Social Currency
+
+People share things that make them look good or in-the-know.
+
+Example: A secret bar hidden behind a Coke machine becomes popular because it’s exclusive and makes you seem cool when you talk about it.
+
+Triggers
+
+Top-of-mind means tip-of-tongue. Triggers are cues that remind people to think about your product.
+
+Example: The song “Friday” goes viral every Friday—not because it’s good, but because the day itself triggers the memory.
+
+Emotion
+
+Content that evokes strong emotions (especially awe, excitement, or anger) is more likely to be shared.
+
+The stronger the emotional arousal, the more contagious the message.
+
+Public
+
+If something is built to show, it’s built to grow. People imitate what they see.
+
+Example: Apple’s glowing logo on laptops made the brand more visible in public spaces, driving adoption.
+
+Practical Value
+
+People love to share useful information. If your content helps people save time, money, or effort, they’ll pass it along.
+
+Example: “10 life hacks” or helpful how-to guides go viral because they provide immediate utility.
+
+Stories
+
+Humans think in narratives. A compelling story is a “Trojan horse” for information—people remember the story and carry your message with it.
+
+Example: The Subway “$5 footlong” campaign spread because it was part of a memorable narrative about affordability.
+
+Key Takeaways:
+Virality isn’t luck—it's engineered through strategic design.
+
+Even boring products (like a blender or corn) can go viral with the right framing.
+
+Sharing is a form of self-expression; people share what reflects their identity.
+
+Perfect For:
+Marketers, entrepreneurs, content creators, and product designers who want to make their ideas stick, spread, and succeed in a crowded world.
+
+
+## Summary of Hooked: How to Build Habit-Forming Products by Nir Eyal
+
+Hooked is a tactical playbook for designers, entrepreneurs, and product teams who want to build products that users come back to again and again—not because they have to, but because they want to. Nir Eyal lays out the psychology behind habit-forming technology and introduces the Hook Model, a four-step loop that drives user engagement.
+
+The Hook Model: 4 Key Phases
+Trigger
+
+The cue that initiates behavior.
+
+External triggers (e.g., notifications, ads) prompt users to act.
+
+Over time, internal triggers (emotions like boredom, stress) drive users to open the app without being prompted.
+
+Action
+
+The simplest behavior done in anticipation of a reward.
+
+Example: Scrolling Instagram, checking a notification, or clicking “Play.”
+
+For it to work, the action must be easy to do and motivated by the trigger.
+
+Variable Reward
+
+Unpredictable rewards keep users hooked.
+
+Types include:
+
+Tribe (social rewards – likes, comments)
+
+Hunt (material rewards – new content, discounts)
+
+Self (intrinsic rewards – leveling up, mastering a skill)
+
+Variability increases anticipation and keeps users engaged longer.
+
+Investment
+
+Users put something in—time, data, effort—that increases the likelihood they’ll return.
+
+Example: Creating a profile, customizing settings, uploading content.
+
+Investment also loads the next trigger, creating a self-reinforcing loop.
+
+Key Concepts:
+Habit-forming = user retention: Products that become habits dominate the market (e.g., Instagram, Slack, TikTok).
+
+Internal triggers > external: Long-term engagement requires tapping into users’ emotions or routines.
+
+Build ethically: Eyal stresses the importance of using these tools responsibly—not to exploit, but to improve lives.
+
+Why It’s Valuable:
+Practical and actionable—full of real-world case studies from Twitter, Pinterest, and others.
+
+Combines behavioral psychology with UX and product design.
+
+Helps you think long-term about product engagement, not just growth hacks.
+
+Perfect For:
+Founders, product managers, designers, and anyone building digital tools who wants to increase user engagement, drive retention, and create products people genuinely love (and keep using).
+
+- if you don't have any ideas for the next 10, 20 plus years, then you sell your company. e.g. spotify ceo on colin and samir, he's thinking about vision for long term future.
+
+
+To summarize: your brain creates a baseline for happiness based on the HARDEST thing you do, and then compares everything else to that. So if you do hard things, life in general seems fantastic because of this perspective. If you eliminate all hardship, suddenly even the pleasures of life seem bland, and you live a spoiled and unmotivated life.
+
+
+#### 6/8/2025 
+
+read about data science in practice at work
+
+thinking more concretely about what to do next year, sept-december too and beyond
+
+#### 8/8/2025
+
+dopamine nation book
+
+from mr money mustahce
+
+also lead bby example in efficiency e.g. chasing higher salary
+
+it's not a competition
+
+often i add myself to the limit of tasks, also feel like I should make the most of opportunities 
+
+reality is that, even if I don't work super hard financially i'll probably be okay
+
+even though, what does life look life when the happiness curve plateus, and what makes people more happy when it does?
+
+ant vs grasshopper, really good story. people work on stories. that's probably the shortest thing you can remember, can't remember general advice or statements as easily. e.g. it is important to work hard not have fun sometimes
+
+what do you work for?
+
+people don't define themselves by the stuff they do for fun, they get defined by their challenges
+
+flow state.
+
+most important lesson is that hard work can bring results
+
+maslow pyramid
+
+marathoning has value too - especially having a stable platform
+
+
+
+
+should vs want
+
+you have freedom to choose friends etc etc
+
+
+hard work trumps all
+in creativity
+in 
+for the love of the game
+kobe interview, some people hate to lose or love to win
+
+the reward for great work is more work
+
+also ben francis rate of change thing
+
+make something 
+
+
+balance and the idea of momentary sacrifices
+
+why I swing from hard work to chill e.g. on trips
+
+you are the integral of your whole life and days and all your actions
+
+
+about time be greatful for every moment
+arthur brooks be grateful for difficult moments
+
+if you had wealth, someone had to create it. 
+
+also franklin investinf £2000 for those cities
+
+bayesian approach to wisdom
+- have very diverse experiences
+- simon dedeo thinking almost
+
+but it aonly makes sense if you really try something gan, experience, then mentors can help you pivot and rediect a bit
+
+you can't learn life lessons just by reading. also you forget most things pretty quickly
+
+and there's no point having a list of 50 principles or something, because you can't keep all of those in your head at the same time.
+
+therefore, you must iterate by trying something, 
+
+then the best thing you can do is to steer your habits and daily life, because that is what makes up your life, no high level advice will solve that
+
+thinking about issa and me: type of people to think about how to live life?
+
+
+
+potential post: why engineering science at oxford is so verstaile, and also no default good degree
+
+
+https://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/
+
+
+
+https://www.mrmoneymustache.com/2014/01/26/its-not-a-contest/
+
+> I find that the tendency to mindlessly heap more onto our plates even occurs with life experiences. I had a very happy life even back in 2011 before starting this blog. As it took off in subsequent years, more opportunities popped up as more wonderful people were brought into my life through the magic of the Internet. There were chances to go on more trips, speak at schools and conferences, meet people for lunches and dinners, write books and make videos.
+
+> This all sounds like very fancy stuff – the type of opportunities one should not squander, because they are not offered to everyone. But at the same time, every activity you add to an already-full life means that something has to fall out the other side (unless you can cut out sleep, which unfortunately is not an effective strategy). So I feel opportunities slipping away every day. I see how much more I could get done if only I would work harder and become more efficient at everything.
+
+> But then I calm down and remind myself, just as I am reminding you today, that it is not a contest. Life is not a contest, and we get more out of it by cooperating wholeheartedly with each other rather than beating each other’s asses at everything.
+
+but we shouldn't give everyone participation medals all the time, and the asian parents have some good values too.
+
+try and create value?
+
+
+it's the tradeoff of working all the time vs having fun. you need to be busy a good amount of the time, but not all the time.
+
+
+
+https://www.mrmoneymustache.com/2015/04/15/great-news-early-retirement-doesnt-mean-youll-stop-working/
+
+>  On the work side of the equation, the philosophy is reversed. My best days are the ones where I accomplish something truly difficult, preferably in both mental and physical realms. And my worst days are those that I just spend sitting around. So I’ve learned that work is an incredibly powerful source of happiness. The key is that it must be creative, social and engaging work that brings you towards a purpose you believe in. 
+
+
+https://mrmoneymustache.com/2016/11/24/efficiency-is-the-highest-form-of-beauty/
+
+inspiring a culture of normal consumption
+
+https://mrmoneymustache.com/2024/05/18/the-ultimate-life-coach/
+
+> working hard gets you way better results
+
+https://mrmoneymustache.com/2024/05/18/the-ultimate-life-coach/
+
+> But if I can indulge you to play me a brief Tiny Violin of First World Problems solo, even this perfect life comes with one flaw: I never have to do anything I don’t want to do.
+
+> Freedom and money reveal a person’s true strengths and weaknesses, and the result is a spectrum with “Unlimited drugs and booze on the couch” at one end, and “Create and manage a series of nonprofit foundations which employ thousands of people to research and invest in medical advances and clean energy” at the other.
+
+
+e.g. why would I do the checklist thing
+
+me meeting olympians
+
+
+https://www.mrmoneymustache.com/2023/07/23/the-comfort-crisis/
+
+
+a lot of time i was looking for the next-most-challenging environment i guess
+
+e.g. in school and going to oxford, but what is this actually for? ig flow of challenge
+
+
+
+any consistent value over time will have attention e.g. MMM, and hank green
+
+
+pathless path, 27 rules for life and the defining decade
+
+fantasy/black and white thinking
+
+
+ For	many,	Facebook	is	less	about	looking	up	friends	than	it	is	about	looking
+ at	friends.	
+
+
+ why i'm worried about the direction for facebook/meta
+
+ also tiktok to an extent
+
+ when i was a kid, people would warn about the internet as this "dangerous" new tool
+
+
+ https://lethain.com/forty-year-career/
+
+ i like this post too
+
+
+ 	It’s proven the harder you work for something, the happier you’ll be about it,”
+
+
+    https://www.mrmoneymustache.com/2023/07/23/the-comfort-crisis/
+    
+
+harder to find principles without religion?
+
+two paths to CEO, do things that don't scale and start small, or work your way up the rankings
+
+
+https://www.hackingchinese.com/
+
+
+
+https://nownownow.com/about
+
+
+wisdom and AI 
+
+https://adamhendrix.com/from-knowledge-to-wisdom/
+
+#### derek sivers how to get anything you want
+
+AWFUL IDEA = -1
+
+WEAK IDEA = 1
+
+SO-SO IDEA = 5
+
+GOOD IDEA = 10
+
+GREAT IDEA = 15
+
+BRILLIANT IDEA = 20
+
+NO EXECUTION = $1
+
+WEAK EXECUTION = $1000
+
+SO-SO EXECUTION = $10,000
+
+GOOD EXECUTION = $100,000
+
+GREAT EXECUTION = $1,000,000
+
+BRILLIANT EXECUTION = $10,000,000
+
+Business is a multitude of two elements: idea and execution. The most brilliant idea without execution is worth $ 20. The most brilliant idea requires a great execution to be worth $ 20 million. And even a weak execution of a weak idea is worth more than a brilliant idea without implementation.
+
+
+
+
+the law of large numbers doesn't apply when people aren't asked individually
+
+e.g. if one eprson shouts out that item is valuable, then anchoring bias will occur
+https://www.youtube.com/watch?v=KZeIEiBrT_w
+
+
+cool datasets
+
+not david soccer dataset
+
+https://www.worldvaluessurvey.org/wvs.jsp
+
+read about this in geek heresy, ultimate dimensions of culture
+
+and how circumstances shape culture
+
+https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/
+
+
+https://ccl.northwestern.edu/rp/MindtheGap/index.shtml
+
+
+
+the world doesnt have free will
+
+similar to AI as normal tehcnology, we can't see future from their perspective when world is vastl different
+
+e.g. after electrcity then the internet, can only predict next step
+
+
+tradeoff stoicism/discipline and sticking to decisions and being a rock vs being emotional
+
+want to be able to provide
+
+the supreme discipline is perhaps most effective, but it can make you unhappy
+
+when should you feel your emotions?
+
+
+exploration and exploitation in meeting people ina  new environement e.g. keep track of who you spend time with
+
+
+
+ By	thinking	through	his	actual	options,	Ian	stumbled	onto	a	twentysomething
+ version	of	what	psychoanalyst	Christopher	Bollas	calls	the	unthought	known
+ .
+ Unthought	knowns	are	those	things	we	know	about	ourselves	but	forget
+ somehow.	These	are	the	dreams	we	have	lost	sight	of	or	the	truths	we	sense	but
+ don’t	say	out	loud.	We	may	be	afraid	of	acknowledging	the	unthought	known	to
+ other	people	because	we	are	afraid	of	what	they	might	think.	Even	more	often,
+ we	fear	what	the	unthought	known	will	then	mean	for	ourselves	and	our	lives.
+
+
+ what to believe in/summarising beliefs -> there's a reason there's not that much of a summary of the bible
+
+ or why it exists is a book, people need stories to make sense of the world. telling the conclusion wouldn't make sense
+
+sure you can explain some core beliefs, but you cant condense a whole world view into a blog post - you need your reader to grapple with the ideas
+
+ tracking people's faith over time, like with richard dawkins
+ #### pathless path
+
+ human nature doesn't change
+
+ e.g. solomon wisdom and buddhist story
+
+ we need to learn by travelling: reading about the past and travelling in the present
+
+ roman civility
+ greek rationality
+ christian individuality
+
+ false belief the world is all good now and we have everything figured out-maybe
+
+ but we're no smarter than our ancestores- the greeks had many similar ideas. we're just more capable now.
+
+
+ a lot of focus in university in maximising the opprtunities available to me
+ (ig with default path in mind)
+
+ and figure out the rules of the game/place I was in
+
+
+ it might be impossible to understand how one other person feels cus udnerstand how you feel requires 100% of your brain power. let alone 10 people or a billion.

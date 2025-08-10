@@ -11,6 +11,8 @@ externalLink = ""
 series = []
 +++
 
+even invention of money "evolved" to pay blood feuds.
+
 from machivelli POV the good guy doesn't alwasy win or the bad guy. the guy with the most power does, moral are second
 
 demonracy exists not because it is inherently better, but it is more stable

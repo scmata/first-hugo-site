@@ -16,6 +16,8 @@ https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultura
 
 https://fs.blog/mental-models/#microeconomics
 
+oxford world in data amount of people you meet.
+
 mental models. stuff you weren't aware of before becomes salient abut yourself
 
 especially some forms of tacit knowledge, when they appear multiple times warrant having a word

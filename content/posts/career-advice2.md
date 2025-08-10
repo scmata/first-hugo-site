@@ -11,6 +11,9 @@ externalLink = ""
 series = []
 +++
 
+have good environments too. can't grow without stability.
+
+
 The framework for figuring out what to do with your life.
 
 In general, deciding on your job and finding a good one is probbaly one of the biggest impact things you can do. Also finding what life you want to make outside of work, since that is what you want to come back to.

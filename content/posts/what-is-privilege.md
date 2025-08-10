@@ -11,7 +11,7 @@ externalLink = ""
 series = []
 +++
 
-John Fish article
+John Fish video
 
 https://www.youtube.com/watch?v=Zs1vDDMrwI4&ab_channel=JohnFish
 
