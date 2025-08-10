@@ -17,7 +17,53 @@ From Steam Engines to A/B Tests: The Shift in How We Innovate
 
 Is innovation slowing down? Which fields is innovation happening in, and what can we do to improve it?
 
-I studied engineering because I wanted to improve the world. However, if I wanted to get paid well I needed to get a job in finance or tech. If you were born 100 years ago, you saw your life transformed by innovations such as vaccines and electricity, whereas now it feels like breakthroughs in fundamental human needs is much harder. As such, most of my most intelligent friends are working in consulting or finance. What can we do about this?
+I studied engineering because I wanted to improve the world. What I realised is that for most graduates from my degree it is easier and safer to work in fields such as finance or consulting. A quote I've thought about a lot is this:
+
+> “The best minds of my generation are thinking about how to make people click ads. That sucks.” — Jeff Hammerbacher, 2011
+
+Fortunately, I don't think this is true. However, it is true that the incentives around new graduates pushes you towards industries where your impact on humanity is less clear (different to nuclear fission, the internet and vaccines). However, innovation is set to only speed up from now, not slow down. To be able to harness this change effectively some things are clear.
+
+- Grand visions are necessary
+- New technologies won't be made from incremental improvements
+- A plan with long term dedication (at least 5 years is necessary)
+
+Lastly, to be able to implement these guidelines you need a good understanding of the shape of technology right now. It is clear economically that most technology has been driven by information technology or "tech" in the last 30 years. Deep tech hopes to channel some of that. The low hanging fruit are not gone, but we won't get there by chasing up the same trees.
+
+#### 
+
+
+
+ all the low hanging fruit are not gone - 
+
+Some things are clear 
+
+
+
+A lot of recent innovation has been incremental improvements in entertainment, consumption, or finance rather than breakthroughs in fundamental needs like healthcare, education, or equitable economic opportunity.
+
+
+However, if I wanted to get paid well I needed to get a job in finance or tech. If you were born 100 years ago, you saw your life transformed by innovations such as vaccines and electricity, whereas now it feels like breakthroughs in fundamental human needs is much harder. As such, most of my most intelligent friends are working in consulting or finance. What can we do about this?
+
+
+Grand visions inflated the bubble, so they should not be indulged. Anyone who claims to be able
+to do something great is suspect, and anyone who wants to change the world should be more
+humble. Small, incremental steps are the only safe path forward.
+
+Don’t try to create a new market prematurely. The only way to know you have a real business is
+to start with an already existing customer, so you should build your company by improving on
+recognizable products already offered by successful competitors.
+
+
+It is easier and safer to work on marginal technolgies
+
+
+AS MATURE INDUSTRIES stagnate, information technology has advanced so rapidly that it has now become
+synonymous with “technology” itself. 
+
+But we will never learn any of these
+secrets unless we demand to know them and force ourselves to look.
+
+what 
 
 
 The changing face of innovation
@@ -587,3 +633,17 @@ When inequality rose in the 1980s–2000s, elite Boomers benefited most—reinfo
 
 📈 4. Careerism and Risk Aversion
 High-achievers started optimizing for optional paths instead of bold bets: consulting, law, finance, tech product management.
+
+
+
+We are a non-profit that helps tech people to work on the hard problems that matter in the world: problems like public health, climate change, and good government.
+
+While the loudest part of the tech world is focused on AI, VR, crypto, fin-tech, and advertising, other people are trying to tackle the hardest, thorniest problems.
+
+Programmers, designers, and product managers know that these hard problems matter but they often wring their hands and stand by, unsure how to have any positive impact.
+
+It’s time to refocus the tech world on what matters most. It’s time to build new relationships between doctors, environmentalists, scientists, not-for-profit leaders, public servants, and others tackling the world’s hardest problems with technologists who can help make practical tools to help them succeed.
+
+We are a multi-skilled team of very experienced tech veterans and other subject-matter experts. We aim to push this effort — whether it’s by building teams to work on issues, creating bridges between ambitious experts and technologists, finding ways to fund tech initiatives, or inspiring a generation of tech people to work on these fundamentally important problems.
+
+We are in the earliest stages of forming the Hard Problems non-profit. We don’t have all of the answers, but we’ll start anyhow and learn along the way.
