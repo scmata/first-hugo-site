@@ -17,30 +17,58 @@ From Steam Engines to A/B Tests: The Shift in How We Innovate
 
 Is innovation slowing down? Which fields is innovation happening in, and what can we do to improve it?
 
-I studied engineering because I wanted to improve the world. However, after I graduated it felt like a lot of the low-hanging fruit was gone. Physics can now describe most of reality down to the point where we need 4km large machines to make experiments to try invalidate it, life expectancy has increased dramatically and steam engines aren't getting much more efficient. The two main things it feels like are left are "tech" - IT driven innovation and "deep tech" - attempts to 
+I studied engineering because I wanted to improve the world. However, if I wanted to get paid well I needed to get a job in finance or tech. If you were born 100 years ago, you saw your life transformed by innovations such as vaccines and electricity, whereas now it feels like breakthroughs in fundamental human needs is much harder. As such, most of my most intelligent friends are working in consulting or finance. What can we do about this?
 
 
-Technology is "the application of scientific knowledge for practical purposes, especially in industry."
+The changing face of innovation
+
+How to innovate when the low hanging fruit are gone
+
+We are incentivised to rearrange 
 
 
-What happened to technology? Why is all the innovation in tech right now
+Instead of working for years to build a new product, indefinite optimists rearrange alreadyinvented ones. 
 
-In the book Zero to One, Peter Thiel makes the claim that innovation boomed from 1815-1971 in the USA and since then it has slowed down, combined with a shift from definite optimism to indefinite optimism, and a shift of intelligent people from engineering and basic and applied science to fields like banking, private equity and management consulting, as well as finance in general. Is this true and what can we do about it? That is the focus of this article.
+In theory, they should
+champion products and processes that will be key to Unilever’s future success
+five and ten years ahead. But the results of those efforts, only available many
+years later, will garnish the record of whoever is in that specific assignment at
+that time—not the person whose insight initiated it. If, instead, the HPLs focus
+on delivering results they know can be seen and measured within twenty-four
+months—even if that method isn’t the best approach—they know that the people
+running the program will be able to assess their contribution to a completed
+project. A
 
-## Has innovation slowed now? 
 
-If we look at the timeline of innovation, yes. Between 1815 and 1970 there were several inventions made in the US and Europe (note before this more innovation in the East) that dramtically changed people's lives, including  including the invention of the computer, the discovery of germ theory, the steam engine and electricity. These led to several changes in how we live our lives and their quality, such as living longer, being able to travel more easily (flight) and spending less money on food and malnutrition a smaller risk ().
+As long as they have something to show for their efforts, they know
+they’ll have a shot at an even better next assignment. The system rewards
+tomorrow’s senior executives for being decidedly focused on the short term—
+inadvertently undermining the company’s goals.
+Misaligned incentives are pervasive. For example, America is unable to
+change its Social Security, Medicare, and other entitlement programs—despite
+the fact that everyone agrees that these programs are driving the country over a
+precipitous cliff toward bankruptcy. Why? Members of the House of
+Representatives stand for reelection every two years. These representatives,
+rightly or wrongly, are convinced that if America is to be saved, they personally
+need to be reelected in order to lead that effort
+
+
+
+#### Indefinite optisim rules right now
+- how we lost track of definite optimism
+
+If we look at the timeline of innovation, yes. Between 1815 and 1970 there were several inventions made in the US and Europe (note before this more innovation in the East) that dramtically changed people's lives, including  including the invention of the computer, the discovery of germ theory, the steam engine and electricity. These led to several changes in how we live our lives and their quality, such as living longer, being able to travel more easily (flight) and spending less money on food and malnutrition a smaller risk.
 
 By the 1970s, this type of innovation was mainly centered in the USA and Japan (the two biggest economies at the time) which capitalised on basic science from the scientific revolution appeared to slow down a lot. However, just after the USA put the first man on the moon a series of problems including energy crises, stagflation, and Vietnam disillusionment. Furthermore, Boomers (born ~1946–1964) came of age during a period of uninterrupted prosperity driven by postwar reconstruction, American global dominance, and cheap energy—so life improved steadily, seemingly without personal effort. This bred the belief that success would come automatically with a good résumé and a prestigious degree, not through bold planning or risk. When inequality rose in the 1980s–2000s, elite Boomers benefited the most, reinforcing their faith that the system still worked and didn’t need rethinking. This has led to a cultural shift away from true innovation. Japan also suffered 
 
 
+## Innovation is ongoing, but people's lives aren't improving?
+
+#### (Show the exponential growth curve)
+
 Service based economies? It's harder cus they don't effect people's lives as directly, just improve effieincy
 
-### The low hanging fruit is gone
-
- Now it does feel a bit like the low hanging fruit is gone, Also marginal gains like malnutrition is really bad so easier to improve, but improving our diet isn't as bad. Or even being able to do the haber process, maybe it's harder now? Even athletics records are slowing down. Most technology development is in tech. Peter Thiel in his book Zero to One, makes the case that a lot of the developed world is in a state of indefinite optimism. This even comes into our language saying: 'the division of the world into the so-called developed and developing
-nations implies that the “developed” world has already achieved the achievable, and that poorer
-nations just need to catch up.' Personally, I associate the word tech with computers a lot more now than general technology like engines and vacines.
+## Is innovation actually slowing down? A combination of two factors
 
 ## Is progress going to slow down? No - it will even increase
 
@@ -48,7 +76,7 @@ nations just need to catch up.' Personally, I associate the word tech with compu
 
 First of all, it is useful to zoom out. There was a lot of innovation before 1815 with the industrial revolution or even before 1600 with the scientific revolution. (Add some info on the east here)
 
-While it does appear there was a step change around 1815 because of cultural evolution and the printing press, innovation has been core to human advancement. Making tools is essential to humanity - the ostrich analogy from founders podcast.
+While it does appear there was a step change around 1815 because of cultural evolution and the printing press, innovation has been core to human advancement. However, not all technology will directly lead to human benefit e.g. the printing press. Making tools is essential to humanity - the ostrich analogy from founders podcast.
 
 Explaining the massive growth is not easy, but appears to be tied to cultural evolution and printing press. Also
 The scientific revolution in the 1600s led a transition from natural philosophy and knowledge from authority to empiritical observation, experimentaiton and mathemtical description including the scientific method. Furthermore, the spread of the printing press allowed knowledge to spread unlike ever before.
@@ -68,11 +96,79 @@ More people, AI will improve research by improving economic efficinecy allowing 
 However, this will need leaders.
 Now, most innovation is focused on tech, which doesn't improve our lives in the same basic way as vaccines or the steam engine. For someone who is technologically capable what can we conclude?
 
-- If you want to be on the frontiers be in tech.
+
+### The low hanging fruit is gone - it is harder to actually improve people's lives
+
+ Now it does feel a bit like the low hanging fruit is gone, Also marginal gains like malnutrition is really bad so easier to improve, but improving our diet isn't as bad. Or even being able to do the haber process, maybe it's harder now? Even athletics records are slowing down. Most technology development is in tech. Peter Thiel in his book Zero to One, makes the case that a lot of the developed world is in a state of indefinite optimism. This even comes into our language saying: 'the division of the world into the so-called developed and developing
+nations implies that the “developed” world has already achieved the achievable, and that poorer
+nations just need to catch up.' Personally, I associate the word tech with computers a lot more now than general technology like engines and vacines.
+
+
+#### What should we do about this?
+
+Capable people need to be encouraged more to take bold risks. 
+
+
+- If you want to be on the frontiers be in tech ( less likely to do it in engineering).
 - Try and be aware of if you're actually producing innovation or globalisation. If you're providing profit by figuring out how to do A/B tests or making money in finance, maybe not the best idea.
 - Investing in under explored basic science is probabably useful, just maybe not in your lifetime.
-- If you have education in a more instutitonalised field - think about how you can use those skills in growing fields. 
+- If you have education in a more instutitonalised field - think about how you can use those skills in growing fields. Often they're very ripe for crossover e.g. physics to economics or statistics to other scientists
 
+
+play the infinite game not the finite game?
+
+
+
+
+
+
+
+
+
+
+Indefinite and defnite optimism
+
+
+When I look around, a lot of innovation is focused on areas such as marketing and finance rather than breakthroughs in fundemental needs like healthcare, education or equitable economic opportunty.
+
+
+
+However, after I graduated it felt like a lot of the low-hanging fruit was gone. Physics can now describe most of reality down to the point where we need 4km large machines to make experiments to try invalidate it, life expectancy has increased dramatically and steam engines aren't getting much more efficient. The two main things it feels like are left are "tech" - IT driven innovation and "deep tech" - attempts to pluck fruits from the tops of the trees of healthcare and engineering with features such as robotic surgery and quantum computing. 
+
+
+
+
+A lot of recent innovation has been incremental improvements in entertainment, consumption, or finance rather than breakthroughs in fundamental needs like healthcare, education, or equitable economic opportunity.
+
+
+
+Teh demand of sectors is reflected by the salaries
+
+
+Technology is "the application of scientific knowledge for practical purposes, especially in industry." However, the only new technology I've witnessed developed in my life time has been internet type things. I never had my man on the moon. In a way that transformed people's lives.
+
+also the digital divide
+
+What happened to technology? Why is all the innovation in tech right now
+
+In the book Zero to One, Peter Thiel makes the claim that innovation boomed from 1815-1971 in the USA and since then it has slowed down, combined with a shift from definite optimism to indefinite optimism, and a shift of intelligent people from engineering and basic and applied science to fields like banking, private equity and management consulting, as well as finance in general. Is this true and what can we do about it? That is the focus of this article.
+
+
+-main idea of article is that innovation is mostly in deep tech and IT, however the economy is still growing. IT is definitly trasnformative. We should be mindful of where we put our attention and not just become bankers, 
+
+
+innovation isn't slowing down, but the culture around it is changing, and we have too much priority and recognition of non-useful careers
+
+
+Thiel emphasizes that while indefinite optimism can lead to passive hope, definite optimism requires active engagement and planning. He believes that to achieve meaningful progress, individuals and societies must adopt a mindset of definite optimism—believing in a better future and taking deliberate actions to make it a reality
+
+
+
+## Has innovation slowed now? 
+
+## Tracking attitudes towards innovation
+
+## A brief history of innovation and attitudes towards it
 
 
 
