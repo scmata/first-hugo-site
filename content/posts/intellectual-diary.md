@@ -2578,3 +2578,1857 @@ sure you can explain some core beliefs, but you cant condense a whole world view
 
 
  it might be impossible to understand how one other person feels cus udnerstand how you feel requires 100% of your brain power. let alone 10 people or a billion.
+
+
+ https://dvassallo.medium.com/making-the-unpredictable-predictable-11752b8d8671
+
+ https://dvassallo.medium.com/how-i-made-210-822-selling-a-pdf-and-a-video-on-the-internet-316f44b77fce
+
+
+ https://dvassallo.medium.com/imagination-is-overrated-b5d8e7751e4b
+
+
+ hank green im changing how i manage my money
+
+ rizzle kicks nov 22
+
+
+
+ https://www.youtube.com/@rareliquid/videos
+
+ finance guy on YT
+
+
+ https://www.youtube.com/watch?v=Hk2Z1loSk_w&ab_channel=AlexanderTheCreate
+
+
+[ speaking more naturally on camera. very good video](https://www.youtube.com/watch?v=Hk2Z1loSk_w&ab_channel=AlexanderTheCreate)
+
+warm up by pressing record early, and map out video and rehearse
+
+then focus on emotional center (usually chest or stomach)
+-concentrate 30% of enegery there to not put on a front and be more authentic
+
+and try enter flow state
+
+attune to feeling of feeling good while talking
+
+relax nervous system
+
+
+
+ https://www.youtube.com/watch?v=0AidLp-9634&ab_channel=EricJeng
+
+
+nice street interview
+
+
+[cool kobe interview](https://www.youtube.com/watch?v=js8OfeEL4jI&ab_channel=MykChiz)
+
+another from Founders podcast on finger chicken dream. quote from kobe, people are most scared of themselves
+
+https://www.youtube.com/shorts/mYAUSf3TzVI
+
+
+nice summer love choreography
+https://www.youtube.com/watch?v=wfnbfaj4JpA&list=RDwfnbfaj4JpA&start_radio=1&ab_channel=VRSEPT%28VRSEPT%29
+
+chomsky on having a job
+https://www.youtube.com/watch?v=iR1jzExZ9T0
+
+the workplace is a contract for a different type of private government where tey can dictate how you dress and act aetc
+
+https://www.youtube.com/watch?v=YqrPojDHmQM
+
+
+so cold. morgan jay and ari at home
+https://www.youtube.com/watch?v=PRo2LImKgU8&list=RDPRo2LImKgU8&start_radio=1
+
+https://www.youtube.com/watch?v=xmFwGQyBVsc
+
+https://www.youtube.com/shorts/VDBqR4FLNhY
+
+
+
+
+
+[cool web portfolio](https://www.youtube.com/watch?v=6oAVk0yuE1o)
+
+
+[cool entrepreneur video. renard wolf](https://www.youtube.com/watch?v=Yaaek5_S4zU)
+
+[good advice about taking measured risks from him](https://www.youtube.com/watch?v=A9zKocF5_M4)
+
+
+[Mario is NP Hard-](https://www.youtube.com/watch?v=unLPk4H1hto)
+
+
+people don't just want book summaries
+[nice reddit thread](https://www.reddit.com/r/books/comments/1b6qn5t/apps_for_book_summaries_a_tool_for_discovery_or_a/)
+
+
+[steven bartlett](https://www.youtube.com/watch?v=bzVuNxEVScs&t=1228s)
+
+
+signal vs noise
+
+
+embrace failures
+
+what focus means is saying no to stuff you want to do
+
+steve jobs list of 3-5 things to do
+
+frind purpose for creation from first principles
+
+3 lessons
+- failure and experimentation
+- the button
+- value for strangers
+
+maybe make video about that, viewing original vs derived sources
+
+adm lytlle. good youtuber on making money from app store. he has some pretty simple apps too like bluetooth mic (a bit like finding good website business ideas from SEO)
+
+[adam lytlle](https://www.youtube.com/watch?v=r4V7mIKUH4I)
+
+
+WoMic /bluetooth microphone for speaker events
+
+
+https://www.theatlantic.com/health/archive/2020/10/trump-strength-coronavirus/616682/
+strength in illnesss e.g. he's a fighter
+
+
+[summer love choreo](https://www.youtube.com/watch?v=blBSP2Ursgo&list=RDblBSP2Ursgo&start_radio=1)
+
+https://www.youtube.com/watch?v=Ugf8zcLsMcw
+
+[design in DK banzanza](https://www.youtube.com/watch?v=ccGhaAWEiLU)
+
+
+[design in DK bananza 2](https://www.youtube.com/watch?v=TkKqTLCJKT0)
+
+
+[chomsky on work](https://chatgpt.com/share/689aa5fc-40dc-8003-ac76-1130bf6e11e6)
+
+[good tracker for internships](https://app.the-trackr.com/uk-technology/industrial-placements)
+
+Machine Learning Engineering (Andriy Burkov)
+- want to see what this says about embeddings
+
+[another good job site for data/tech jobs](https://www.theround.com/)
+
+the bumble job looked interesitng - should maybe at least apply for practice
+
+
+
+Now I recruit others, and honestly, jobs are not about you. You are hired to get stuff to get done, and at the start of your career, you represent potential.
+
+
+This career story is really good:
+
+The Gift of a 2:2: An Alumnus's Story
+Degree Subject & Classification - History 2:2
+Current Job/Company - Entrepreneur: marketing and innovation strategy
+Back of the Bus
+“It’s good, I suppose.” muttered my personal tutor. “This 2:2 means you’ll actually have to apply yourself. You can’t just coast through life, as you coasted through Oxford.”
+
+‘Coasting’ landed me 58.4%, 0.1% off a safe, sensible 2:1. Ouch. Results night, I took the bus from Cowley and didn’t get off, making several circuits of town hunched on the backseat.
+
+I’d earned the ire of tutors, parents, and to my mind, the world at large. Friends bought me a pint to commiserate. When I got the gumption to request a re-mark, I was laughed out of the faculty.
+
+Like most, I’d no clue what to do after my Modern History degree. Now I couldn’t even hide in a management consulting graduate scheme – who would take my Dreaded Desmond? I considered a redbrick MA to ‘clean my nose’, but couldn’t face more library boredom. So, to work!
+
+Ground Zero
+Through a college friend I found a job editing a little arts magazine. The Careers Service Career Connect jobsite came in handy; I could tutor foreign students at a summer school. Editing and teaching kept me afloat as I avoided my parents during those awkward post-graduation months.
+
+I applied for a writing job advertised on the Career Connect website and was invited to interview in London. I arrived early and overheard the previous candidate. Luckily the interviewer asked me the exact same questions, so I had a head start. A few days later I got a call from a man with a thick Spanish accent, who offered me a job starting straightaway – if I came to India.
+
+The job? Helping analysts at a finance company turn quantitative research into qualitative tips for investors. No-one showed the slightest interest in my degree subject or classification.
+
+It was quite an adventure. There were two other graduates from Oxford. The company put us in a hotel and had a driver run us to work. When a cow sat on the highway, holding up traffic, we missed the morning briefing. The canteen food was excellent. Although the other Oxonians had better grades, I got on better with the team and the CEO liked my writing style. I was promoted.
+
+Spreadsheet-Eyed
+Two years after graduating, I applied to one of the Big Graduate employers, nervous I’d be scuppered by the 2:2. After five interviews and a process lasting several months, the dreaded question arrived. Would I mind getting a tutor’s reference, about my grades? My eternally patient personal tutor obliged. The CEO in India also sent a warm reference. I was duly offered a job at the tech giant.
+
+At this point I felt I’d ‘cleaned’ my youthful indiscretion, the 2:2, with a juicy brand on my CV.
+
+Trouble was, I hated the job.
+
+I was surrounded by Oxbridge graduates with 2:1s and 1sts doing deathly dull work. Life was an interminable spreadsheet. Compared to my other post-Oxford work experience, this was far and away the most boring job I’d had. As soon as I could, I scarpered.
+
+Choose Your Pond
+It turns out I prefer smaller companies. 
+
+After leaving the Big Player I worked for a startup and found myself running their conference series. I worked hard and earned their trust. One summer, the company asked me to relocate to Manhattan, somewhere I’d always dreamed of living.
+
+A few years later, I moved to Tel Aviv. Changing country puts the degree in a whole new light. Israel is a hands on, results-orientated culture. Business is about what you can do, right here, right now.
+
+Of course they’ve heard of Oxford, but it doesn’t translate into the local culture. I never say I studied History, since the only thing to do with a History degree here is teach. Scrutinised carefully by new colleagues in a new culture, I pushed doubly hard to prove my worth, and by necessity became extremely results focused. That stood me in good stead for my current freelance career.
+
+Now I recruit others, and honestly, jobs are not about you. You are hired to get stuff to get done, and at the start of your career, you represent potential.
+
+Road Less Travelled
+My personal tutor was right. The 2:2 killed my option to coast.
+
+It forced me to roll up my sleeves and try new things. I put myself in strange situations: In India and Israel, I was the native English speaker in the room; in America, never underestimate the lure of a British accent; back in the UK, all my foreign travel stories go down a treat.
+
+
+
+I like this framework of trying to get a career in a specific area, or related to your subject of interests. Domain knowledge is definitely important
+
+https://www.careers.ox.ac.uk/using-your-subject/#collapse1514891
+
+Mapping options out
+Another idea is making a 'map' of the different areas which relate to your subject or specific interests. Take each question in turn to help you research the organisations and kinds of work that serve these different niches.
+
+Who is creating new work/ideas? (Academia? Businesses?)
+Who is communicating about the new work/ideas? (Marketing firms? Media? TV production houses?)
+Who is making the work grow? (Entrepreneurs? Firms? Investors? Government?)
+Who is making sure the work is being done properly? (Regulators? Reviewers? Government? Professional associations?)
+Who is in a helping role around the work? (Charities? Government? Businesses?)
+Who is doing grass roots/front-line work? (Retail? Public services? Small businesses? Individual practitioners?)
+An example: using a subject interest in literary fiction
+Answers for someone keen on a career revolving around their interest in literary fiction, following investigation using our information pages for Publishing and Creative Arts:
+
+Authors (some of whom have staff), literary agents, new writing festivals and events
+Specialist marketing firms, in-house teams in publishing houses, trade press like Bookseller, consumer press and media (from Front Row and Sky Arts and specialist production companies to informal blog reviews), literary festivals
+Publisher's merchandising and licensing teams, rights management, film, theatre and TV companies
+Publishers Association (PA), Public Lending Right, Copyright organisations, UK Intellectual property, Society of Authors, IP and entertainment law firms
+Lots of non-profit writers groups, creative arts charities, Arts Council England, NESTA, DCMS, literary review and consultancy firms, museums (e.g. Story Museum), public libraries, education and teaching
+Booksellers, including e-commerce, independent booksellers, high-street booksellers, book 'club' models, e-publishing and self-publishing platforms.
+
+Not using your subject directly is normal for many graduates! Most graduate recruiters in the UK don't require a specific degree subject - the exception is usually for highly technical roles, which require specific previous technical knowledge and experience. The majority of graduates find work in fields other than their areas of academic study.
+
+Demonstrating your motivation for an industry and transferable skills you have developed through other activities are very important to prospective employers. These can come from many different areas of your life such as work experience, internships, student society roles, working as part of a team, project work, volunteering, JCR/GCR roles, shadowing or information interviewing. If you can demonstrate the skills and attributes they're looking for, then you're a competitive candidate.
+
+N.B It's very important to understand the skills and abilities the industries/employers you are interested in are looking for and this should form part of your initial research. This will give you a realistic view of their expectations and also the opportunity to develop or build on any skills (if necessary) to make you a competitive applicant.
+
+
+Whilst it is true that some industry sectors are very visible on campus, the destinations for our students on graduation are many and varied. A quick look at Oxford’s Destination Statistics reveals some fairly consistent patterns in the sectors chosen by our new graduates. For example:
+
+
+
+#### alpha and beta in investing
+
+beta is correlation to stock market, alpha is y intercep
+
+Absolutely! Alpha and beta come directly from the **linear regression** of an investment’s returns against the market’s returns.
+
+---
+
+### How Alpha and Beta Relate to Linear Regression
+
+In finance, you often model the returns of a stock (or portfolio) as:
+
+$$
+R_i = \alpha + \beta R_m + \epsilon
+$$
+
+Where:
+
+* $R_i$ = Return of the investment (e.g., a stock)
+* $R_m$ = Return of the market (e.g., S\&P 500)
+* $\beta$ = Slope of the regression line; measures sensitivity to market movements
+* $\alpha$ = Intercept of the regression line; measures excess return beyond what beta explains
+* $\epsilon$ = Error term (random noise or unexplained return)
+
+---
+
+### What This Means:
+
+* **Beta ($\beta$)** is the coefficient that tells you how much the investment’s return tends to change for a 1-unit change in the market return. It’s literally the slope of the best-fit line when plotting the investment return versus market return.
+
+* **Alpha ($\alpha$)** is the intercept — the part of the investment’s return that does **not** depend on market movements. It represents the average return you get **above or below** what beta would predict.
+
+---
+
+### Visual Explanation
+
+Imagine a scatter plot:
+
+* **X-axis:** Market returns $R_m$
+* **Y-axis:** Investment returns $R_i$
+
+The regression line fitted to these points has:
+
+* A slope = beta ($\beta$)
+* A Y-intercept = alpha ($\alpha$)
+
+Points above the line indicate better-than-expected returns (positive alpha); points below, worse-than-expected returns (negative alpha).
+
+---
+
+### Why Use Linear Regression?
+
+* It quantifies how much of the investment’s return comes from market exposure (beta).
+* It isolates the "skill" or unique performance of the investment (alpha).
+* Helps investors understand risk vs. reward.
+
+---
+
+If you want, I can show you an example calculation or how this connects to CAPM (Capital Asset Pricing Model). Want to go deeper?
+
+
+#### price/earnings ratio
+
+it's roughly equal to present value of lifetime earnings / current annual learnings
+
+
+Alright — let’s do two things:
+
+1. **Show the P/E table** for different growth $g$ and discount rate $r$ values.
+2. **Derive** the Gordon Growth Model formula so you can see exactly where $\frac{1}{r - g}$ comes from.
+
+---
+
+## **1. P/E table for different $r$ and $g$**
+
+Here we assume **earnings next year = 1**, so P/E = Price / 1 = Price.
+
+| Discount rate $r$ | Growth rate $g = 0\%$ | $g = 2\%$ | $g = 5\%$ | $g = 8\%$  |
+| ----------------- | --------------------- | --------- | --------- | ---------- |
+| **8%**            | 12.5                  | 16.7      | 33.3      | Infinite\* |
+| **10%**           | 10.0                  | 12.5      | 20.0      | 50.0       |
+| **12%**           | 8.33                  | 9.09      | 12.5      | 25.0       |
+
+\*If $g = r$, the formula breaks (denominator = 0) — this means growth exactly matches the discount rate, so the theoretical value is infinite, which doesn’t happen in reality because growth can’t outpace required returns forever.
+
+---
+
+## **2. How the formula is derived**
+
+The GGM is really just the formula for the sum of an **infinite growing series**.
+
+Let:
+
+* $E_1$ = earnings next year
+* $g$ = constant growth rate of earnings
+* $r$ = discount rate (the return investors require)
+* $P$ = present value (price today)
+
+Future earnings look like this:
+
+* Year 1: $E_1$
+* Year 2: $E_1(1+g)$
+* Year 3: $E_1(1+g)^2$
+  ...and so on.
+
+We discount each year’s earnings back to today:
+
+$$
+P = \frac{E_1}{(1+r)^1} + \frac{E_1(1+g)}{(1+r)^2} + \frac{E_1(1+g)^2}{(1+r)^3} + \dots
+$$
+
+Factor out $\frac{E_1}{1+r}$:
+
+$$
+P = \frac{E_1}{1+r} \left[ 1 + \frac{1+g}{1+r} + \left(\frac{1+g}{1+r}\right)^2 + \dots \right]
+$$
+
+The bracket is a **geometric series** with ratio:
+
+$$
+\text{ratio} = \frac{1+g}{1+r}
+$$
+
+The sum of an infinite geometric series is:
+
+$$
+\frac{1}{1 - \text{ratio}}
+$$
+
+So:
+
+$$
+P = \frac{E_1}{1+r} \cdot \frac{1}{1 - \frac{1+g}{1+r}}
+$$
+
+Simplify the denominator:
+
+$$
+1 - \frac{1+g}{1+r} = \frac{1+r - (1+g)}{1+r} = \frac{r - g}{1+r}
+$$
+
+So:
+
+$$
+P = \frac{E_1}{1+r} \cdot \frac{1+r}{r - g}
+$$
+
+Cancel $1+r$:
+
+$$
+P = \frac{E_1}{r - g}
+$$
+
+And dividing by $E_1$ gives:
+
+$$
+\frac{P}{E_1} = \frac{1}{r - g}
+$$
+
+Which is the P/E ratio in the constant growth model.
+
+---
+
+If you want, I can also **graph** this relationship so you can *see* how tiny changes in $g$ blow up the P/E — it’s why high-growth tech stocks can go from 20× to 50× valuations so easily.
+
+
+
+P/E = 1/ (r-g)
+
+done by summing the geometric series of discounted earnings each year (factor of g/(1+r) each year)
+
+
+https://chatgpt.com/share/689b36a9-d7ec-8003-bdab-4260b70d4a6a
+
+g is growth in earnings each year
+
+r is required return
+
+r is higher because you are taking risk and opportunity cost investing in a specific stock (e.g. vs general stock market)
+
+P/E of 20 means growth rate of about 5%, which is kinda standard
+
+
+If your P/E is really high rn, means that annual earnings are lower and you expect P to be high i.e. company's revenue to grow a lot in the (nearish) future
+
+
+https://newsletter.failory.com/p/demo-day-disaster
+
+success rate of YC
+
+https://news.ycombinator.com/item?id=41187932
+
+https://www.reddit.com/r/ycombinator/comments/1abt1hj/what_percent_of_yc_startups_go_somewhere/
+
+seems p good all things considered, although batches are increasing recently, idk if there are other seed investors bettter
+
+[this one has the best data (Dec 2024 data)](https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic)
+
+The durability of YC companies is significantly higher than that of the average startup. More than 50% of companies are still alive after 10 years (vs. 30% average).
+
+The chances of startup success are higher with YC. 45% secure Series A (vs. 33% average), 4% to 5% become a unicorn (vs. 2.5% average), and 10% achieve an exit.
+
+The investors in YC companies are the “crème de la crème.” Tier 1 VCs frequently invest in YC companies, and some have made several hundreds of investments.
+
+When you look at the mature batches, we are seeing between 25% and 50% of companies getting acquired. This speaks volumes about the quality of companies in YC. This is in contrast to the 15% of global companies that get acquired if they have raised at least one round of funding.
+
+I can't vouch for the accuracy of this data, but it might be useful to you:
+https://seed-db.com/accelerators/viewall?acceleratorid=1011
+
+ssedDB data seems to be slightly different though, not sure why. maybe cus its older
+
+wish I had access to this data long time ago then I wouldn't have wasted so much time trying to be a startup or get into YC!!!
+YC mythos is crumbling before me...
+
+Failure : (92.95%)
+
+Small Success : (3.94%)
+
+Medium Success: (2.39%)
+
+Large Success : (0.28%)
+
+Unicorn : (0.44%)
+
+and the ROI distribution doesn't look good either (but I understand those home runs will pay for the losses)
+
+-100% (Total Loss): (80.9%)
+
+-99% to -50% : (2.4%)
+
+-49% to 0% : (1.4%)
+
+1% to 100% : (2.6%)
+
+101% to 500% : (5.7%)
+
+501% to 1000% : (2.8%)
+
+1001% to 5000% : (3.8%)
+
+5001%+ : (0.4%)
+
+
+
+
+
+
+https://jaredheyman.medium.com/on-yc-startup-exits-2025-update-c6017e8e526e
+
+https://www.fastcompany.com/91279425/y-combinator-startup-accelerator-identity-crisis
+
+Also YC is more B2B SaaS now
+
+
+
+
+
+Kenneth Williams . To paraphrase :  "Experts become so specialised  that they know everything  about fcuk all"  (The Dirac Delta function of expertise.)
+
+
+https://www.youtube.com/watch?v=aOwmt39L2IQ
+
+effective altruism of alcohol consumption -> surely you would try and get less people to dirink probably
+
+hard to evaluaet the ethics of drinking though
+
+
+superconductors
+
+
+
+6. Societal Costs
+From a utilitarian perspective, alcohol-related accidents, healthcare costs, and violence are major downsides.
+
+There’s an ethical tension between individual freedom and societal well-being — governments address this via regulation, taxes, and age restrictions.
+
+
+https://frommatter.substack.com/p/sadly-80k#footnote-1-168728296
+
+everything has an agenda
+
+maybe universities are closest to a pure agenda, but they also have incentive to be self sustaining
+
+also the thing (saw on reddit originally) about rational people all beliving their rational in a company
+
+but they'll all have differeent priors and conceptions of the problem, which means their problem/solution is hte most urgent one
+
+lesson from starting/not starting the podcast
+-> you can't just cook up the perfect plan in the beginning, similar to football anlaogy
+
+you need to experiment and iterate
+
+
+[why AI won't take over - med life crisis](https://www.youtube.com/watch?v=TNeVw1FZrSQ)
+
+AI poisoning
+
+9:22 Another rather drastic example of automation bias is Siemens selling a computerized system to the UK postal service. They then proceed to prosecute multiple postmasters for crimes that had never occurred, asserting the computer could not be wrong. Simple clerical errors allowed to cause deaths.
+
+send to Ify - https://youtu.be/TNeVw1FZrSQ?si=fPMPMn6Ve00fWXqe
+
+
+
+My favourite medical joke - what do you call the person who graduates at the bottom of their class in med school? Doctor
+
+I think a lot of people forget that doctors are people too, and are JUST as fallible.
+
+
+"This constant lying is not aimed at making the people believe a lie, but at ensuring that no one believes anything anymore. A people that can no longer distinguish between truth and lies cannot distinguish between right and wrong. And such a people, deprived of the power to think and judge, is, without knowing and willing it, completely subjected to the rule of lies. With such a people, you can do whatever you want." -Hannah Arendt
+Doesn't really matter if it's billionaires, right wing politicians, or AI doing the lying, the end result is the same.
+
+no way of verification of no hallucinations
+
+That was the second mostsurprising thing I learned from these interviews:
+how often the founders were rejected earlyon. Byinvestors, journalists, estab
+lished companies—they got the Heisman from everyone. People like the idea
+ofinnovation in the abstract, but whenyoupresentthem withanyspecific inno
+vation, they tend to reject it because it doesn'tfitwithwhat they already know.
+Innovations seem inevitable in retrospect, but at the time it's an uphill
+battle
+
+
+How are human friendship networks different from internet ones
+
+girls don't use dating apps as much because they already get attention on instagram. idk if there's any way to improve that
+
+
+Tiktok travel + LLMs??
+
+dating app like tickle, which uses your bi five peronality traits + other data most associated with long term lasting relationships and does that.
+
+Also can include coaching for men.
+
+
+on class in the uk from reddit
+
+I think is comes down to comfort. and associating with the small people you are familiar with. The roots come from Feudal society where everyone has a role and you are expected to stay in your role. This is practically ingrained.
+
+
+#### 16/8/2025
+
+hike tianmen mountain
+
+head down vs up
+
+french girl ilona
+
+careers like climbing a mountain
+
+
+
+
+### 19/9/2025 
+
+on berttrand russell a history of western philosophy
+
+I was sometimes accused by reviewers of writing not a true history but a biased account of the events that I arbitrarily chose to write of. But to my mind, a man without a bias cannot write interesting history – if, indeed, such a man exists. I regard it as mere humbug to pretend to lack of bias. Moreoever, a book, like any other work, should be held together by its point of view. This is why a book made up of essays by various authors is apt to be less interesting as an entity than a book by one man. Since I do not admit that a person without bias exists, I think the best that can be done with a large-scale history is to admit one’s bias and for dissatisfied readers to look for other writers to express an opposite bias. Which bias is nearer to the truth must be left to posterity.
+
+luke important thing abt philosphy of science: no theory without experiment/observation and no observation without theory
+
+applies to life too!
+
+> I’ve tried to avoid doing X to get Y to get Z on this path. That’s the career game. Instead, I want to just do Z and enjoy it because I like it. After seeing the high royalty rates from self-publishing and knowing how the costs of running a business are going to decline, I think it’s actually a mistake to think that books need to be a loss leader for other more profitable work.
+
+I actually probably made it to what most people think about as the inner circle, I couldn't stand going along with the rush of things though (hence gap year), so I needed a bit of the break. But while I was there I wanted to break into it as much as possible.
+
+
+https://theamericanscholar.org/the-disadvantages-of-an-elite-education/
+
+#### 20/8/2025
+
+https://fortelabs.com/blog/the-secret-power-of-read-it-later-apps/
+
+
+people struggle to read properly lol-have to go through a bunch of hoops to help people
+
+
+The fact is, the ability to read is becoming a source of competitive advantage in the world.
+
+I’m not talking about basic literacy. What has become exceedingly scarce (and therefore, valuable) is the physical, emotional, attentional, and mental capability to sit quietly and direct focused attention for sustained periods of time.
+
+A recent article in the Harvard Business Review puts a name to this new neurological phenomenon: Attention Deficit Trait. Basically, the terms ADD and ADHD are falling out of use because effectively the entire population fits the diagnostic criteria. It’s not a condition anymore, it’s a trait — the inherent and unavoidable experience of modern life characterized by “distractibility, inner frenzy, and impatience.”
+
+
+https://www.theguardian.com/gnm-press-office/2024/oct/01/people-are-turning-their-backs-on-love-says-new-guardian-research?utm_source=chatgpt.com
+
+people turning their backs on love/dating
+
+
+https://aseemthakar.com/what-a-10-day-silent-meditation-retreat-is-really-like/
+
+really enjoyed this blog article on meditation retreat
+
+- made me think that I should do one
+
+https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
+
+idea of building a second brain is useful. idk if I have a software that I trust enough to do it though.
+
+reddit
+
+
+
+
+[interesting video on the yakuza in japan](https://www.youtube.com/watch?v=C7MIZHu1iP8&ab_channel=GoWithAli)
+
+
+the myth of sisyphus and other essays by albert camus
+
+
+bertrand russel has a history of western philosophy, but most people recommend to start with kenny
+
+https://www.reddit.com/r/askphilosophy/comments/1hv194r/is_bertrand_russells_a_history_of_western/
+
+bertrand russell was in the pathless path
+
+Anthony Kenny's A New History of Western Philosophy
+
+
+There's an argument that Frederick Copleston remains the best single-author history of philosophy, but it's 11 volumes. Anthony Kenny said (on Philosophy Bites, if you're into that sort of thing) that his aim with the New History was to have the readability of Russell with the accuracy of Copleston. I think it's pretty great, myself. As you say, I really like how Kenny does chronological overview chapters then topic-by-topic.
+
+
+I'd possibly recommend A.C. Grayling's book on the history of philosophy he does eastern as well, which is good
+
+https://pathlesspath.com/200k-publishing-offer/
+
+https://www.itsjustliz.org/i-won-a-youtube-trip-to-la/
+
+data science at intel and she wants to be a youtuber?
+
+I graduated Valedictorian in Mechanical Engineering but recently transitioned into Data Science. Currently, I am working as a Data Science Manager at Intel. I am essentially a mash-up between semiconductor manufacturing and computer science.
+
+source code mmovie
+
+donnie darko movie
+
+2001 space odyssey
+
+sixth sense movie
+
+video on knot theory
+
+https://www.youtube.com/watch?v=NeXDCGQ77rI&ab_channel=galactical
+
+[conscientuousness is decreasing FT article](https://www.youtube.com/watch?v=Uspow17zU7U&ab_channel=BigA)
+
+
+first time in history the youngest generation is the most introverted, used to be the other way around before. very interesting FT article
+
+also with perserverance
+
+we are turning into WALLE universe lol
+
+
+throw an engineering event in the UK?
+
+
+
+https://www.reddit.com/r/ChineseLanguage/comments/b4pjgu/comment/ej8g92j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+
+This question comes up often in the context of learning Mandarin for business. To that end, read The Actual Worth of Chinese Language Proficiency on supchina.com and the comments in this thread. You can also listen to the episode Is Learning a Foreign Language Really Worth It? by the Freakonomics podcast.
+
+In regards to Mandarin specifically:
+
+You'll have to invest a significant amount of time and effort to reach even basic proficiency (certainly as compared to other languages you could study. For example, it will take 3,300-4,500 hours, and learning 3,000+ characters, before you can read an average newspaper comfortably in Mandarin).
+
+99% of both L1 and L2 speakers of Mandarin are in China (the next largest population is in Taiwan). While emigration from China has been on the rise in recent years, the odds of running into an L1 or L2 speaker aren't high outside of certain areas.
+
+If you want to learn in-country, then consider how appealing living in China or Taiwan would be to you (you could learn Mandarin in Singapore or a few other locales, but the vast majority of learners go to China/Taiwan).
+
+Will learning Mandarin facilitate doing business in the future? Maybe. It's hard to predict (see also: learning Japanese in the 1980s). But if you want to use Mandarin in a professional setting, then you need to learn it really well.
+
+Many Mandarin learners are frustrated by the quality of Mandarin language media. (It's a recurring complaint in r/chineselanguage). The criticism is a little unfair but not entirely groundless. Good quality Mandarin language podcasts and audio books are rare. Film/TV shows are often middling, but there are exceptions (historically Taiwan and Hong Kong produced better quality content; the mainland is slowly improving).
+
+Virtually all Internet content and services are delivered with the (natural) assumption that they are being used by Chinese people in China. Using these services/content outside of the Great Firewall isn't always the same (or not possible) as when you are inside it. (It's worth noting that all of the services you are accustomed to using (e.g., Google, Facebook, etc.) are available in Taiwan and used by Taiwanese people).
+
+The above is not meant to discourage you from learning Mandarin, but rather it's intended to help you make an informed decision.
+
+
+
+Sunk costs of Chinese language acquisition
+
+Why was I so bitter about this in the first place? The story behind it is deeply personal. When I was three years old, my parents moved to the U.S., and it was decided that I’d remain with my grandmother for a time so that I would become proficient in Chinese before I joined them abroad. Little did we know, the six-year period I lived apart from them would create deep fractures that have come to define our relationship in every way. Though we’ve never talked directly about this, my parents and I have come to regard my strong bilingual proficiency as the rare fruit obtained at an exorbitant price.
+
+I became fixated on making significant use of my Chinese proficiency, to give the trauma some meaning. As behavioral economist Richard Thaler famously pointed out, everybody struggles with the “sunk cost fallacy,” in which people “continue a behavior or endeavor as a result of previously invested resources (time, money or effort).”
+
+
+I think the right mindset when answering if a language is profitable/worth it or not is to bear in mind that any language is just a tool and it all depends on your motivations and purpose. All my previous jobs required Mandarin proficiency, but I only realized later on that it would be best(and most practical) to specialize in a specific sector or industry and then make yourself more competitive/marketable with your language proficiency rather than making it your main (or even sole) selling point. For instance, I am now looking for a job in the logistics/supply chain sector (from customer service) and although I have no background in it, I realized that my proficiency in Mandarin allows me to negotiate better wages for entry-middle level jobs. Thus, I am thankful for my Mandarin for making the process of transition more bearable. Unless you want to become an interpreter or translator, then keep in mind that language proficiency is just a means to a certain end but never the end itself.
+
+
+https://freakonomics.com/podcast/is-learning-a-foreign-language-really-worth-it/
+
+only a billion people in the world speak english
+
+
+足球 (zúqiú) = foot + ball = football (or soccer, if you prefer)
+跳舞 (tiàowǔ) = jump + dance = to dance
+东西 (dōngxi) = east + west = thing; stuff
+
+https://www.hackingchinese.com/the-building-blocks-of-chinese-part-5-making-sense-of-chinese-words/
+
+interesting that the distinction of word/phrase is up for debate in chinese
+
+
+should develop my own method like xiamanyc to learn any language
+
+pronunciation
+
+then sentences + grammar
+
+always you need comprehensible input
+
+theory of learning overall - immersion in the best input you can find, e.g. watch the best dance videos
+then do your best to imitate
+
+different ypes of knowledge from philosophy e.g. knowing deductive truths and riding a bike, type 1 and type 2 thinking
+
+nmeumonics and putting stuff in terms of the way your brain understands it
+
+be able to explain and teach/ reproduce the idea
+
+you will have some familiarity and then you will also crave more structure, so yhthen you can begin learning the grammar/theory to build more comprehensible input
+
+then scale the comprensible input until you keep doing more and more complicated things. always have an eye on the north star, because
+
+read the best books first
+
+
+gap year get C1 in spanish? can't keep hedging decisions
+
+also learn to lip read
+
+need to make a list of learning goals. side and main ones
+
+give a man a fish vs teach a man how to fish
+
+
+
+
+
+
+
+
+an app for long distance communication
+
+
+enjoying richard branson 
+
+e.g. ideas on hiring, and making tough decisions and growth. take calculated risks. e.g. vrigin airways as a separate company
+
+coast to coast in 7 days? marathon
+
+
+the thing about taking risk in second language? the study
+
+
+embracing the spirirt of the fool, get to top of dunning kruger curve asap
+
+get early results to give you motivation, show to people and make you feel good
+
+you're fighting/learning for yourself
+
+the visible returnss take a while to surface, e.g. learning business, learning a language
+
+https://www.youtube.com/watch?v=yeLW22wss7U&ab_channel=ChrisFoster
+
+
+[economics of fitness influencing. to watch later](https://www.youtube.com/watch?v=A8fuG1AXZhM&ab_channel=JoeDelaney)
+
+https://www.youtube.com/watch?v=X-O7l2k9VAI&ab_channel=kodekai
+
+
+[balance bewteen views and information in science communication. referncing jubilee chasing views and virality e.g. debates](https://www.youtube.com/shorts/PdqQyRHA8a4)
+
+
+
+I’ve learned that the way you think shapes almost everything, your choices, your opportunities, even how people treat you. Once you start training your mind to think sharper, life begins to look completely different.
+
+[how to talk like a smart person](https://www.youtube.com/watch?v=Yy_sXDmUvas&ab_channel=HankGreen)
+
+
+https://www.youtube.com/watch?v=VfYp9qkUnt4&ab_channel=HowMoneyWorks
+
+i walked instead of flying YT video
+
+
+[rate my dorm](https://www.youtube.com/watch?v=4v5-N8kmXlw&ab_channel=jedcal)
+
+
+
+[transition editing](https://www.youtube.com/shorts/peTqqicnvFM)
+
+https://www.youtube.com/watch?v=fH_6iL2EmHM&ab_channel=DigitalSpaghetti
+
+[just build more houses?](https://www.youtube.com/watch?v=VfYp9qkUnt4&ab_channel=HowMoneyWorks)
+
+[i hired a basketball trainer for a year](https://www.youtube.com/watch?v=yeLW22wss7U&ab_channel=ChrisFoster)
+
+
+[interesting](https://www.youtube.com/watch?v=RRxudk15dq4&ab_channel=Doobydobap)
+
+
+trends of personal brand and YT and stuff. YT is getting saturated a bit. when everyone's famous noone will be (same as superheroes from incredibles lol). people will get better at self marketing overall tho and portfolio careers and stuff will be more important
+
+oxford first principle's thinking spoilt me, thinking I could find a job like that maybe in R and D or something
+
+most jobs aren't like that - especially entry level ones
+
+reminds me of marx alientation of work
+
+knowledge wor/ software engineering is you're just a tool to the employer, you're not really meant to implement creative thinking
+
+some place you have it slightly better, at the end of the day you have a job to do, which you were hired for. not meant to stray outsie those edges, but like richard branson allocating people, i want to grow with my job/work
+
+that's why company/amrket you work in is important, you want it to be valuable for society
+
+business is creating stuff that people want to pay for, not that they should pay for
+
+every company should post the meta on its hiring practices, to make it more fair. otherwise people with better connections do better
+
+measuring innovation diffusion - message james he?
+
+read the LLM jrafsky paper about cogntiive science/LLM representations
+
+
+pathless path : i want to maximise freedom to, (while also minimise freedom from)
+
+
+also thining about what luke said about observation and theory
+
+
+why other people learn about things more slowly? you can do it fast! idk exactly. but related to why I get bored easily, ig I don't often struggle as much
+
+business open ended problems can be col too
+
+my interest in social science/economics comes from wanting to understand the game/world, after understanding engineering and physcs
+
+
+should i learn some proper maths and physics in the next year while my brain is still young?
+
+hank green video, people can't learn for you e.g. in school/university
+
+
+the world isn't solved by solving physics type problems, only in finance a bit lol
+
+
+lots of businesses are just gap businesses, e.g. aman manzir where recruiting is kind of broken
+
+a lot of times you can make money by doing what other people don't want to do (e.g. rejection in sales), or by collecting the right group of assets/people. e.g. ali abdaal or aman manzir, 
+
+i asssume that older people get jobs through referalls way more than younger people
+
+e.g. this guy too is intersting, only working since 2021 but doing pretty well
+
+https://medium.com/the-data-entrepreneurs/data-side-hustles-you-can-start-today-844863769827
+
+
+all he did was document his leanring in public, now he's doing pretty well for himself
+
+
+when learning anything have to get past the period of the suck e.g. cant really performance dance well until you know a fair bit
+
+we're tricked into thinking this bar gets higher and higher as we get older, but it's good to fail! the most successful people fail! e.g. branson, jeff bezos
+
+it's key to leanring and staying adaptable too
+
+when you die, nobody cares if you went to FAANG. also it's not the end of the world, imagine you get there and peple have ego's because they got there. there can be smarter people in smaller companies too.
+
+[that guy egor howell has doing pretty well too](https://www.youtube.com/watch?v=4yeLh4tAamU&ab_channel=EgorHowell)
+
+also what james smith business YT said. you don't need a massive audience, you need small and loyal audience. at the end of the day these are all real people, 10,000 real fans kinda vibe. i wonder what colin and samir would say baout the cost of production of nice videos and stuff going down. cameras and microphones cheaper, software easier to use. when everyone's famous, noone is
+
+read the best books first? true, but not true. maybe for info, but what makes a book the best. 
+
+irl maybe you want an author you relate to, or one that's more fun to read
+
+why try and commodotise yourself? yes be high quality, but better to be in a market of one
+
+e.g. 3b1b all the manim videos, and mr beast ification better to be unique. and not david etc
+
+having a scared day e.g. sunday for weekly review etc could be good
+
+
+also so many people can do health and wellness/fitness, what makes you unique? the whole thing about competition in business, starter story's simple ideas are useful for that too
+
+accelerating the personal brand should be useful too
+
+it is a privilege to have time to have one e.g. to make content, but might become more necessary becase it's getting harder to provide value directly, so the trend of having niche jobs you need a lot of trianing for will increase e.g. specific software engineers roles etc
+having better personal brand wll help people understand you better
+
+literacy is the most imporant thing to have as a baseline for a good life
+
+life aim: help people have more freedom to, be able to live their lives more. i was lucky i got a lot of opporutnities to live me life, from multiple countries etc. would like to give that opportunity to other people too
+
+productivity effieincy e.g. chepater travel and house prices is one component for that
+
+need to watch that japan atrioc video, biggest housing bubble which then collapsed?
+
+young people aren't rebellious or aganst "the man" as mich, more recent atrioc video 22.8.25 
+
+
+it's all about finding the first person e.g. the black guy paul i met in changzhou
+
+
+
+#### 23/8/2025
+
+visit Issa in guangzhou. good times
+
+
+#### 25/8/2025
+
+https://towardsdatascience.com/software-engineering-to-data-science-a07f178a98c4/
+
+use streamlit for development of dashboards?
+
+
+https://towardsdatascience.com/llm-evaluation-techniques-and-costs-3147840afc53/
+
+why unit tests are difficult in LLM and languag development
+
+essetnailly the reason we don't code in natural language, to make big complex systems we need strict code and stuff and unit tests
+
+https://en.wikipedia.org/wiki/Carpetbagger#United_Kingdom
+
+interesting term
+
+list of richard branson books to read (from his wikipedia article):
+
+https://en.wikipedia.org/wiki/Richard_Branson?utm_source=chatgpt.com#Personal_life
+
+[nelson mandela long walk to freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom)
+
+[wild swans chinese history during mao](https://en.wikipedia.org/wiki/Wild_Swans)
+
+stalingrad
+
+https://www.virginstartup.org/start-up-loans/
+
+iteresting start up loans
+
+al gore, climate change
+
+https://en.wikipedia.org/wiki/Al_Gore
+
+entrepreneurs belive the world can change
+
+
+#### get private sector GDP in UK. dominated by finance?
+
+https://chatgpt.com/share/68abf694-05c8-8003-a772-7547a33b7fa8
+
+
+can get it by taking overall GDP and removing public spending
+
+In the UK, while there isn't a single official measure labeled "private sector GDP," you can approximate it by excluding government spending from the total Gross Domestic Product (GDP). This approach provides insight into the economic activity driven solely by private households and businesses.
+
+### How to Estimate Private Sector GDP
+
+UK GDP is typically calculated using the expenditure approach:
+
+
+
+Where:
+
+* **C** = Consumption (households)
+* **I** = Investment (businesses)
+* **G** = Government spending
+* **X - M** = Net exports (exports minus imports)
+
+To focus on the private sector, you would exclude **G** (Government spending):
+
+
+
+This calculation reflects the economic output generated by private entities, independent of government expenditure.
+
+### Data Availability
+
+The UK's Office for National Statistics (ONS) provides detailed GDP data, including breakdowns by sector and expenditure components. While they don't publish a specific "private sector GDP" figure, you can derive it from their datasets by subtracting government spending from the total GDP.
+
+For more detailed information and access to the datasets, you can visit the ONS's official page on [Gross Domestic Product (GDP)](https://www.ons.gov.uk/economy/grossdomesticproductgdp).
+
+If you need assistance in calculating the private sector GDP using the latest data, feel free to ask!
+
+
+
+
+https://www.reddit.com/r/AskAnthropology/comments/anhd8g/what_do_anthropologists_think_of_the_world_values/
+
+intrtersting discussion of world values survey- questions might be biased/there is an agenda
+
+
+
+
+I guess the closest anthropologists have come to this sort of classificatory study is from the heyday of Harvard's social science departments in the 50's, specifically the work of Clyde Kluckhohn.
+
+Clifford Geertz (PDF) has written about the broader context at Harvard in the 50s, where they were trying to integrate anthropology, sociology, psychology and related fields under a single research programme named 'Social Relations'.
+
+As part of this (I believe), Kluckhohn ran a comparative study of values amongst a few groups of people in the American Southwest: Mormons, Navajo, Zuni, Mormons and Mexican Americans. The idea was to identify the 'value orientations' of each group, but ultimately the study ran aground.
+
+According to David Graeber, this was mainly because it proved exceedingly difficult to, firstly, connect whatever essential value was abstracted from the field with the everyday activities of the people concerned; and secondly, to meaningfully compare such values cross-culturally (which was the main aim of the study to begin with).
+
+So the way I see it, even when anthropologists have tried to build a picture as the one you've shared, they've had to contend with the problem that searching for the 'essence' of any culture requires giving up so much of actual ethnographic detail as to be somewhat futile.
+
+I think the problem with this-- or any-- attempt to "classify" cultural practices or systems is that ultimately someone is defining the scale and variables that the classifications are based on. In this case, it seems pretty clear that the definition is coming from a predominately Western cultural and worldview.
+
+Honestly, I can't even figure out what the various categories are being defined on the basis of, but carving out three large categories as "Protestant Europe" versus "Catholic Europe" versus "English speaking" and then lumping every majority-Islamic nation from around the world with African nations...?
+
+The World Values Survey is apparently not ideologically agenda driven, but I really question the map there in terms of its composition. I have trouble with the notion that somehow it's appropriate to divvy up the Christian world into so many different sub-groups, but to leave the rest of the world loosely grouped into a series of catch-alls.
+
+I don't even see indigenous American anywhere in there, and the entire continent and all nations of Africa are grouped with Islamic-majority countries, including Indonesia.
+
+All in all, there's a very obvious Euro-centric worldview expressed here. Painfully obvious. To the point where it's hard to look at this as anything but an exercise in hiding an agenda. I'm not even going to touch the actual divisions / categories, but I see Ireland and Northern Ireland actually separated. When the granularity of a classification system is high in one area and very low in another (high in Europe / the Christian world, low in... well, everywhere else), you have to question the approach / method.
+
+World Values Survey claims to be composed of social scientists, but if that's the case, they seem to have totally missed anthropologists among that grouping.
+
+
+All I am saying is that by design, the survey measures how much a given person is "like an ideal swedish person" (or any other enlightened european secular protestant) and not how "rational-secular", "traditional", or "survival-oriented" they are. My problem is much more with that than with the groupings, which are obviously shoddy and dubious.
+
+
+Ronald Inglehart - the political scientist who came up with this - is working from the assumption that nation states form rather homogenous units that are meaningful when talking about "values", operates from a late 19th century understanding of human society (societies as different "stages", from primitive (survival oriented) to modern (wealth oriented) to post-modern (self-fulfillment oriented)) combined with a rather outdated secularization thesis, which posits authoritarian religion on the beginning and democratic "secular" society on the end of a scale of human development. His groupings look arbitrary and euro-centric. His theory is based on Maslow's Hierarchy of Needs, which is not supported by empirical evidence.
+
+Also, on a more personal note: It make me incredibly furious if peoples work is so obviously ideological but because they work from a quantitative angle people think it is meaningful "science".
+
+
+people used to have kind of BS theories about physics before too, e.g. aristotle said things are meant to be on the gtound that's why they fall
+
+newton didn't know about atoms and tried to make gold, so maybe social science will develop the right quantiative methods at some point
+
+e.g. big 5 personality traits
+
+
+The **Big Five personality traits** (also called the **Five-Factor Model**: **Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism**) come from decades of empirical research in psychology, mainly rooted in **language and statistics** rather than a single theory.
+
+Here’s the origin story in steps:
+
+---
+
+### 1. **The Lexical Hypothesis (early 20th century)**
+
+* Psychologists noticed that people naturally describe personality using adjectives (e.g., “kind,” “lazy,” “outgoing”).
+* The **lexical hypothesis** argued that the most important personality traits should be encoded in language, because humans need words to describe and predict each other’s behavior.
+* Researchers collected large lists of trait words from dictionaries (English and other languages).
+
+---
+
+### 2. **Factor Analysis (1930s–1960s)**
+
+* To make sense of the thousands of words, psychologists used **factor analysis** (a statistical technique that identifies clusters of related variables).
+* Early researchers like **Allport & Odbert (1936)** created a list of \~18,000 trait words.
+* Later, **Raymond Cattell** narrowed this to 16 factors (the basis of his 16PF questionnaire).
+* But when other researchers reanalyzed Cattell’s data, they consistently found **five broad factors** rather than 16.
+
+---
+
+### 3. **Emergence of the Big Five (1960s–1980s)**
+
+* Psychologists like **Ernest Tupes & Raymond Christal (1961)** and later **Lewis Goldberg, Paul Costa, and Robert McCrae** consistently found evidence for **five stable factors** across different samples and cultures.
+* By the 1980s, the “Big Five” became widely accepted as the dominant descriptive model of personality.
+
+---
+
+### 4. **Cross-Cultural and Biological Support (1990s–present)**
+
+* The Big Five have been replicated in dozens of languages and cultures, suggesting they capture something universal about human personality.
+* Behavioral genetics and neuroscience show moderate heritability and biological correlates for the traits.
+* Today, the Big Five are considered the most robust and widely used framework in personality psychology.
+
+---
+
+✅ **In short:** The Big Five didn’t come from a single theorist’s idea but from analyzing the natural language people use to describe each other, then distilling patterns through statistics. They emerged gradually as a consensus description of human personality structure.
+
+---
+
+Do you want me to also explain **why five** factors (and not, say, three or seven) seemed to be the “sweet spot” researchers settled on?
+
+
+there are some breakthroughs
+
+
+e.g. five, stable universal factors that they got from data
+
+
+how do counties vary, personality, humour
+
+
+
+Oh, tons! The Big Five is just one example of **discovering structure in human psychology by mining data and applying statistical techniques**. Cognitive science has done this in several other domains too. Here are some big ones:
+
+---
+
+### 🔹 1. **Basic Emotions**
+
+* Similar to the lexical approach for personality, researchers (e.g., Paul Ekman) analyzed words, facial expressions, and physiological data.
+* Found clusters like **anger, fear, disgust, happiness, sadness, surprise** (and sometimes more).
+* Alternative data-driven approaches (e.g., dimensional models) instead find factors like **valence (positive/negative)** and **arousal (high/low)**.
+
+---
+
+### 🔹 2. **Memory Models**
+
+* By analyzing how people recall words/lists, cognitive psychologists uncovered reliable patterns:
+
+  * **Serial position effect** (better recall of first and last items).
+  * **Chunking** (grouping information into meaningful units).
+* Factor analyses of memory tests suggest separable systems: **working memory, episodic memory, semantic memory, procedural memory**.
+
+---
+
+### 🔹 3. **Intelligence Structure**
+
+* **Charles Spearman (1904):** Found a single statistical factor, *g* (general intelligence), by correlating performance across tasks.
+* Later factor models (like Cattell-Horn-Carroll theory) split this into broad factors: **fluid intelligence, crystallized intelligence, processing speed, working memory, etc.**
+* Again, these structures emerged from **large psychometric datasets**.
+
+---
+
+### 🔹 4. **Moral Foundations**
+
+* Jonathan Haidt and colleagues analyzed moral language and survey data, extracting clusters like:
+
+  * **Care/Harm**
+  * **Fairness/Cheating**
+  * **Loyalty/Betrayal**
+  * **Authority/Subversion**
+  * **Sanctity/Degradation**
+* These emerged from statistical analysis of moral judgments across cultures.
+
+---
+
+### 🔹 5. **Conceptual Categories**
+
+* Cognitive scientists (like Eleanor Rosch) looked at how people group objects.
+* Data-driven clustering of similarity judgments revealed **basic-level categories** (e.g., “dog” is more cognitively natural than “animal” or “Labrador”).
+* This showed how our minds organize the world into hierarchies.
+
+---
+
+### 🔹 6. **Language & Semantics**
+
+* From big corpora, models like **Latent Semantic Analysis (LSA)** and modern word embeddings (Word2Vec, BERT) reveal the structure of meaning in language.
+* These are essentially *data-driven maps of concepts*, showing how words cluster in semantic space.
+
+---
+
+### 🔹 7. **Social Networks & Influence**
+
+* Analyzing interaction data reveals **structures of influence, trust, and cooperation**.
+* For example, social network analysis finds **centrality measures** that predict leadership, influence, or information flow.
+
+---
+
+### 🔹 8. **Cognitive Biases**
+
+* By running large numbers of decision-making experiments, researchers clustered systematic errors into categories like:
+
+  * **Availability heuristic**
+  * **Anchoring**
+  * **Loss aversion**
+  * **Overconfidence**
+* Essentially, biases are “factors” that fall out of large data on decision behavior.
+
+---
+
+👉 **Pattern:** Many psychological frameworks (traits, emotions, morality, intelligence, memory, semantics, biases) come from the same move:
+
+* Collect lots of **observable behaviors/words/judgments**
+* Run **factor analysis, clustering, or dimensionality reduction**
+* Interpret the stable patterns as cognitive structures
+
+---
+
+Would you like me to sketch a sort of **map of psychology “factor models”** (personality → Big Five, emotions → Ekman/dimensions, intelligence → g/CHC, morality → foundations, etc.) so you can see how they parallel each other?
+
+
+
+language is one of our biggest cognitive interfaces. our only one through books and stuff
+
+but also social media with videos and stuff has more information (e.g. thinking about compression). 
+
+after processing images/text, does your imagination use the same information bandwidth, e.g. when you read a book you fill in the blanks with your ideas e.g. watching reels and reading a book
+
+some people are worse/better at this than others
+
+information processing in the imagination?
+
+
+interesting how humans all evolved to understand the same social cues. e.g. language is different but laughing is universal, and smiling and looking angry
+
+
+issa -> the world is run on stories.
+
+made me realise with mentors, you shouldn't appraoch it as transactional, or that you want something from the interaction
+
+if you were the mentor yourself, you're not excited by some asking for a solution to a thing, you want to share and listent o stories
+
+how to learn business? you need to do it
+
+feeling like I need to justify year abraod
+
+
+
+
+
+this is crazy!!!!!!!!
+
+[Psychological Language on Twitter Predicts County-Level Heart Disease Mortality](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/54bf31f0e4b084f8aab47ba6/1421816319419/TwitterHeartDisease.pdf)
+
+Johannes C. Eichstaedt
+
+
+language is very cool
+
+
+
+[indie game architecture. very good video](https://www.youtube.com/watch?v=8WqYQ1OwxJ4&pp=ygUWaW5kaWUgZ2FtZSBhcmNodGVjdHVyZQ%3D%3D)
+
+[also the volleyball short film was vert good](https://www.youtube.com/watch?v=p5DOQdIRpnE&pp=ygUUdm9sbGV5YmFsbCBzaG9ydGZpbG0%3D)
+
+
+thesis advice
+
+project management
+
+advisor relations. meet often.
+
+
+
+Are you in smart people prison?
+
+You sit with the intimate knowledge of your own inadequacy.
+
+Held back by fear and perfectionism.
+
+While people dumber than you are
+
+Making more money
+
+Scoring better jobs
+
+Having more freedom
+
+Get out of that prison.
+
+Stop overthinking, overanalyzing
+
+Start doing.
+
+Inspired by Ayodeji
+
+
+don't rush development but also don't undersell yourself
+
+the race day you should have already done the trianing, you're not meant to pretend you're more than you are already
+
+some people have the luxury of having people invest in their potential to various degrees, if you need more of that don't focus on networking yourslef better necessarily, focus on having undeniable results that you can achieve things
+
+another example of reversible advice, some people need to sell less (not capable people) and some people need to sell more
+
+Why I Pay $700 an Hour for Coaching, but Refuse to Buy a $2 Coconut
+
+
+- good article. you should be in a market of one, and also hidden lesson about decision making. dont waste time on small decisions like scott galloway. know where you want to be spending your creative energy
+
+at the end of the day, you're basically the sum of your habits and decisions every day. there's a good quote from derek sivers about it.
+
+
+why do behvaioural interveiws exist? to chekc you're an okay person and can collaborate ig
+
+
+
+So, I made a bold move: I headed to Beijing, the heart of China’s booming tech scene, where over 100 companies hit $1bn valuations in 2018.
+
+The tech sector was in a massive boom. Companies hired lightening fast, valuing your potential over just your credentials. In one week, I snagged four job offers. I must’ve convinced someone I wasn’t entirely clueless!
+
+I chose to join Tantan, a leading dating app, as a growth analyst. It was an easy decision—exciting challenges and free meals? Sign me up!
+
+Her Takeaways
+Target digh-demand, low-supply markets: Think beyond traditional tech hubs. While Beijing in 2018 might be a unique example, consider Denver or Baltimore if you're in the U.S., or consider international hotspots like Dubai.
+
+Explore less “sexy” industries: Don’t overlook sectors like oil & gas or insurance. They may not offer free meals, but they can provide a solid foundation in data skills.
+
+
+
+Outside of work, I was relentless in my job search, aiming high with British tech unicorns like Monzo and Deliveroo. I
+
+[decision making traffic light system](https://mandyliu.substack.com/p/the-traffic-light-system-better-decision)
+
+
+[really powerful vidoe about AI and art](https://www.youtube.com/watch?v=bpWG4E5g-Bw&ab_channel=Hayk_Animation)
+
+AI art is about e.g. doing AI marketing where it's good enoughe.g. like in hollywood spamming marel movies.
+
+people want human connection though, not factory stuff/slop
+
+e.g. letter story from Diary of a CEO
+
+maybe a new premium on human art/production in the future. when everyone's super, noone is.
+
+myth of sisyphus -> sneako stacking cards
+
+interviews are an exercise in selling
+
+#### dating business monopoly
+
+Haven’t worked for one myself but a friend did. They were privy to some of the “algorithm” and basically it was designed to keep people swiping rather than maximizing high quality matches. They said they did testing of better matching but it killed engagement among the male test cohort in particular because they were getting a far higher proportion of matches in the same “league”. That’s in contrast to being served basically the most swiped on people, i.e hottest people. Turns out ego-checking your user base is bad for business. 
+
+
+Turns out, in the dating business, the faster you match, the worse it is for business.
+
+
+https://en.wikipedia.org/wiki/Match_Group
+
+
+bsaically a monopoly 
+
+
+[egor howell - good example of showing your learning online and having it be good for your career and a bit of extra income too](https://medium.com/the-data-entrepreneurs/data-side-hustles-you-can-start-today-844863769827)
+
+
+#### 25/8/25
+
+idk why. 
+
+
+
+I think about the part in “oh the places you’ll go” .. the waiting place part? Where it’s filled with people just waiting for a place to go or the rain to come or the snow to snow or waiting around for a yes or no. I don’t want to be that person. One day at a time set small goals and you’ll feel a sense of accomplishment even if they’re minuscule.
+
+
+
+I take comfort in knowing they aren’t alone and uncared for in those last days. No one, no matter if they were an absolutely terrible person or a saint deserves to be alone, scared and in pain when they pass.
+
+We even give those on death row pain medication, access to religious care and someone with them as they go.
+
+
+without money there would be no game to win?
+
+thinking about life as a competition. how true is this?
+
+
+life is not a game to be won
+
+
+dance is like learning an instreument, not as much for competing - it's about performing
+
+thinking about regrets of the old
+
+and also the fact that i will get physically (and maybe mentally but not sure) less capable as I get older, and what to do about it.
+
+african tribes on meaning of life - no money, so yeah
+
+sisyphus boulder.
+
+at 30 physial peak ish, at 40 defo. so only 7-8 years ish rip (sad face)
+
+
+on friday evening I procrastinated by thinking about my decision making strategies
+
+also freezing when you have too many important/urgent things to do
+
+
+also the coding video on indie game architecture was very cool
+
+made me ralise you can break down and show/sell parts of product, instead of releasing all in one go.
+
+also a lack of system design is wy i got overhwlemd by the task of building a big game,a nd also removed some intellectual satisfcation because i thought it would be too messy
+
+but i do like organising thnigs
+
+guitar, look easy but actually hard
+
+good will hunting, people cant tell difference  1% and 0.01%. who do you do it for,
+
+not as fun when you get over the inital stage, where most people see you're good e.g. M1 rowing, then you have to enoy the struggle and more incremental gains other people cant see
+
+ was to an extent optmising for other people's success criteria before e.g. taekwondo blue, a bittt. although i did think about it before
+
+
+ ECE 477 princeton
+
+ https://github.com/jha-lab/ECE477-2025
+
+
+
+[nice dance video](https://www.youtube.com/shorts/kqjST5e5tqQ)
+
+[another summer love choreo - hu jeffrey](https://www.youtube.com/shorts/76woEUqnXXM)
+
+
+[another another dance video](https://www.youtube.com/watch?v=WGUvefLSwC8)
+
+
+interesting thing about rebels in japanese culture, they're not as cool sometiems
+
+
+[chris brown's kid is sick](https://www.youtube.com/shorts/sLWpTvgYWPY)
+
+[this guy wren crislogo ics cool too. very good control](https://www.youtube.com/shorts/VMqyEFnxKTY)
+
+https://www.youtube.com/shorts/oNrqGY01G38
+
+
+bronnie ware 5 regrets of the dying
+
+also tuesdays with morrie book
+
+explosive peak 23-27 
+ (e.g. usain bolt broke world record at 22)
+
+student athletes
+
+https://github.com/jha-lab/ECE477-2025
+
+
+
+potential future hobbies:
+- 
+
+
+amanda sze very cool. full time job + being creative
+- knows she can't do music forever, so she has a nice balance
+
+- being in a market of one, a maverick
+
+
+the pyramid of internet relationships is the wrong way round
+
+normal human networks are self similar, but stuff on youtueb isnt
+
+also the input relationship is messed up, e.g. seeing 50 people in 2 minutes. you couldnt do that in real life
+
+insatgram only 15 years old, and back then it only had posts. social media has not matured.s
+
+what if we tried to having our online social network actually mirror our in life social network
+
+like a self similar network
+
+real life relationships are meant to be like a pyramid, high value/time ones at the top with more time and less of them, low value at the bottom
+
+however, in social media it's inverted. you spend the most time with your weakest connections
+
+and the algorithm hacks your mind for this
+when everone super noone is
+
+sisyphus' mountain range
+
+i feel like im still finding who i want to be a bit
+
+
+
+you build relationships with people over watching your phone
+
+could make a video, make the manifestation of the algoithm into a character, and have person complain that their friend is spending way too much time with other people
+
+maybe older people have this more instinively
+
+email the CS tutor I liked about what his research is like?
+
+
+what if we lobbied to make recommendation algorithms optional???
+
+
+anybody can create/give, e.g. i could teach beginner dance classes now proably, or focus completely on just improving. there's always a balance.
+
+e.g. the top elite olympic atheltes probably focus on just competing, or for example current tennis athletes, but they can use that to help the world in other ways
+
+also it's easier to help once you're older too
+
+
+conversation with Issa late at night about black identity, 
+
+and also about personal identity .
+
+viewing it as a sm instead of boxes you fit in. humanity thrives on boxes but they're a simplificaiton to make our lives easier
+
+maybe in a class everyone got taught by the same person, or learnt how to play the same game e.g. baseball, or a university course
+
+but the culture we grew up around is unique to us, and people don't stay in one place for the rest of their lives
+
+before it was true that people did have more distinct cultural code. 
+
+it's also only by claiming an idenity that we can define ourselves e.g. a doctor, or a dancer
+
+like what ali abdaal said. dan koe maybe a bit closer, as identifying as someone on a journey
+
+the big five is also not enough to define you completely
+
+in general, all people are a bit the same-  we have so much in common. we just manifest ourselves in different ways and come from different backgrounds.
+
+maybe we should focus on identities we claim, but that slightly ignores the ones we grew up around
+
+identities are usually based on the past? we can't define them by aspirations as much
+
+if we view life detmentisically you are the sum of your decisions each day + habits, plus habitual non conscious reactions i guess
+
+e.g. what does being black mean? it's not a hobby or personality trait
+
+international citizens
+
+travelling made me realise i should be kinder to my friends lol
+
+
+finding friends who accept you for who you are is the most important thing, and it is a continuous struggle to unapologetically be yourslef
+
+and another one to do that while growing and keeping the grow forward.
+
+
+how even the word black reinforces 
+
+what if a person comes from black culture and is white and wants to go to the black parties
+
+people judge other based on the colour of their skin
+
+
+literally the main thing i have in common with other black people is that other people might judge me based on the colour of my skin. other stuff is more important, like being african and cultural background
+
+
+term black came as an antithesis to black
+
+
+trying to remove initial judgements during the gap year, e.g. of marx
+
+
+african american is kind of an illusion, but then maybe so is (white) american. if white americans can stake a new claim as being separate from europeans, african americans should be able to too
+
+ammerican identiy took about 200 years to form as separate from european identity
+
+-other gtoups e.g. irish and italian were incorporated over time
+
+we dont view white americans as derivative of europeans as much now, so we don't necessarily have to with african americans too
+
+but the word black apart from skin colour, can also symbolise a culture, and one that isn't just contained within african americans but that has roots and connections to african culture, in the same way european american culture has roots in european culture
+
+we can't ignore the history. but it's also different than if you took e.g. a nigerian or ghanian and put them in america for 300 years, because by bloods all the african americans mix too. e.g. for me it's more difficult to identify as one or the other because im fully mixed, eventually if you have a population of enough mixed people a new idenity can occur i guess
+
+ig a community of nigerian russians could form if there were enough of them, but it probably couldn't happen in a third country like the UK, it would have to happen in russia or nigeria probably
+
+and also black culture in uk has ties to african american culture
+
+interesting how culture evolves, and to find which point where there's enough people and shared values to call it a unique one
+
+
+philosophy helped me to remove the waffel around my conceptual thinking e.g. what does it actually mean to be black
+
+people use the word for black the culture separeately than it should be used for black the people
+
+
+there's no yellow culture, or brown culture
+
+e.g. with east asians in america and in asia like japan, china and korea
+
+then you have some people who 
+
+
+Black Americans who know their country of origin will identify as such and it’s why you can’t actually call all Black people living in America, African-Americans. You will meet Nigerian Americans, Haitian Americans, Jamaican Americans, etc.
+
+
+maybe do some natural lanuage aalysis to see how people identify as american more quickly than in other countries, but does becoming american mean it's an additive or transformative thing, or it replaces your original identity
+
+e.g. the idea of being japanese and american are different, in japanese it's more strict because you're expected to have your roots in japan, but americans have roots from all over. will this change in the future?
+
+japan historically has not wanted to let a bunch of people immigrate, becuase it would start changing the cultural make up and idea of the people
+
+e.g. what will britain look like in the future
+
+
+watch doing part time research youtube video!!!
+
+
+e.g. preppy black person is betraying his race? some people would think
+
+
+sports is a good example where people who are not ethnically/ your diaspora is not from that country, but you represent htat country on world stage e.g. olympics
+
+and when you win, people want to claim you
+
+
+sports and politics (and other international competitions) are two big interesting lens to see cultural and national identity actualy
+
+if yu want to know where someone is from, ask them which country they would want to represent in the olympics
+
+
+
+Europeans when an African American is seen as predominantly African 🥰
+
+Europeans when I describe myself as predominantly Irish and Polish 😤😤😤
+
+
+
+I’m a Canadian of Chinese, Filipino, and Spanish descent but, if I come up to a Spanish or Chinese dude and I say “I’m Chinese/Spanish” then I would get the same reaction. It ain’t fair because blood, dna and history don’t lie. Although for the last one though, it sometimes lies.
+
+
+watch part time research YT video, as well as fireship microsoft jobs one
+
+
+
+is black culture just contained within african americans
+ChatGPT said:
+
+Not at all. “Black culture” isn’t exclusive to African Americans—it’s broader, encompassing the experiences, traditions, and expressions of people of African descent worldwide.
+
+Here’s a breakdown:
+
+African Americans – Their culture reflects a history of slavery, segregation, and systemic racism in the U.S., but also creative resilience, expressed in music, art, language (like AAVE), fashion, cuisine, and social movements.
+
+Caribbean and Afro-Latinx communities – Countries like Jamaica, Haiti, Brazil, and Cuba have Black cultures with roots in Africa, shaped by colonization, slavery, and local traditions. Reggae, calypso, samba, and cumbia are examples of cultural expressions.
+
+African diaspora in Europe, Canada, and beyond – Black culture in the UK, France, and other countries mixes African heritage with local influences, often linked to immigrant communities.
+
+African continent – While African cultures are distinct by region, they have influenced diaspora cultures globally, through music, religion (like Vodou, Santería), storytelling, fashion, and more.
+
+So, “Black culture” is more of a global, interconnected phenomenon than something limited to African Americans. African American culture is a particularly visible and influential subset, but it’s part of a much wider mosaic.
+
+If you want, I can map out how African American culture intersects with other Black cultures globally—it’s really interesting to see the cross-influences. Do you want me to do that?
+
+
+black being two things, identity/skin colour and culture
+
+there is also third dimension of country of origin, wher eculture gets iffy
+
+e.g. a lot of black people across the world e.g. carribens, african americans and british africans have some shared values e.g. food and music/dance
+
+then other culture that stemmed out of dealing with the fact that other people treat us differently because of our skin colour
+
+issues come from when you have one aspect of being black without respecting the other
+
+e.g. white people taking black culture or black people not acknowledging black culture
+
+
+african americans view themselves as disavantaged, but africans dont really beause they dont have the comparison in front of them
+
+people feel sad to not know their distant heritage too
+
+
+looking forward:
+- a lot of black identity/culture comes from distant ptast of afrian identity, even if some people cant remember it due to time
+
+- should raise ecnomoic and poltical power of africa and black people
+
+- should be proud of the origin of black culture from africa and how it is shared among black people, similar to how different countries share their cultures, we should not close off these black communities from people who don't have black skin, because 1. it's fun to share our culture, and other people like it 
+
+(idea that afrobeats wasn't fun before)
+, but more importantly because we can use it to educate them on our complex history, and how a lot of black culture existed to give black people a voice against opression, but also to share african culture which is also cool
+
+
+i existed in a bubble a bit before where i didnt see the effects of racial discrimination much
+
+e.g. i didnt have to have a job that much
+
+and also at school it was mostly okay
+
+hearing about the person who told issa his story in china was eye opening
+
+
+although i did experience the effects of xenophobidia
+
+
+edumund yong is making p from his AI youtube helper
+
+https://www.youtube.com/@edmundyong/videos
+
+27/8/25
+
+100,000 dollars at some point
+
+https://www.youtube.com/watch?v=tfNIoZE4q-Q
+
+[fun peak video](https://www.youtube.com/watch?v=s5Rjy6n5CJ0)
+
+
+[otay ranch high school dance super cool](https://www.youtube.com/watch?v=IXsRuRVK-No)
+
+[another one of hgh school](https://www.youtube.com/watch?v=dZTf626ltTY)
+
+
+
+[wilsonwye-working multiple jobs at the same time. he's good at getting hired and being effective, should watch](https://www.youtube.com/watch?v=WrValFMtQzk&ab_channel=WilsonWye)
+
+watch you need to understand the bond market video!
+
+[mandy liu also does good hiring stuff for data science](https://mandyliu.substack.com/p/how-i-got-promoted-before-i-was-hired?source=post_page-----ae8053f79a6d---------------------------------------)
+
+
+RUBII concert?
+
+
+https://www.youtube.com/watch?v=3sc6OCJxvuU
+
+managing your own training - you need structure!!
+
+e.g. cant just run 6-7 times a week
+
+simple structure works, but eaving it open ended is bad
+
+shouldnt have to think about it
+
+
+Life is for being alive
+
+would the ant from the ant and grassshopper agree though?s
+
+
+[i wasted 17 years of my life dancing](https://www.youtube.com/watch?v=3sc6OCJxvuU)
+
+
+magnus midtbo is 36 and uqite old, but hella strong
+
+40 ish is the cut off
+
+[they're lying to you about vibe coding](https://www.youtube.com/watch?v=7kQi2HQMz4s)
+
+
+one cannot lead without leading themselves first e.g. to run a company you should be a able to run one by yourself
+(altho maybe that example is slightly different)
+
+to teach people sports you have to be capable yourself
+
+(altho maybe coaching is slightlyyy different)
+
+#### 2/10/2025
+
+I have to let the tap off on a lot of the stuff I've already mostly written. Otherwise it will say stuf in draft purgatory
+
+
+read the best books first -> then don't write the best books
+
+In the beginner's mind there are many possibilities, in the expert's mind there are few.
+
+You live in the same way always, e.g. richard branson
+
+
+Decades of choice.
+- You choose your friends... And you choose the joy of missing out to do the things you'll one day miss
+
+chloe.shih video (partnership with lexausa)
+
+
+
+the comments on the whiplash video about extreme effort and success
+
+
+#### 8/10/2025
+
+
+
+[lebron on man in the arena](https://www.youtube.com/watch?v=s7GWm7Fq0Ow)
+
+https://www.youtube.com/shorts/lyJpC9Q-c1Y
+
+stacy dooley on private schools
+
+
+
+some stuff from youtube
+
+
+- [How social media fuels useless products](https://www.youtube.com/watch?v=xFBg-sqpv64)
+- [about mastery vs enjoyment](https://www.youtube.com/watch?v=3oiDY2kYDbg)
+- [digital nomad stuff](https://www.youtube.com/watch?v=PGSQesVEQHI)
+- [i walked instead of flying](https://www.youtube.com/watch?v=X-O7l2k9VAI)
+- [be present](https://www.youtube.com/watch?v=qPh3xU1ahaI&t=4s)
+- [my month in china. luke korns](https://www.youtube.com/watch?v=-oAlAfcqzF4)
+
+
+you can't escape the cycles of life. e.g. me stopping to think about it
+
+only how you're going to live it
+
+if there was an answer, someone would have said it by now
+
+the philosophy guy on youtube, unsolicited advice is p good too
+
+predictions for the future
+- people will get a lot more existential
+- new religion
+
+
+message people. James He. BCG X.
+
+
+Whatever you fear becomes your crutch. E.g. death, being broke.
+
+You never finish a piece, you abandon it.
+
+starvig artist vs the content artists
+
+
+five, four, three, two, one trick
+
+
+you can't will what to will, one philosoher said
+
+do you want to be a country mouse or city mouse
+
+
+God never gives you more than you can deal with.
+
+
+https://www.youtube.com/watch?v=oCKB72gdN9g
+
+
+social media getting less popular
+
+
+https://www.youtube.com/watch?v=hBI_FLYfwmM
+
+https://www.youtube.com/watch?v=V__gmOHdRDI
+
+is pochita evil
+
+[pochita not the chainsaw devil](https://www.youtube.com/watch?v=PwsGNZZzyf8)
+
+https://www.youtube.com/watch?v=cor6YLTRbYg&t=704s
+
+https://www.youtube.com/watch?v=FNWMOEIMA9Y
+https://www.youtube.com/watch?v=xDZpWquzW6A
+
+https://www.youtube.com/watch?v=oOyQpwPrf2Q
+
+
+[how i view the US after 13 years of living in europe](https://www.youtube.com/watch?v=M1QvVnjiegE)

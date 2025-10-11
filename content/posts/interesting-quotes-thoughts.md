@@ -23,3 +23,12 @@ series = []
 - No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable. (Socrates)
 - You need 30 samples minimum for statistical relevance (so don't worry about any specific one too much)
 - You need at least two out of three to be employable: To be nice/friendly to work with, To do your work on time, To do very good quality work
+- "The man who moves a mountain begins by carrying away small stones" - Confucious 
+- Myth of Sisyphus
+- Teach a man to fish
+- The ant and the grasshopper
+- In the grand scheme of things life doesnt matter but we don't live in the grand scheme of things - hank green
+
+Philosophical 
+
+- "The only true wisdom is knowing you know nothing" Socrates

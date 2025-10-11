@@ -63,7 +63,7 @@ Anonymous. Published in The United Automobile Worker, October 1937.
 
 [^b]: Of course when you have existing capital it becomes much easier to maintain wealth through investing it again. If you do it intelligently - unlike most lottery winners.
 
-[^c]: Although the amount you need to save seems to be increasing a lot.
+[^c]: This actually can be quite achievable with smart planning. Look up FIRE and Mr Money Mustache.
 
 [^d]: In fact, the absurdly rich don't even need work or even be a CEO. They can just live off of their investments, by paying an investment firm to manage their stocks and wealth for them.
 

@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2025-08-04T14:23:50+08:00
 title = "A timeline of innovation"
 description = ""
@@ -647,3 +647,12 @@ It’s time to refocus the tech world on what matters most. It’s time to build
 We are a multi-skilled team of very experienced tech veterans and other subject-matter experts. We aim to push this effort — whether it’s by building teams to work on issues, creating bridges between ambitious experts and technologists, finding ways to fund tech initiatives, or inspiring a generation of tech people to work on these fundamentally important problems.
 
 We are in the earliest stages of forming the Hard Problems non-profit. We don’t have all of the answers, but we’ll start anyhow and learn along the way.
+
+
+
+If you were born, in the last 50 years you probably associate most of technology deveopment with information technology. However, as you can see, other science has a lot to offer the world. We will see more of this by looking at data.
+
+However this isn't true, and we can realise that by zooming out.
+
+
+We need to be okay making mistakes. E.g. Newton tried making gold
