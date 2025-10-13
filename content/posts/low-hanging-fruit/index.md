@@ -11,10 +11,7 @@ externalLink = ""
 series = []
 +++
 
-
-<!--Need to add the cover photo! -->
-
-
+<!--alt subttle - why tech is improving but lives aren't -->
 {{< figure src="fruit-photo.png" width="300">}}
 
 As a recent engineering graduate, it’s easy to think the “low-hanging fruit” of technology has already been picked. The scientific revolutions of the past—mastering physics, chemistry, and biology—gave us nuclear power, plastics, and antibiotics. Back then, inventing calculus could change the course of history; today, mastering it is merely a graduation requirement.[^course]
