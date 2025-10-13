@@ -11,6 +11,12 @@ externalLink = ""
 series = []
 +++
 
+
+<!--Need to add the cover photo! -->
+
+
+{{< figure src="fruit-photo.png" width="300">}}
+
 As a recent engineering graduate, it’s easy to think the “low-hanging fruit” of technology has already been picked. The scientific revolutions of the past—mastering physics, chemistry, and biology—gave us nuclear power, plastics, and antibiotics. Back then, inventing calculus could change the course of history; today, mastering it is merely a graduation requirement.[^course]
 
 Yet the opportunities for innovation are far from over, although we may need to look for them in other areas. In fact, the pace of technological change is accelerating. The real challenge now is not just to invent, but to guide our inventions—to steer them toward a future that benefits humanity rather than harms it. To do that, we must first understand innovation in context and its history.[^inspiration]
