@@ -14,6 +14,13 @@ series = []
 
 # Stuff I want to do
 
+
+##### stuff to catch up on/read
+
+no exit play by satre
+
+
+
 # top next stuff
 https://fs.blog/mental-models/#microeconomics
 

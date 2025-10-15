@@ -11,11 +11,11 @@ externalLink = ""
 series = []
 +++
 
+# Entering the Information Age
+#### How innovation is shifting from the physical to the virtual — and why that might not actually make life better
 
 
-# Entering the information age. How innovation is increasingly shifting from the physical to the virtual world of finance, AI and software: And why that might not actually make your life better
-
-If you look at how the uk and us economy is structured, they're increasingly trending towards service-bsaed economies. However, the difficulty with that is that increase economic productivity driven by new technology is more difficult. Hence, entrepreneurs in these countries are biased towards creating companies in the virtual world rather than the physical, which I think is an interesting area to explore and to see how much physical innovation and manufacturing has a place in our economy.
+The UK and US economies are increasingly dominated by services and the virtual world (bits) which manipulate information rather than physical goods (atoms) which manipulate energy. This shift has major implications which may not be all positive. In manufacturing economies, productivity gains came from improving physical processes — improving engines, machines, and materials. In the digital economy, however, improvements are harder to achieve and often come from optimising algorithms that recommend products, predict behaviour, or execute trades. These advances can make systems more efficient, but they don’t always translate into tangible improvements in people’s lives like the invention of vaccines and planes did before. Still, the information economy is only growing, and understanding how this virtual world shapes the physical one is becoming more important than ever.
 
 
 #### Some context: The energy age: 1 million BC to 1960
@@ -85,7 +85,9 @@ Also mention information and energy are the same thing.
 ![alt text](image-1.png)
 
 
+#### Extra resources
 
+The How money works video
 
 
 
