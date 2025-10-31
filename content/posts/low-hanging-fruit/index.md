@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2025-08-10T22:08:48+08:00
-title = "Is all the low hanging fruit gone in technolgy development? What we can do to shape innovation"
+title = "Is all the low hanging fruit gone in technology development? What we can do to shape innovation"
 description = ""
 slug = ""
 authors = []
