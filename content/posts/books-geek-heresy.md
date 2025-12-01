@@ -86,3 +86,6 @@ undifferentiated products all in the name of one overbroad goal.
 Doing something dif erent is what’s truly good for society—and it’s also what allows a business to
 profit by monopolizing a new market. The best projects are likely to be overlooked, not trumpeted by
 a crowd; the best problems to work on are often the ones nobody else even tries to solve.
+
+
+[heart, mind and will again](https://ethanding.substack.com/p/every-company-has-the-same-hiring)

@@ -4439,3 +4439,791 @@ https://www.youtube.com/watch?v=oOyQpwPrf2Q
 
 
 [how i view the US after 13 years of living in europe](https://www.youtube.com/watch?v=M1QvVnjiegE)
+
+
+
+#### 15/10/2025
+
+[The Price of Progress: What Tokyo Looks Like at 8AM](https://www.youtube.com/watch?v=FM1GtQuSXP4)
+
+
+
+https://read.gov/aesop/004.html
+
+
+https://www.youtube.com/watch?v=p5DOQdIRpnE
+
+
+
+
+
+[another good comprehensible input video - this time with coding](https://www.youtube.com/watch?v=aHZW7TuY_yo)
+
+
+
+what are the angles? internal thought process + environment and strategies
+
+ways to deal difficut things. the most difficult thing is going from zero to one.
+
+how can you practise that?
+
+-when ou have something difficult. 
+
+can do mental exercises e.g. 5,4,3,2,1, counting down
+
+7 11 breathing
+
+remember your cookie jar of difficult past things
+e.g. going to china, doing the reading for my thesis in a week, rowing and 
+
+it's not about having no fear, it's about being abel to overcome it -> improv comedy. (then i guess your threshold gets higher)
+
+one of the key indiciators of successful is the ability to delay gratification
+
+focus on zen philosophy, only now matters
+
+
+
+the other psychology thing, recognise the difference between your ego and yourself.
+
+
+
+
+when i die i want people to think that guy had good character, he lived his life ina  good way. making mistakes will be part of that.
+
+quote from the end of satre, about the shape of your life
+
+camus in myth of sisyphus 
+
+you are your actions, nothing less
+
+what actually is identity? and how can we shape it.
+
+for example, in a conversation you often say things "without thinking" e.g. habit, and there are other things you think about before saying and eb self aware.
+
+you make x decisions per day?  there are some decisions you don't make, becuase they're habit. e.g. where to put the kettle
+
+that's why starting something new is so difficult, you haven't built up all the patterns that become automatic, so that your level of abstraction becomes hgiher. e.g. working in a factory or something, need a better example
+
+(this ties to information theory)
+
+so what produces your habitual actions
+
+
+
+
+why applying for jobs always sucks - you're training yourself to fit in a box that they want. you're a tool. knoeledge tool or physical tool, it doesnt matter. only what you can produce matters.
+
+going to different fields makes me feel like i have some agency in the working space
+
+there is no hack to life to get ahead
+
+
+
+5 minute rule for procrastination
+
+we're like a rat running on autopilot in a maze, the ones who live best have the maze set up right, not the ones who think the most
+
+like flowers of algernon
+
+what is YT good for now for me?
+
+it is good for finding new ideas/new ways of thinking. e.g. some motivation stuff, like the thing i learnt about KDP earlier, or the starter story thing i learnt about too
+
+
+
+like the overemployed guy
+
+or the philosophy guy
+
+inspiratiion
+
+like niko going to talk to the protestors and stuff
+
+can also get inspiration from other things.
+
+i also need some form of information nput i think (hence why books are good maybe. or just like brainrot idk.)
+
+. so i can maybe check in every month or smthn.
+
+
+
+cool dance videos make me feel like im learning how to dance when im not tho
+
+
+or like how money works, and atrioc and 
+
+squatuniversity tips too
+
+dont live in fear, break through glass ceilings
+
+it's not just effort in the 1 to n, you also have to be creative in where you start/where you choose your 1 to be
+
+
+[How I made $335 from my IOS app - lock in](https://www.youtube.com/watch?v=NiizRIRfABg)
+
+
+guy is basically doing the basics of business really
+
+
+[LSW mind cards](https://lswmindcards.com/?srsltid=AfmBOoqQzkxe3mqVjbtoaK2B4yw24qeskNqW2uAzsh032UxVIF0odRIe)
+
+
+this business makes at least £20,000 a year. if not £100,000
+
+
+swapping life with a dog
+
+
+[the problem with self help gurus](https://www.youtube.com/watch?v=9rH5eJCjhtg&t=13s)
+
+
+people literally go online for help instead of their friends
+
+
+those spotify vids i saved about navigating work culture
+
+that old bald guy arthur brooks is also useful
+
+
+
+influencer marketing
+
+self help
+
+fashion
+
+content creator
+
+people can sell stuff that isn't even useful
+you can explain the positive /details of the product within the video, people take money for sponsors
+
+gymshark
+
+self help courses e.g. the careers channel
+
+being able to market fitness courses
+
+algorithm marketing is already big, but i think it will get better (potentially until regulation)
+
+even movies use it
+
+nike vs gymshark
+
+
+are parasocial bonds bad? 
+
+not if they're completely one way
+
+
+we have so many relationships with people that we've never seen in real life.
+
+we know the names of more people that we've never met in real life than we have.
+
+that already existed with books and stuff
+
+self help is basically making the information stuff entertaining, you can do both actually
+
+but they combine the useful content with manipulative content
+
+
+the problem with self help isnt making the content, it's because of the manipulation in getting people to pay and people masquerading behind the persona of one person, when they're not being authenthic.
+e..g kind of like the music industry
+
+
+
+The Hare Krishna movement, as it was often called, grew in the 1960s by appealing to people disillusioned with the hedonism of counterculture. Instead of free love and psychedelics, Krishnas seek enlightenment through self-denial. Drugs, alcohol, illicit sex, caffeine and meat are explicitly forbidden. To achieve transcendence, they chant the group’s signature mantra.
+
+
+hedonism isn't the answer
+
+but neither is self transendence
+
+like people in my dog story wanting to become like the dog, but they can't because their minds still think
+
+or people who remove their inner dog
+
+really interesting that the same cycles of philosophies come up again and again like heondism in th 60s, and hedonism in greek times with dionysius
+
+i wonder if any viewpoint will ever win out/whether it will keep tending towards whichever geography allows/whether existentialism or something will come up true
+
+you've already failed, reaching perfection, by making the most of all your opportunities, by being the best. you're not top of the world by 22. the next best thing you can do is try.
+
+
+[good hell is other people video](https://www.youtube.com/watch?v=vQ34LdNhxLc)
+
+
+
+‘So perhaps hell is other people, but hell is also ourselves when we mistake our egos for our souls’… extremely well put! 😊
+
+
+
+This is the core of why narcissistic abuse causes such issues when it’s from childhood; the toxic parent raises the child as a hell mirror.
+
+
+ 'We Learn Nothing':
+
+Years ago a friend of mine and I used to frequent a market in Baltimore where we would eat oysters and drink Very Large Beers from 32-ounce styrofoam cups. One of the regulars there had the worst toupee in the world, a comical little wig taped in place on the top of his head. Looking at this man and drinking our VLBs, we developed the concept of the Soul Toupee.
+
+Each of us has a Soul Toupee. The Soul Toupee is that thing about ourselves we are most deeply embarrassed by and like to think we have cunningly concealed from the world, but which is, in fact, pitifully obvious to everybody who knows us. Contemplating one’s own Soul Toupee is not an exercise for the fainthearted.
+
+Most of the time other people don’t even get why our Soul Toupee is any big deal or a cause of such evident deep shame to us but they can tell that it is because of our inept, transparent efforts to cover it up, which only call more attention to it and to our self-consciousness about it, and so they gently pretend not to notice it. Meanwhile we’re standing there with our little rigid spongelike square of hair pasted on our heads thinking: Heh – got ‘em all fooled!”
+#
+
+[how nipsey hussle stole apple's entire business model](https://www.youtube.com/watch?v=b_6vQOnQ8U8)
+
+
+
+the best people are self managing- once you tell them what to do, they'll figure out how to do it
+
+
+mario kart ghosts but in AR
+
+you can create tech that people aren't ready for
+
+
+[wilson wye storyful life](https://www.youtube.com/watch?v=61S5fAuZe64)
+
+
+
+
+chaging someones mind by appealing to their desires/frame of mind e.g. if someone is nationalistic, wouldnt someone who's nationalistic care about xyz...
+
+
+[171 years of writing knowledge in 90 minutes](https://www.youtube.com/watch?v=MRSbF31Yw_A)
+
+
+
+difficulty of learning to code vs learning to write reflects the difference in how our brain works
+
+
+
+[this guys note taking system is just bullet journal basically hm](https://www.youtube.com/watch?v=mq0XvGPSm9w)
+
+
+
+i want my diar to be organised by month, and then be able to tag each bullent/line or section to be able to find a collection of them
+
+e.g. YT videos
+
+
+Do note one thing, don't get lost in the seat of choices. If you waste time trying and jumping between apps you'll go nowhere. No app is perfect. A skilled warrior can do with a weaker weapon, but an unfocused warrior will fall even with the best ones.
+
+semantic search for notes too?
+
+
+the biggest bluff seems like an interesting book
+
+story book i will definitely read
+
+icanstudy seems useful, it's about £100 for four months which seems worth it
+
+
+-> watch the PhD note taking system videos first, also maybe pivot from this markdown structure to 
+
+
+
+
+then can do 
+
+
+
+
+
+[fun efficient PhD note taking system](https://www.youtube.com/watch?v=L9SLlxaEEXY)
+
+
+[how to read and take notes like a PhD ](https://www.youtube.com/watch?v=GrC2vS9j30g)
+
+
+
+[studying my masters in 1/6th of the time](https://www.youtube.com/watch?v=TmVsYQ4WSHc)
+
+
+
+for my app -> people dont want endless customisabilty, they want good UX mainly, and decreased cognitive workload
+
+for BuJo that's a bit simple cus the system sis simple
+
+
+yh i dont care about making connections while writing in the obsidian sense to make a super complicated graph, but more to connect a bunch of different ideas to theme
+
+not really leaf-> leaf -> leaf
+or random node-> random node -> random node
+but to connect a bunch of nodes into root nodes.
+
+
+maybe while i'm writing stuff will link together too in more complicated/nuanced ways, but i think that i dont need to add those connections explictly yet
+
+there's also some stuff that's interesting but maybe not worth putting in priamry/core note knowledge idk
+
+like nipsey husttle vertical integration like apple
+
+
+
+https://www.youtube.com/watch?v=1mVRozDLHgk
+
+https://www.youtube.com/watch?v=5cbQudbxHi4
+
+
+i havent had to learn that much like wordy based knowledge recently, like reading a lot of dense books or lecture notes. so i feel like maybe i also need an envornment like taht to test it, most of my writing so far hasnt needed advanced note taking i thinkkk, mostly work my viewpoint/what i want to say out while writing
+
+
+people want to read resumes and be like oh he can already do the job ig
+
+
+[really enjoyed this video. exposed Jay SHetty a bit too lol](https://www.youtube.com/watch?v=9rH5eJCjhtg&t=13s)
+
+
+[goggins responds to deadbeat data claims](https://www.youtube.com/watch?v=EOzMr59lJVs)
+
+the guy who made the chicago video
+
+[amazon kdp books](https://www.youtube.com/watch?v=V1FC52U5ztA)
+
+
+watched good video from primetime about how paypal almost went down because of secutity password thing
+
+
+[You're not crazy, being a small creator is hard(er)](https://www.youtube.com/watch?v=t0YRgVuXwAA)
+
+
+[billionaires want you to know they could have done physics](https://www.youtube.com/watch?v=GmJI6qIqURA)
+
+unbeatable game - cool rhythm game
+
+i went to dubai and they run on s***ves
+
+
+did the anthpo music challenges thing to reach no 1, nano
+
+
+[anyone can be mentally tough. it's easy - plank every day guy](https://www.youtube.com/watch?v=Ea0fUDES1Hc)
+
+
+[selling digital](https://www.youtube.com/watch?v=6NE2Shwr9gk)
+
+[anime motivation](https://www.youtube.com/watch?v=HR0tggNVxXc)
+
+[free99 full circle boys](https://www.youtube.com/shorts/ax6OGKX1Il8)
+
+[jorja smith with you](https://www.youtube.com/watch?v=anSkAZx5oxU&list=RDanSkAZx5oxU&start_radio=1)
+
+
+the guy who wanted to increase the slop ification of the internet
+
+[edwrd tian - profitable and it makes bank](https://edwardtian.com/code.html)
+
+graduated in 2023
+zeroGPT made xyz amount of money for checking stuff from temperature lol, i should be able to figure out something!
+
+[this book made me realise how empty my life was](https://www.youtube.com/watch?v=61S5fAuZe64)
+
+
+
+https://www.youtube.com/watch?v=MDW8TK-z9X4
+
+send this to that guy on linked in- some guy buileding resumaz
+
+
+[this is more like typical job application for ML engineer](https://jobs.ashbyhq.com/faculty/cab40830-0032-4d15-bd27-96312ef2551f?source=Linkedin)
+
+
+
+
+
+
+[1B startup in 24 hours - i like this video. simple editing lol with big text and good music](https://www.youtube.com/watch?v=wa1iY3ZQKRA)
+
+
+
+read the best obooks first. how do you measure best. supply and demand, how many languages translated into, a curated list
+
+
+are we more free in the west? with phones manipulating us and cancel culture and stuff, one has to tolerate every belief
+
+remembered that cartoon racing game i used to play on cbbc or something, with blue kid with blonde hair and pink girl and differnt traps. came from a tv show too
+
+
+athletic greens is almost all marketing spend wich is crazy, people care about health so much
+
+
+reading storyworthy and the story about his wife knowing that he was sometimes hungry as a child and reading no exit (and comments under the video) talking about hell is other people
+
+partially made me realise, my attitude of being able to be quiet, partially not wanting to stand out and absorb the energy of a room/blend in and also to an extent conform to other people's expectations is becuase of my mirroring tendencies before growing up with narcisssism/a narcisistic parent
+
+
+#### 5/11/2025
+
+[cool conference badge](https://www.youtube.com/watch?v=_jPm_zN95FE)
+
+[bboy run is very cool](https://www.youtube.com/shorts/V3TcGU3-u_w)
+
+[vinted is another billion dollar company](https://www.bbc.co.uk/bitesize/articles/zttrp9q)
+
+[pareto early careers](https://www.pareto.co.uk/job-seekers/early-careers-faqs)
+
+[some random thing about consulting business](https://www.youtube.com/watch?v=xmJ51DnaD_E)
+
+Note: read into sales stuff later
+
+[really interesting thread about the struggles of HENRYs (High Earners not rich yet)](https://www.reddit.com/r/HENRYUK/comments/1okz54a/top_incomes_in_the_uk_are_no_longer_among_the/)
+
+In the UK less than 1% of the population owns half of all land in England - approximately 25,000 people. The breakdown is striking:
+
+The aristocracy and gentry own 30% of England's land
+
+Corporations own 18%
+
+Oligarchs and bankers own 17%
+
+Homeowners, despite numbering 15.1 million, own just 5% of the land
+
+In the UK the aristocracy owns 1/3 of all lands. Let that sink in.
+
+https://www.theguardian.com/money/2019/apr/17/who-owns-england-thousand-secret-landowners-author
+
+[led to this intersting thread that someone linked](https://lesbarclays.substack.com/p/whats-gone-wrong-with-britains-capital)
+
+
+Brexit ended “passporting rights” : Before Brexit, UK-based banks and firms could sell financial services freely across the EU. Once that ended, companies had to set up offices inside the EU to keep access to clients.
+
+High-paying roles moved abroad as many big firms shifted parts of their operations and top jobs to EU cities:
+
+•	Frankfurt: Investment banking, risk, and compliance
+
+•	Paris: Trading, wealth management, derivatives
+
+•	Dublin & Amsterdam: Funds, fintech, and insurance
+Examples:
+
+• J.P. Morgan moved ~€200bn in assets to Frankfurt
+
+•	Goldman Sachs doubled staff in Paris
+
+•	Citi, Morgan Stanley, Barclays, and others followed suit
+That means thousands of six and seven-figure salaries that used to be in London are now on EU payrolls. Losing even a few thousand top earners skews the numbers.
+
+
+[cool dance videos](https://www.youtube.com/shorts/0BgpLDWQSck)
+
+ABC D EFG -  hawkeye innovations
+
+
+
+
+[found codepath advice on getting into tech through this guys content](https://github.com/lrmantovani10?tab=repositories)
+
+
+[500 days of chasing my dreams justin shen - v cool](https://www.youtube.com/watch?v=cL_-TmEIgsw)
+
+
+[watch me book 10 sales calls in 10 hours](https://www.youtube.com/watch?v=CkTX95lULYs)
+
+
+[steve jobs- gap between good and great talent](https://www.youtube.com/shorts/bXX8Hvch2WM)
+
+
+
+[this guy made a very simple app and made 335 dollars](https://www.youtube.com/watch?v=NiizRIRfABg)
+
+
+interesting viewing stuff on Skool as well, like how to be masculine from hamza for example
+
+
+that github page from brzilian meta superintelligence lab had good codepath advice
+
+also the conversational AI/turn taking thing was quite cool, want to read how they did that
+
+
+https://www.youtube.com/watch?v=BDqp9ObHOGc&list=RDBDqp9ObHOGc&start_radio=1
+
+https://www.youtube.com/watch?v=oa4eB7umnB8
+
+[we shouldnt talk about politics](https://www.youtube.com/watch?v=4ifvTtl5lFY)
+
+
+[code path resources](https://github.com/codepath/student-career-handbook/blob/master/software-engineering/exploring-system-architecture.md)
+
+
+[esp32 DIY AI Voice assisstant](https://www.youtube.com/watch?v=MMQMG_purmE)
+
+
+[AI on raspbery Pi](https://www.youtube.com/watch?v=kFmhSTh167U)
+
+
+that one guy who made his own router and tried navigating the world using AI, interesting
+
+
+https://job-boards.eu.greenhouse.io/speechmatics/jobs/4660424101?gh_src=e3010642teu
+
+[18 davinci resolve hacks](https://www.youtube.com/watch?v=iqNykpohDKM)
+
+
+
+[i like the music in this dougdoug vidoe](https://youtu.be/k4VDsidZmQ8?si=U8XSMwnmtRl5t7nA&t=1506)
+
+
+
+[nextwork for coding projects](https://www.nextwork.org/roadmaps)
+
+
+[i crossed the continent using only public transport](https://www.youtube.com/watch?v=afoeoe-7CCs)
+
+[steam keeps winning](https://www.youtube.com/watch?v=hbHOUXCXPLY)
+
+
+[running with posterior chain](https://www.youtube.com/shorts/gs3m3u8vDCU)
+
+[cool hardware startup lab](https://www.youtube.com/watch?v=PRRxgMWTUjU)
+
+
+[the collapse of modern consulting ](https://www.youtube.com/watch?v=ysEAIIHzvXo)
+
+
+[shopify principal engineer](https://www.youtube.com/watch?v=rY44ViY45q8)
+
+
+[taekwondo splits](https://www.youtube.com/shorts/pcYjpgsStsI)
+
+
+[stufff](https://www.youtube.com/watch?v=A_7ezTSjZmo)
+
+
+[resume review](https://www.youtube.com/watch?v=VSK2CoqgLmI)
+
+
+[chase the world](https://www.youtube.com/shorts/bJGFYWJoTlA)
+
+
+[cool jojo poses](https://www.youtube.com/shorts/nVGf4FPxzgE)
+
+
+[Michael jackson biopic](https://www.youtube.com/watch?v=lIMj2ZRpo1M)
+
+[dance baby shark](https://www.youtube.com/watch?v=hbfl4Rhsm3w&list=RDhbfl4Rhsm3w&start_radio=1)
+
+
+
+[data science resume project examples](https://www.youtube.com/watch?v=3b--y2QjH3s)
+
+
+
+e.g. implement LoRA
+
+and image is worth 16 x 16 words
+
+
+[crossing continent with public transport - WATCH THIS FOR INSPO!](https://www.youtube.com/watch?v=afoeoe-7CCs)
+
+
+the genius of the louvre heist hank green
+
+
+
+
+lighted to host our annual Engineering Leaders Scholarship Conference, marking an extra special milestone: 30 years of the award! The award is now as old as me! 🎉
+
+
+life is art YT video
+
+
+[this guy seems cool, his linkedin is where i got the codepath github from](https://www.linkedin.com/in/lucas-mantovani-a446a61a9/)
+
+
+
+https://fortune.com/2025/04/10/meta-ai-research-lab-fair-questions-departures-future-yann-lecun-new-beginning/
+
+
+Many of the employees, who include ex–FAIR researchers, say the organization has been slowly but surely withering in recent years as “blue sky” research (that is, fundamental research that seeks new knowledge without necessarily focusing on immediate practical applications or commercial gains) within Big Tech companies has slowed.
+
+
+-interesting take that research in Big Tech is slowing
+
+
+
+
+
+[I Open-Sourced My Failed Chrome Extension… But Did Not Expect This](https://www.youtube.com/watch?v=XRzRGNPaGt8)
+
+- good video, maybe d a similar extension for managing yahoo inbox
+
+
+[breakdance capoeira skills](https://www.youtube.com/shorts/FE1SvCsDXb0)
+
+
+i open sourced my failed chrom extension
+
+
+global externaltiies is my thing for world self consciousness
+
+
+
+[heart, mind and will again](https://ethanding.substack.com/p/every-company-has-the-same-hiring)
+
+
+
+[i really enjoyed this video about how not to build a startup by matt and ari - great colour grading too](https://www.youtube.com/watch?v=n8PtYmpDixU&t=1s)
+
+[different tutorial hell](https://www.youtube.com/watch?v=_BWNvRq0a74)
+
+
+[design bit.ly](https://www.youtube.com/watch?v=qSJAvd5Mgio&t=1898s)
+
+[design rate limiter](https://www.youtube.com/watch?v=vPRd0ShPtEE)
+
+
+[try affinity photo instead of photoshop](https://www.youtube.com/watch?v=vPRd0ShPtEE)
+
+
+[LSTM stock predictor which is cool - goes pretty in depth too](https://www.youtube.com/watch?v=V2l7cZxUpQs)
+
+[purpose and profit dan koe book](https://letters.thedankoe.com/p/purpose-and-profit-a-guide-to-discovering/comments)
+36 months to make it
+
+
+
+https://www.youtube.com/watch?v=-oy55UWlbdw
+
+[graph of wikipedia](https://www.youtube.com/watch?v=JheGL6uSF-4)
+
+would be cool to build something to crawl wikipedia or smthn
+-perch app wants to crawl all writing
+
+
+[flask tutorial](https://www.youtube.com/watch?v=v3CSQkPJtAc)
+
+
+[building own youtube search algorithm](https://www.youtube.com/watch?v=itQVkUqcems)
+
+[docsGPT is cool too](https://www.youtube.com/live/5QQaFFu9BC8)
+
+
+[look at incontext lora](https://github.com/ali-vilab/In-Context-LoRA)
+
+https://huggingface.co/ysmao/multiview-incontext
+
+[LoRa multi angle with jealous boyfriend meme](https://x.com/cfryant/status/1986545571457585584)
+https://www.youtube.com/watch?v=VCc2_suVcZ4
+
+
+[palantir about killing people](https://x.com/stellabelle/status/1988456964506919002)
+
+[book suggestions- how the world really works](https://x.com/netcapgirl/status/1589685449014267904)
+
+[the world for sale - about global trade in commodity markets like oil](https://x.com/netcapgirl/status/1631366920719982597)
+
+-understanding our dependence on oil
+
+[learning from failure - my first game was dogsh*t, my 2nd game made $70,000 (the difference)](https://www.youtube.com/watch?v=NNeFz2EZwRE)
+
+
+high output management too
+
+the anime which taught me how to live - good YT video
+
+https://www.youtube.com/watch?v=CHH4kaOmPbs
+
+
+https://www.meta.com/gb/portal/?srsltid=AfmBOornl9OZkPHz4rKBxW_6DmO_FQo6yasitu2luP6RgZsnFVmwNuv_
+
+meta portal is similar to the idea i had before about video voicemail
+
+[oni melee combat game](https://www.youtube.com/watch?v=0Pyrb6hireU)
+
+[remotely monitor 3D printer](https://www.youtube.com/watch?v=2Q3xwvFH0QQ)
+
+nextwork video was okay but not great
+
+watch that bond market video
+
+[marlon background story](https://www.youtube.com/watch?v=h7f9bFSyymY)
+
+
+
+kinda fumbled OC and C online test and questions yday
+
+
+why do you want to work for OC and C
+
+improving product range of pet food company
+
+expanding into new market for cosmetics company with natural ingredients from austrial to south asia
+
+
+
+stuff to do today:
+
+- system design
+
+-algo stuff
+ - do JP Morgan test
+
+- CV for palantir
+
+- driving license change
+
+
+- submit ELS report at night
+
+
+post about the housing news thing
+
+
+message Arnaud on whatsapp
+
+
+need to apply for more places e.g. thorogood, hawkeye, vodafone and stuff this week too
+
+
+lichess stuff- impressive how computing has scaled, e.g. NASA, chess engines
+
+	
+lhorie on Jan 16, 2022 | parent | next [–]
+
+FWIW, in the earlier days of lichess, IIRC when it had barely broken the Alexa top 10,000 threshold, lichess ran on like 2 boxes despite serving millions of users.
+There's a good chance that many AWS slinging devs here have not actually had to deal with the volume of traffic that lichess sees. Half a mil yearly to run the entire lichess infrastructure, including dev salary and providing stockfish analysis for every user for free takes an insanely efficient setup that most big tech companies could only dream of.
+
+
+	
+Tenoke on Jan 16, 2022 | root | parent | next [–]
+
+> providing stockfish analysis for every user for free
+Edit: As discussed in another subthread most of the analysis happens in the user's browser, the rest is run via a fishnet by volunteers.
+
+
+	
+lhorie on Jan 16, 2022 | root | parent | next [–]
+
+While we're in the topic of impressive technological achievements, it's probably also worth mentioning how crazy it is that just a few decades ago, Deep Blue running on a supercomputer was the state of art in chess analysis, and nowadays we can just casually say, oh lichess runs stockfish on users' phones via wasm to cut on server costs.
+        
+
+also denormalising for justin beiber instagram likes lol, isntead of having to count over all rows
+
+joins arent necessarily bad, but are really bad for distributed systems where data stored on multiple servers and data can be siloed per team
+
+firefly.io pizza box story manually taking meeting notes
+
+
+### 27/11/2025
+
+Stuff to do
+
+Maybe write up BCG data analysis a bit
+
+apply to more jobs
+
+RAEng report
+
+
+
+
+matlab (sunday)
+hawkeye (monday)
+- good skills useful to big tech later
+want to do reply quickly before weekend too
+
+can technically do vodafone after dec 1
+
+and big tech stuff/data science stuff too, revolut, tiktok, 
+
