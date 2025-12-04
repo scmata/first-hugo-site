@@ -15,7 +15,9 @@ series = []
 
 {{< figure src="cover1.png"  width="600" caption="Visualisation of the shot tracker system">}}
 
-In my last year of high school over a couple of months in 2021 I designed a system for tracking a player's basketball shooting percentages at different positions on the court. The inspiration for this came from my interest in basketball, desire to learn more practical engineering before my university course and inspiration from popular engineering creators. Additionally, I entered it into the 2021 Big Bang competition and won a scholarship to attend the 61st London International Youth Science Forum. This project was a lot of fun, and I learnt a lot about each stage of the project lifecycle while working with a very small budget. Four years of experience and an engineering degree later, I see how every part of the process could be improved. We'll see if I revisit it...
+In my last year of high school over 5 weeks in 2021 I designed a system for tracking a player's basketball shooting percentages at different positions on the court. The inspiration for this came from my interest in basketball, desire to learn more practical engineering before my university course and inspiration from popular engineering creators. Furthermore, I saw how analytics is useful for performance and engagement in sports such as running and weightlifting, and I wanted to bring this experience to basketball.
+
+I entered this project into the 2021 Big Bang competition and won a scholarship to attend the 61st London International Youth Science Forum. This project was a lot of fun, and I learnt a lot about each stage of the project lifecycle while working with a very small budget. Four years of experience and an engineering degree later, I see how every part of the process could be improved. We'll see if I revisit it...
 
 
 <!-- 
@@ -40,7 +42,7 @@ Summary of the project and the competition. Skills I learnt/technologies I used 
 
 # Project output
 
-{{< figure src="image-2.png"  width="600" caption="The collection of all prototype modules designed. Total parts cost approx. £60">}}
+{{< figure src="modules.png"  width="600" caption="The collection of all prototype modules designed. Total parts cost approx. £60">}}
 
 The main output was a tool that could track shooting percentages at different positions on the basketball court. The idea is that this could be used to track progress over time and highlight strengths/weaknesses.
 
@@ -56,51 +58,87 @@ If I had to do this project again, I would find a user need and validate it with
 
 # Project phases
 
-## 1. Problem definition and early research
+## 1. Problem definition and early research into positioning technology
 
 - Project scope: Tracking a basketball player's shooting accuracy from different positions on the court to track player performance
-
 - Functional requirements: 
     - Track player position on the court in real time.
     - Label whether a shot was made or missed (either manually or automatically)
     - Associate each shot with the correct court position
     - The system should not interfere with the player's movement
-
 - Non-functional requirements:
     - Low cost: < £200 budget
     - Portable and easy to set up on any court, including outdoors
     - (If wearable module used) Lightweight and comfortable wearable module
-
-- Survey of existing indoor positining technologies:
+- Survey of existing indoor positioning technologies:
+    - Key variables: Range, precision, cost
     - Time-of-Flight sensors: accurate but expensive. Less reliable outdoors and depth range up to 5m.
-    - Computer vision: Can have high accuracy but setting up the camera is more complex for different court types
-    - UWB: High accuracy but too expensive
+    - Computer vision: Can have high precision but setting up the camera is more complex for different court types
+    - UWB: High precision but too expensive
     - Bluetooth/Wifi Signal Strength: Cheap and widely available. Sensors for robust design widely available but signal is noisy.
-    - Ultrasound: Too low accuracy
+    - Ultrasound: Too low precision
     - Existing commercial technologies: Looked through ShotTracker patents to understand imaging technology
-
-Outcome:
-- Decided to create a BLE-based positioning system with a manual shot logging system, which best matched the design constraints and resources available to me.
+- **Outcome**: Decided to create a BLE-based positioning system with a manual shot logging system, which best matched the design constraints and resources available to me.
 
 
-## 2. Hardware exploration and selection
+## 2. Hardware exploration and exploration into input modality
 
-Coming soon...
+{{< figure src="CAD1.png"  width="400" caption="CAD render of another iteration of the wristband module">}}
+
+- Microcontroller research
+    - Compared properties of different microcontrollers (ESP32, Arduino Nano etc.)
+    - **Decision**: _Arduino Nano 33 BLE for wristband module, Arduino Nano + HM10 BLE modules for beacons_
+- Input modality research
+    - Conductive rubber keypad
+    - Tactile push buttons
+    - Capacitive touch sensors
+    - IMU-based detection of shot motion
+    - Image detection of ball at the rim
+    - Force-sensitive resistors
+    - Wearable electronics
+    - **Decision**: _Integrated a force-sensitive resistor due to large sensing area which enables more natural interaction and less precise input (with vibration motor as feedback)_
 
 ## 3. System design and algorithm development
 
-Coming soon...
+{{< figure src="screenshot.png"  width="200" caption="Screenshot of the Andorid application">}}
+
+- System architecture
+    - 3 BLE beacons connect to wristband module
+    - Wristband module continuously stores signal strength from each beacon
+    - When a shot is completed, signal information is broadcast to phone through another bluetooth connection
+    - Phone calculates shot position and stores outcome at that position
+- Data acquisition process
+    - Because of 2-5m accuracy of BLE RSSI, decided to collect RSSI values for 8 different positions on the court as a balance between information and accuracy
+- Positioning algorithm
+    - Because RSSI doesn't follow clear inverse square law decay which prevents analytical models working, switched to K-Nearest Neighbor because it works well with small datasets, it handles noisy spatial data and it's simple to implement and visualise
+- Model training and evaluation
+    - ~5 minutes of labeled data per court allowed KNN to achieve good accuracy
+- Shot event processing
+    - Single tap = shot missed, Double tap = shot made
+- Jump height detection
+    - By attaching wristband module to waist, jump height can be measured by using accelerometer on the device
+
 
 ## 4. Testing and validation
 
-Coming soon...
+{{< figure src="shot-motion.png"  width="700" caption="Future work could likely use accelerometer data like this to automatically detect shooting motions">}}
 
-## Design images
+- Indoor court testing with friends
+    - Set up beacons around the court and wore the device while shooting from different positions
+- Measurement of accuracy
+    - Positioning accuracy assessed by comparing predicted vs. true positions
+    - 90% accuracy reached
+- UX feedback
+    - Comfort of wristband
+    - Integration of device use into player performance
+    - Ease of remembering tap patterns
+- Performance summary
+    - Position prediction is accurate after training, with reliable shot logging
+    - Further testing needed on different court and environment conditions, over a greater time span
 
-![alt text](image.png)
+## Outcome
 
-![alt text](image-1.png)
-
+A fully functional proof-of-concept capable of tracking shooting percentages across court regions, validated through real shooting sessions.
 
 
 <!-- 
@@ -113,37 +151,6 @@ Input modality
 Positioning technology
 
 
-
-## **2. Hardware Exploration & Selection**
-
-Once the approach was decided, I explored hardware options and built the first prototypes.
-
-### **Activities**
-
-* **Microcontroller research (Arduino Nano, ESP32, etc.):**
-  Ultimately selected a microcontroller with BLE capability due to ease of use and available documentation.
-* **Selecting BLE beacons:**
-  Tested multiple BLE modules, comparing:
-
-  * signal stability
-  * power consumption
-  * range across a full-size basketball court
-* **Investigating input methods to log shots:**
-
-  * Push buttons (inconsistent + risk of accidental activation)
-  * Capacitive touch sensors
-  * IMU-based detection of wrist flick (too noisy + gesture-specific)
-    Settled on **tap / double-tap via capacitive sensing**, which was simple and reliable.
-* **Mechanical considerations:**
-
-  * Designed a form factor small enough to fit under a sweatband.
-  * Ensured robustness against sweat and impact.
-
-### **Outcome**
-
-A prototype hardware stack: BLE receiver on the wrist module + BLE beacons placed around the court + simple haptic-style input for shot logging.
-
----
 
 ## **3. System Design & Algorithm Development**
 
@@ -215,6 +222,46 @@ The final phase involved collecting real data to see if the system worked in pra
 A fully functional proof-of-concept capable of tracking shooting percentages across court regions, validated through real shooting sessions.
 
 
+## **3. System Design & Algorithm Development**
+
+This phase focused on structuring the end-to-end pipeline from data collection to position prediction.
+
+### **Activities**
+
+* **Architecting the system:**
+
+  * BLE beacons broadcast signal strength.
+  * Wearable module collects RSSI values.
+  * Module logs taps for made/missed shots.
+  * Laptop/desktop performs training + classification.
+* **Data acquisition for positioning:**
+  Collected RSSI values at 10 carefully chosen points on the court (3-point line corners, wings, top of key, mid-range positions, etc.).
+* **Choosing a positioning algorithm:**
+  Since RSSI doesn't follow a clean mathematical decay, simple analytical models failed.
+  Switched to **K-Nearest Neighbour (KNN)** because:
+
+  * It works well with small datasets.
+  * It handles noisy spatial data.
+  * It’s simple to implement and visualize.
+* **Model training and evaluation:**
+
+  * ~5 minutes of labeled data per court allowed KNN to achieve surprisingly good accuracy.
+  * Cross-court interference and multipath effects required smoothing and filtering.
+* **Shot event processing:**
+  Implemented:
+
+  * Single tap = shot missed
+  * Double tap = shot made
+  * Timestamp matching to the nearest predicted position.
+
+### **Outcome**
+
+A functional position-estimation pipeline and a working prototype linking positions to shot outcomes.
+
+---
+
+
+
 -->
 
 
@@ -222,41 +269,7 @@ A fully functional proof-of-concept capable of tracking shooting percentages acr
 
 
 
-
-
-<!-- 
-## **1. Problem Definition & Early Research**
-
-This phase focused on understanding what the system should achieve and exploring feasible technical approaches.
-
-### **Activities**
-
-* **Clarifying the intended outcome:**
-  I wanted to track a basketball player’s shooting accuracy from different points on the court to better understand strengths and weaknesses.
-* **Identifying functional requirements:**
-
-  * Track player position on the court in real time.
-  * Allow the player to log a made/missed shot.
-  * Associate each shot with the correct court position.
-  * Operate without interfering with the player's movement.
-* **Identifying non-functional requirements:**
-
-  * Low cost — <£X budget.
-  * Portable and easy to set up on any court.
-  * Lightweight and comfortable wearable module.
-* **Surveying existing indoor positioning technologies:**
-
-  * **Time-of-Flight (ToF)** sensors — accurate but expensive and required more hardware than feasible.
-  * **Computer vision** — too compute-heavy and needed cameras/line of sight.
-  * **UWB** — high accuracy but unaffordable on a student budget.
-  * **Bluetooth RSSI** — cheap, available, but noisy. Ultimately chosen as the most practical option.
-* **Benchmarking existing commercial solutions:**
-  Looked into products like ShotTracker and Noah, but these were either proprietary or used infrastructure I couldn’t replicate on a small budget.
-
-### **Outcome**
-
-A clear decision to build a **BLE-based positioning + tap-to-log wearable system**, even with its limitations, because it was the most achievable for a high-school-level project.
-
+<!--
 - Research into defining the project
     - Defining desired functional requirements (tracking positions, shots)
     - Research into existing positiong technologies (ToF, Imaging, )
